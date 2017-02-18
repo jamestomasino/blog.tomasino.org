@@ -1,0 +1,4 @@
+baseurl = "https://blog.tomasino.org"
+title = "Tomasino Blog"
+languageCode = "en-us"
+theme = "blank"
