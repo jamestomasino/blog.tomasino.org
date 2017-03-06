@@ -3,6 +3,8 @@ title: "Quotes and Copyrights"
 date: "2009-04-29"
 author: "tomasino"
 slug: "quotes-and-copyrights"
+tags:
+- None
 ---
 
 Scripture, Religious Texts, and Religious Authors
