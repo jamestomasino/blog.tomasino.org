@@ -57,6 +57,12 @@ If this sounds interesting to you, you can use my [YourKarma] link to get $10 of
 
 I'm not cutting off Sprint just yet. I'll be running in Airplane mode with WiFi enabled for the next month or two getting a feel for the rough spots before I go all-in. I expect some dropped calls and awkwardness here and there, but for the grand total bill of $45.49/month I think I can deal.
 
+## Update March 6, 2017
+
+Well that plan didn't last long. Once the Karma arrived I gave the no-phone thing a solid two weeks of trial before I had to abandon the project. Why? Mobile hotspots do not deliver reliable, fast internet access. They may claim to do so, they may have numbers that suggest it's true, but it just doesn't work in practice. I was not able to maintain a Skype call or Google Voice on that connection for any length of time. Often my coverage would vanish completely in the same location it had worked previously. All-in-all, the technology wasn't up to the challenge.
+
+In case you're wondering, I have since migrated over to Google's Project Fi. It's a pretty sweet service which I've been more than happy with.
+
   [Goodbye Phone]: //blog.tomasino.org/images/goodbye-phone.jpg
     "Goodbye Phone"
   [YourKarma]: //yourkarma.com/invite/james32844
