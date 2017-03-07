@@ -45,6 +45,11 @@ Participants use the workbook provided to guide meditations and exercises throug
 
 It's day two and I'm really enjoying the experience so far. I'll be sharing more thoughts in a retrospective at the end of the week.
 
+## Update March 6th, 2017
+
+Did I say I'd give an update at the end of the week? Well, that certainly didn't happen. Honestly, I wasn't able to stick to the workbook for the entire week due to ... I'm not even sure anymore. It was probably work, but I can't say for certain. I do know that I enjoyed every bit of the effort I put in.
+
+Since StoicCon I keep a copy of one of the stoic texts with me in my work bag. Each day--or very nearly--I try to read a little bit and use it as a meditation for that day. Meditations and the Enchiridion are my favorites for this purpose. The style of the writing works well for quick-hit meditation.
 
   [Stoic Week]: http://modernstoicism.com/
     "Stoic Week"
