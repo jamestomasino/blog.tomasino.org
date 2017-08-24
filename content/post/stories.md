@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Stories"
 date: "2009-01-25"
 author: "tomasino"

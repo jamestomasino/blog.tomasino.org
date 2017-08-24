@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Cross Country Skiing"
 date: "2007-02-14"
 author: "tomasino"

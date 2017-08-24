@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Madamoiselle Dobigny"
 date: "2004-12-01"
 author: "tomasino"

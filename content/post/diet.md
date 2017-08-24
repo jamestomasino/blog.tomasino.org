@@ -1,7 +1,6 @@
 ---
 author: tomasino
 date: 2017-03-06T17:57:52-05:00
-layout: post
 tags:
 - Diet
 - Health

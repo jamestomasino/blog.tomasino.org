@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Apples"
 date: "2008-04-09"
 author: "tomasino"

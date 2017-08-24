@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Dark Night of the Soul"
 date: "2009-05-25"
 author: "tomasino"

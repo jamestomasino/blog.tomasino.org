@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "One Year Review"
 date: "2008-09-13"
 author: "tomasino"

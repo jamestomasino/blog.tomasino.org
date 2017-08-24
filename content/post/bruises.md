@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Bruises"
 date: "2006-07-16"
 author: "tomasino"

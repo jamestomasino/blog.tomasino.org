@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Goodbye Phone"
 date: "2016-03-12"
 author: "tomasino"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "The Road"
 date: "2006-07-04"
 author: "tomasino"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Old Dreams"
 date: "2004-07-19"
 author: "tomasino"

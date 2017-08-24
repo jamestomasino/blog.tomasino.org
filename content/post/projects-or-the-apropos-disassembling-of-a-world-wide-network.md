@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Projects or the Apropos Disassembling of a World Wide Network"
 date: "2007-02-27"
 author: "tomasino"

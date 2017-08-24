@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Giant"
 date: "2009-05-11"
 author: "tomasino"

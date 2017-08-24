@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Review: The Written"
 date: "2012-04-18"
 author: "tomasino"

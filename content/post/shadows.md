@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Shadows"
 date: "2005-01-31"
 author: "tomasino"

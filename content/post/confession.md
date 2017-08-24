@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Confession"
 date: "2009-04-28"
 author: "tomasino"

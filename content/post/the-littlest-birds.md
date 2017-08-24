@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "The littlest birds"
 date: "2009-11-25"
 author: "tomasino"

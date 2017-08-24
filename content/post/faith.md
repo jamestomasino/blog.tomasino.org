@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Faith"
 date: "2008-04-28"
 author: "tomasino"

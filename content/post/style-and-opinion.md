@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Style and Opinion"
 date: "2009-04-29"
 author: "tomasino"

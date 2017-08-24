@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Styles and Translation"
 date: "2007-02-17"
 author: "tomasino"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Big Decisions"
 date: "2007-03-25"
 author: "tomasino"

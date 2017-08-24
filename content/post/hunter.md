@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Hunter"
 date: "2009-06-30"
 author: "tomasino"

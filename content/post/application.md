@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Application"
 date: "2010-01-30"
 author: "tomasino"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Limits"
 date: "2009-11-17"
 author: "tomasino"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Digital Lamentations"
 date: "2007-02-20"
 author: "tomasino"

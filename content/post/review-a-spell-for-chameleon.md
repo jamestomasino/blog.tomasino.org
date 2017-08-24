@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Review: A Spell for Chameleon"
 date: "2012-11-23"
 author: "tomasino"

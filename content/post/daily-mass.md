@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Daily Mass"
 date: "2009-05-06"
 author: "tomasino"

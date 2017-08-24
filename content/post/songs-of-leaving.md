@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Songs of Leaving"
 date: "2004-12-09"
 author: "tomasino"

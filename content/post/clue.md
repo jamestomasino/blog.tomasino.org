@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Clue"
 date: "2014-01-06"
 author: "tomasino"

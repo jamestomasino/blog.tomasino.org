@@ -1,7 +1,6 @@
 ---
 author: tomasino
 date: 2017-03-02T12:39:55-05:00
-layout: post
 tags:
 - Introspective
 - Travel

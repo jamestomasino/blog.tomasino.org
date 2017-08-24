@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Review: The Wonderful Wizard of Oz"
 date: "2012-03-04"
 author: "tomasino"

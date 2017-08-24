@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Grandpa M."
 date: "2009-09-01"
 author: "tomasino"

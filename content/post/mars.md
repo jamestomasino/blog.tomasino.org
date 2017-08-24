@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Mars"
 date: "2012-08-06"
 author: "tomasino"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Seasons"
 date: "2011-06-21"
 author: "tomasino"

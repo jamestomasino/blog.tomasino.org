@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Review: Hymnal for Dirty Girls"
 date: "2012-11-08"
 author: "tomasino"

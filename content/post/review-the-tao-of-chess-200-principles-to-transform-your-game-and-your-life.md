@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Review: The Tao of Chess: 200 Principles to Transform Your Game and Your Life"
 date: "2012-02-22"
 author: "tomasino"

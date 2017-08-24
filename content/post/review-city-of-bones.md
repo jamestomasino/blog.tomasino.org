@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Review: City of Bones"
 date: "2012-01-29"
 author: "tomasino"

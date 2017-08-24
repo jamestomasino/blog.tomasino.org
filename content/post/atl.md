@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "ATL"
 date: "2007-07-01"
 author: "tomasino"

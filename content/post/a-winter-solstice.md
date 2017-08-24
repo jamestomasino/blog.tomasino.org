@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "A Winter Solstice"
 date: "2008-12-21"
 author: "tomasino"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "I Contain Multitudes"
 date: "2005-06-16"
 author: "tomasino"

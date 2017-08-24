@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "One Hundred Years of Solitude"
 date: "2009-06-22"
 author: "tomasino"

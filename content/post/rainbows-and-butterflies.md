@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Rainbows and butterflies"
 date: "2009-12-12"
 author: "tomasino"

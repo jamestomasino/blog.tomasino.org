@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Old habits"
 date: "2011-12-14"
 author: "tomasino"

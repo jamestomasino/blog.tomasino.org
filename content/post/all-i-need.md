@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "All I Need"
 date: "2004-11-12"
 author: "tomasino"

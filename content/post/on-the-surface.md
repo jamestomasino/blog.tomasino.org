@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "On the surface"
 date: "2009-08-21"
 author: "tomasino"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Too late for conversations"
 date: "2004-11-04"
 author: "tomasino"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Jericho"
 date: "2009-06-11"
 author: "tomasino"

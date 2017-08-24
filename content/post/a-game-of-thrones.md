@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "A Game of Thrones"
 date: "2008-04-26"
 author: "tomasino"

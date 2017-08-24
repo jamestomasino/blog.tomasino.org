@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "breath comes slowly, waiting"
 date: "2011-04-13"
 author: "tomasino"

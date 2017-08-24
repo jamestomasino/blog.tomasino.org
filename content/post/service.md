@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Service"
 date: "2011-11-11"
 author: "tomasino"

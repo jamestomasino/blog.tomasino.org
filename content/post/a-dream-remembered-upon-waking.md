@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "A dream remembered upon waking"
 date: "2004-12-28"
 author: "tomasino"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Doors lead in, doors lead out, doors no bigger than a little girls pout."
 date: "2004-04-20"
 author: "tomasino"

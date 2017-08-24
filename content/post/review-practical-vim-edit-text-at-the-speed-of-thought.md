@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Review: Practical Vim: Edit Text at the Speed of Thought"
 date: "2012-11-19"
 author: "tomasino"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Just In Case"
 date: "2008-09-25"
 author: "tomasino"

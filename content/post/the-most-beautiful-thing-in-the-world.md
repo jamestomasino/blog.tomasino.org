@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "The Most Beautiful Thing in the World"
 date: "2009-04-26"
 author: "tomasino"

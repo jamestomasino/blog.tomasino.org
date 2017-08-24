@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Stoic Week"
 date: "2016-10-17"
 author: "tomasino"

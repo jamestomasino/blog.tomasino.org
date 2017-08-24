@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Traveling"
 description: "Traveling"
 tags:

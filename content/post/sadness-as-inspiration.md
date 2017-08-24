@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Sadness as inspiration"
 date: "2008-11-21"
 author: "tomasino"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Review: Jenny Pox"
 date: "2012-02-06"
 author: "tomasino"

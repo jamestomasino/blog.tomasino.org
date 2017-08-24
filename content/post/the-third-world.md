@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "The Third World"
 date: "2009-04-30"
 author: "tomasino"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Wanderlust strikes again"
 date: "2007-09-08"
 author: "tomasino"

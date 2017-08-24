@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Spinning My Wheels"
 date: "2007-05-18"
 author: "tomasino"

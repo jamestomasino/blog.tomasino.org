@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "The trouble with rage"
 date: "2009-07-30"
 author: "tomasino"

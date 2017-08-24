@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Miracle Fruit"
 date: "2011-08-26"
 author: "tomasino"

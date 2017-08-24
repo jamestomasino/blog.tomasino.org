@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Gicelemû'kaong"
 date: "2005-08-22"
 author: "tomasino"

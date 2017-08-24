@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "The Tin Rudder"
 date: "2009-06-23"
 author: "tomasino"

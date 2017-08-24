@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "The Mountain"
 date: "2009-04-27"
 author: "tomasino"

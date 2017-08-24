@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Review: Tigran Petrosian His Life And Games"
 date: "2012-03-13"
 author: "tomasino"

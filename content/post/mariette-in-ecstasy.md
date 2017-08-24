@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Mariette in Ecstasy"
 date: "2009-05-04"
 author: "tomasino"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "The Cloud"
 date: "2011-06-14"
 author: "tomasino"

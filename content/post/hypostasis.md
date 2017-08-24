@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Hypostasis"
 date: "2010-08-12"
 author: "tomasino"

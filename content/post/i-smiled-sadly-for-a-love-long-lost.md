@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "I smiled sadly for a love long lost"
 date: "2004-12-30"
 author: "tomasino"

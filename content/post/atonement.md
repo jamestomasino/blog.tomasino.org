@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Atonement"
 date: "2008-10-18"
 author: "tomasino"

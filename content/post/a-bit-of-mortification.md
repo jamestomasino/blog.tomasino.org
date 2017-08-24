@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "A bit of mortification"
 date: "2004-10-07"
 author: "tomasino"

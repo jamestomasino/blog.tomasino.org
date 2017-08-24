@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Madam Camus and the art of red bedrooms"
 date: "2004-12-02"
 author: "tomasino"

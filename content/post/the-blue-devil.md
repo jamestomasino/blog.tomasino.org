@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "The Blue Devil"
 date: "2010-07-06"
 author: "tomasino"

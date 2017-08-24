@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "A meeting in New York"
 date: "2009-10-14"
 author: "tomasino"

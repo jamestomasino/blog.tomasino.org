@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Good Wine"
 date: "2008-12-19"
 author: "tomasino"

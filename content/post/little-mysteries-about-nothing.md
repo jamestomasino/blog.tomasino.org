@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Little Mysteries About Nothing"
 date: "2011-10-27"
 author: "tomasino"

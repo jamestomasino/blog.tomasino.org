@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Willing suspension of disbelief"
 date: "2009-11-18"
 author: "tomasino"

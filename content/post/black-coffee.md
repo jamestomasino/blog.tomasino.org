@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Black Coffee"
 date: "2005-06-14"
 author: "tomasino"

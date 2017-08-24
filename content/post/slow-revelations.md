@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Slow revelations"
 date: "2007-09-13"
 author: "tomasino"

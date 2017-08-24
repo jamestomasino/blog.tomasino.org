@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Sacred Space"
 date: "2009-01-14"
 author: "tomasino"

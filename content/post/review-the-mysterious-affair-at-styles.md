@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Review: The Mysterious Affair at Styles"
 date: "2012-02-17"
 author: "tomasino"

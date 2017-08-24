@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "NaNoWriMo"
 date: "2008-10-14"
 author: "tomasino"

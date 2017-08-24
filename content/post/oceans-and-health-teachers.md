@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Oceans and Health Teachers"
 date: "2005-08-18"
 author: "tomasino"

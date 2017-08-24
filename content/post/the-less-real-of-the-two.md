@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "The less real of the two"
 date: "2007-06-26"
 author: "tomasino"

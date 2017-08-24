@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Answering the Call"
 date: "2009-04-20"
 author: "tomasino"

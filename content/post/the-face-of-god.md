@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "The Face of God"
 date: "2010-08-19"
 author: "tomasino"

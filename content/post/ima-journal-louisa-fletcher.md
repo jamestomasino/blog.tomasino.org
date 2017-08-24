@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "IMA Journal - Louisa Fletcher"
 date: "2009-06-19"
 author: "tomasino"

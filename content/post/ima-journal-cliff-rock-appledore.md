@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "IMA Journal - Cliff Rock - Appledore"
 date: "2009-06-19"
 author: "tomasino"

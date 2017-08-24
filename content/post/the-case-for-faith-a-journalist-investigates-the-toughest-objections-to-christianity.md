@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "The Case for Faith: A Journalist Investigates the Toughest Objections to Christianity"
 date: "2008-04-15"
 author: "tomasino"

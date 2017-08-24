@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Sacrifice"
 date: "2007-02-22"
 author: "tomasino"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Review: Water for Elephants"
 date: "2012-04-15"
 author: "tomasino"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Walking the plank"
 date: "2004-11-24"
 author: "tomasino"

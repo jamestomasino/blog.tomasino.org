@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "My soul is sore"
 date: "2010-01-07"
 author: "tomasino"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Zeo Follow-Up"
 date: "2009-06-09"
 author: "tomasino"

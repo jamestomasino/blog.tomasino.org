@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Indivisible"
 date: "2010-05-02"
 author: "tomasino"

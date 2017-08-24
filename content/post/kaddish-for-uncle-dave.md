@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Kaddish for Uncle Dave"
 date: "2009-12-06"
 author: "tomasino"

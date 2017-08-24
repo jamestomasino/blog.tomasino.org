@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "A Fool's Journey"
 date: "2007-02-24"
 author: "tomasino"

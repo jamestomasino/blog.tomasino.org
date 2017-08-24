@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Permalinks are a Go"
 date: "2007-02-19"
 author: "tomasino"

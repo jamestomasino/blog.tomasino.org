@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "But oh, those summer nights"
 date: "2009-06-15"
 author: "tomasino"

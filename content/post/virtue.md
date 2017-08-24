@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Virtue"
 date: "2008-04-13"
 author: "tomasino"

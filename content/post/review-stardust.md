@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Review: Stardust"
 date: "2012-08-04"
 author: "tomasino"

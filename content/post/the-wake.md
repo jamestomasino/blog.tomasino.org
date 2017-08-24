@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "The Wake"
 date: "2005-02-12"
 author: "tomasino"

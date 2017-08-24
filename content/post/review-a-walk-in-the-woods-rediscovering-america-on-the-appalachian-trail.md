@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Review: A Walk in the Woods: Rediscovering America on the Appalachian Trail"
 date: "2012-08-31"
 author: "tomasino"

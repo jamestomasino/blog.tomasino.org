@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "RSS by Hand"
 date: "2007-02-13"
 author: "tomasino"

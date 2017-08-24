@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Zombie Survival Kit"
 date: "2012-10-28"
 author: "tomasino"

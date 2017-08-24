@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Review: American Gods"
 date: "2012-06-04"
 author: "tomasino"

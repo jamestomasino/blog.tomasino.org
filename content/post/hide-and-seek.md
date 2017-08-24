@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Hide and Seek"
 date: "2005-08-17"
 author: "tomasino"

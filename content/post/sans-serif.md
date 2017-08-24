@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Sans-Serif"
 date: "2008-01-29"
 author: "tomasino"

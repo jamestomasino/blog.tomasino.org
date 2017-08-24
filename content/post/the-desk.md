@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "The Desk"
 date: "2013-12-20"
 author: "tomasino"

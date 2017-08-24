@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Veduna"
 date: "2011-05-04"
 author: "tomasino"

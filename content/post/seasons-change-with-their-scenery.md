@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Seasons change with their scenery"
 date: "2002-04-19"
 author: "tomasino"

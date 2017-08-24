@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Merry Ol' England"
 date: "2008-09-26"
 author: "tomasino"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Zeo"
 date: "2009-05-13"
 author: "tomasino"

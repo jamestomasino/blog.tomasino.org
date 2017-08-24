@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Acceptance"
 date: "2010-03-13"
 author: "tomasino"

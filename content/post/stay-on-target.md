@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Stay on Target"
 date: "2010-06-24"
 author: "tomasino"

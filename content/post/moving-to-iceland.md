@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Moving to Iceland"
 date: "2013-01-03"
 author: "tomasino"

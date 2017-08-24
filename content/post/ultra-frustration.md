@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Ultra Frustration"
 date: "2007-04-15"
 author: "tomasino"

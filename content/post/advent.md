@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Advent"
 date: "2009-11-30"
 author: "tomasino"

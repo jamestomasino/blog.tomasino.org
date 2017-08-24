@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "The End of Summer"
 date: "2008-09-06"
 author: "tomasino"

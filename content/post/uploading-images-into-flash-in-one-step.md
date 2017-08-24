@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Uploading Images into Flash in One Step"
 date: "2009-04-30"
 author: "tomasino"

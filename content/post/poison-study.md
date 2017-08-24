@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Poison Study"
 date: "2008-05-03"
 author: "tomasino"

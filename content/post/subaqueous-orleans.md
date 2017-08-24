@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Subaqueous Orleans"
 date: "2005-08-29"
 author: "tomasino"

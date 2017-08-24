@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Silence"
 date: "2008-04-02"
 author: "tomasino"
