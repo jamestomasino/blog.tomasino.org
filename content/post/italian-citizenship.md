@@ -52,14 +52,6 @@ Fast forward two years and a couple of "check-in" emails. Italy doesn't provide 
 
 I emailed them again about the certificate thing, with some helpful links and whatnot, when I got back the most helpful sentence from the consulate in years: "We require both."
 
-There it is! I have been waiting around for no good reason thinking things were moving. Now that I have that last bit of clarity, I reached out to the Office of Clerks and the Office of something else at my county seat with an explanation of what I needed and they were incredibly helpful. I have the document on its way to me now.
-
-This took me to September of 2015, when I thought my application was ready to go. The consulate reached out one last time to tell me they were missing my marriage license. I thought they were misunderstanding the difference between PA's marriage license and certificate and I emailed them to explain that proof of marriage in this state is done via the certificate, which I included in my file. I figured that was the end of the story as I heard nothing back, and we were off to the races! Well, the very slow races as I waited to hear a response from Italy.
-
-Fast forward two years and a couple of "check-in" emails. Italy doesn't provide status updates on files, so I continued to think things were going ahead normally, but slowly. This past week I was finally able to connect with someone at the consulate who informed me that my file was inactive because they were missing the marriage license! OH NO!
-
-I emailed them again about the certificate thing, with some helpful links and whatnot, when I got back the most helpful sentence from the consulate in years: "We require both."
-
 There it is! I have been waiting around for no good reason thinking things were moving. Now that I have that last bit of clarity, I reached out to the Office of Clerks and the Office of something else at my county seat with an explanation of what I needed and they were incredibly helpful. I have the document on its way to me now. Once that arrives I'll get it translated to Italian, send it to get an apostille attached, and submit down to the consulate.
 
 This should be the final step before "The Long Wait" part two. Wish me luck.
