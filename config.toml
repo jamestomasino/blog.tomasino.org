@@ -3,3 +3,6 @@ title = "Tomasino Blog"
 languageCode = "en-us"
 theme = "blank"
 MetaDataFormat = "yaml"
+
+[permalinks]
+  post = "/:title/"
