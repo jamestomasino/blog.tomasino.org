@@ -54,7 +54,7 @@ Take a look at the board below:
 
 ![Guess Who][]
 
-One look at Emily and it's obvious that she lost her other earring in a torrid
+One look at Megan and it's obvious that she lost her other earring in a torrid
 love affair with Sir Alec Guinness. Chris and Daniel are each other's imaginary
 friends. Zachary... he loves you.
 
