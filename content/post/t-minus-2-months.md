@@ -2,8 +2,7 @@
 date: 2019-05-04 10:56:35 -0400
 title: "T-Minus 2 Months"
 tags:
-  - meta
-  - iceland
+  - Iceland
 ---
 
 ![Black Sand](//blog.tomasino.org/images/black-sand.jpg)
