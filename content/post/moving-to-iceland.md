@@ -4,7 +4,8 @@ date: "2013-01-03"
 author: "tomasino"
 tags:
   - "Natural World"
-  - "Travel"
+  - Travel
+  - Iceland
 slug: "moving-to-iceland"
 ---
 

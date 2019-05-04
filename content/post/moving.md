@@ -2,7 +2,7 @@
 date: 2018-12-03 23:12:14 -0500
 title: "Moving"
 tags:
-  - meta
+  - Iceland
 ---
 
 Tonight is my last night in this house. We move into the apartment
