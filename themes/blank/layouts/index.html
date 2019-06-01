@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 <main id="index">
-{{ range (where .Site.Pages "Type" "post") }}
+{{ range (where .Site.RegularPages "Type" "post") }}
 {{ partial "summary.html" . }}
 {{ end }}
 </main>
