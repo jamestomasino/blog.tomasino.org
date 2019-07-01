@@ -5,7 +5,7 @@ tags:
   - Iceland
 ---
 
-![Birds in Hella](//blog.tomasino.org/images/birds-in-hella.jpg)
+![Birds in Hella](//blog.tomasino.org/images/bird-in-hella.jpg)
 
 I'm sitting at a beautiful airbnb in Reykjavík across from my fabulous
 wife while my son flips through some activity books on the couch. We're
