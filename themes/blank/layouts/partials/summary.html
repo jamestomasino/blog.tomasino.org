@@ -1,9 +1,9 @@
-	<article>
-		<h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-		<time>{{ .Date.Format "2006.01.02" }}</time>
-		<ul>
-			{{ range .Params.tags }}
-			<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
-			{{ end }}
-		</ul>
-	</article>
+<article class="h-entry">
+  <h1><a href="{{ .Permalink }}" class="p-name">{{ .Title }}</a></h1>
+  <time class="dt-published">{{ .Date.Format "2006.01.02" }}</time>
+  <ul>
+    {{ range .Params.tags }}
+    <li><a class="p-category" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+    {{ end }}
+  </ul>
+</article>

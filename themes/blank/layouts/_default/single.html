@@ -3,15 +3,15 @@
   <a id="back" href="{{ .Site.BaseURL }}">➦</a>
 </header>
 <main>
-  <article>
-    <h1>{{ .Title }}</h1>
-    <time>{{ .Date.Format "2006.01.02" }}</time>
+  <article class="h-entry">
+    <h1 class="p-name">{{ .Title }}</h1>
+    <time class="dt-published">{{ .Date.Format "2006.01.02" }}</time>
     <ul id="tags">
       {{ range sort .Params.tags }}
-      <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+      <li><a class="p-category" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
       {{ end }}
     </ul>
-    <div>
+    <div class="e-content">
       {{ .Content }}
     </div>
   </article>

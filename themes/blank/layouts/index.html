@@ -1,5 +1,5 @@
 {{ partial "header.html" . }}
-<main id="index">
+<main id="index" class="h-feed">
 {{ range (where .Site.RegularPages "Type" "post") }}
 {{ partial "summary.html" . }}
 {{ end }}

@@ -2,7 +2,7 @@
 <header>
 	<a id="back" href="{{ .Site.BaseURL }}">➦</a>
 </header>
-<main>
+<main class="h-feed">
 {{ range .Data.Pages }}
 {{ partial "tagsummary.html" . }}
 {{ end }}
