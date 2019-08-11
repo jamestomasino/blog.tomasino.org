@@ -4,5 +4,8 @@ languageCode = "en-us"
 theme = "blank"
 MetaDataFormat = "yaml"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+[params]
+    author = "James Tomasino"
+    description = "Personal blog of James Tomasino"
 [author]
     name = "James Tomasino"
