@@ -7,7 +7,7 @@ tags:
 slug: "too-late-for-conversations"
 ---
 
-<span style="font-style: italic;">From an old journal</span>
+_From an old journal_
 
 I suppose it's too late to find people online much anymore. The ones I
 am talking to are either too tired or too enraged in their own affairs
@@ -62,76 +62,45 @@ good things as well. So many good things. The other night I found a book
 of poetry of hers that she gave me towards the end of our relationship.
 I read each of the poems, loved them, and let them go.
 
-<p>
-> <span style="font-style: italic;">
->  But I fell...
->
->  Deeper and deeper into the folds,
->
->  Further into the flame.
->
->  You love fire better than I,
->
->  I wish I had your eyes again.
->
->
->
->  I wish I had a great many things,
->
->  Things fashioned of oceans and air,
->
->  That I could wrap these moments in
->
->  So I could remember I was there.
->
->  Oh the colors, All the colors,
->
->  That tempt my weary mind
->
->  To the place beneath your glaciers
->
->  That you would never find.
->
->  I long to be its queen once more;
->
->  A rank yet to be touched,
->
->  Until I step down from my throne
->
->  In dreams of forever and such.
->
->  And these dreams refuse to leave me,
->
->  Threatening a thaw,
->
->  Allowing you to see me
->
->  In springtime's hungry maw.
->
->  Regard me as a statue,
->
->  Abhor my seething cold,
->
->  Just don't forget I dreamed of you,
->
->  Though I'm too hard to hold.
->
->
->
->  Deeper and deeper into the folds,
->
->  Farther into the flame.
->
->  You love fire better than I,
->
->  I wish I had your eyes again.
->
->      - Jen Kennedy (March 16, 1997)</span>
-> </p>
+```text
+But I fell...
+Deeper and deeper into the folds,
+Further into the flame.
+You love fire better than I,
+I wish I had your eyes again.
+
+I wish I had a great many things,
+Things fashioned of oceans and air,
+That I could wrap these moments in
+So I could remember I was there.
+Oh the colors, All the colors,
+That tempt my weary mind
+To the place beneath your glaciers
+That you would never find.
+I long to be its queen once more;
+A rank yet to be touched,
+Until I step down from my throne
+In dreams of forever and such.
+And these dreams refuse to leave me,
+Threatening a thaw,
+Allowing you to see me
+In springtime's hungry maw.
+Regard me as a statue,
+Abhor my seething cold,
+Just don't forget I dreamed of you,
+Though I'm too hard to hold.
+
+Deeper and deeper into the folds,
+Farther into the flame.
+You love fire better than I,
+I wish I had your eyes again.
+
+    - Jen Kennedy (March 16, 1997)
+```
 
 I really do wish there were someone around to talk to in these late
 night hours. It's traditionally been the role of my girlfriend through
-my years. Perhaps that is a special requirement I have, late night
+my years. Perhaps that is a special requirement I have: late night
 conversationist. I could certainly use it these days. Maybe journals are
 filling that role. I think it might be nice to hear back from her
 sometime, though. Is that a feature to request on their boards? Anyway,
