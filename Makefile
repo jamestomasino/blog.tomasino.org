@@ -27,7 +27,7 @@ serve:
 	hugo server
 
 build:
-	hugo
+	hugo --gc --minify
 
 deploy: build
 	rsync -rvhe ssh --progress --delete ./public/ blog.tomasino.org:/var/www/blog.tomasino.org/
