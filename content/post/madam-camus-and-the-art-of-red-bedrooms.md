@@ -7,9 +7,9 @@ tags:
 slug: "madam-camus-and-the-art-of-red-bedrooms"
 ---
 
-<span style="font-style: italic;">From an old journal</span>
+_From an old journal_
 
-![Madam Camus][]
+{{< figure src="/images/camus.jpg" alt="Madam Camus" >}}
 
 In a little bit of time, I'll have finished my undergraduate degree and
 with it, all of the expectations of schooling anyone has ever had for
@@ -98,5 +98,3 @@ many people is different than yours. My life is a string of random
 incidents, events strewn together haphazardly. I see each moment like an
 impressionists painting, more the feeling of the moment than the moment
 itself. It wears on me. "It wears, sir, as it grows."
-
-  [Madam Camus]: //blog.tomasino.org/images/camus.jpg

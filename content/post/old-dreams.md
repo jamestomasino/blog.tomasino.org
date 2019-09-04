@@ -7,8 +7,7 @@ tags:
 slug: "old-dreams"
 ---
 
-<span style="font-style: italic;">The tragedy of sexual intercourse is
-the perpetual virginity of the soul.</span>
+_The tragedy of sexual intercourse is the perpetual virginity of the soul._
 
     - William B. Yeats
 
@@ -28,12 +27,12 @@ couldn't pull back. Or perhaps the process of being born into this life
 lost that memory, and so I am stuck here because of my ignorance. Would
 death release the mask? Would sex?
 
-<span style="font-style: italic;">O, train me not, sweet mermaid, with
-thy note,
-
-to drown me in thy sister's flood of tears.</span>
+```text
+O, train me not, sweet mermaid, with thy note,
+to drown me in thy sister's flood of tears.
 
     - William Shakespeare - The Comedy of Errors (1592 - 1594)
+```
 
 My life over the past ten years had been particularly prurient. Life and
 relationships have been guided by my salacious desires much more than

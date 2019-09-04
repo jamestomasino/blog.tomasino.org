@@ -7,12 +7,10 @@ tags:
 slug: "doors-lead-in-doors-lead-out-doors-no-bigger-than-a-little-girls-pout"
 ---
 
-The last real conversation I had with Erin before all of this started
-was about <span style="text-decoration:underline;">Alice in
-Wonderland</span>. Specifically, it was about Mabel. I'm not sure how
-many of you have read <span style="text-decoration:underline;">Alice in
-Wonderland</span>, but Mabel is a friend of Alice's from school whom she
-mentions early on. Here is the passage:
+The last real conversation I had with Erin before all of this started was about
+Alice in Wonderland. Specifically, it was about Mabel. I'm not sure how
+many of you have read Alice in Wonderland, but Mabel is a friend of Alice's
+from school whom she mentions early on. Here is the passage:
 
 > \`I'm sure I'm not Ada,' she said, \`for her hair goes in such long
 > ringlets, and mine doesn't go in ringlets at all; and I'm sure I can't
@@ -28,25 +26,19 @@ mentions early on. Here is the passage:
 > crossed her hands on her lap as if she were saying lessons, and began
 > to repeat it, but her voice sounded hoarse and strange, and the words
 > did not come the same as they used to do:–
->
-> \`How doth the little crocodile
->
->  Improve his shining tail,
->
->  And pour the waters of the Nile
->
->  On every golden scale!
->
->
->
->  \`How cheerfully he seems to grin,
->
->  How neatly spread his claws,
->
->  And welcome little fishes in
->
->  With gently smiling jaws!'
->
+
+```text
+`How doth the little crocodile
+Improve his shining tail,
+And pour the waters of the Nile
+On every golden scale!
+
+`How cheerfully he seems to grin,
+How neatly spread his claws,
+And welcome little fishes in
+With gently smiling jaws!'
+```
+
 > \`I'm sure those are not the right words,' said poor Alice, and her
 > eyes filled with tears again as she went on, \`I must be Mabel after
 > all, and I shall have to go and live in that poky little house, and
@@ -75,10 +67,10 @@ personality that stays, and not only interacts, but eventually controls
 wonderland. She is beyond control of even the Queen, and later, when she
 goes through the looking glass, not even the jabberwocky can pose a
 threat to her. Mabel is the power in Alice, a power which exists and
-resides permenantly within the fantasy. It is her real strength, despite
+resides permanently within the fantasy. It is her real strength, despite
 its containment within her psyche. It is an inner strength, a true inner
 strength personified, and while it is less intelligent than herself, it
-has a common sense that overwhelms the logical, the mundane, and see's
+has a common sense that overwhelms the logical, the mundane, and sees
 past the predictability of a simple nursery rhyme. Mabel saw beyond all
 of it to a super-normal place where the innermost childish logic rang
 true, her desires became powerful potions... spells even, and the magic

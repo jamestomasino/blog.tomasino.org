@@ -7,7 +7,7 @@ tags:
 slug: "walking-the-plank"
 ---
 
-<span style="font-style: italic;">From an old journal</span>
+_From an old journal_
 
 When I drive late at night, I tend to retreat into my head. I guess I
 retreat into my head just about all the time, but it is especially true
