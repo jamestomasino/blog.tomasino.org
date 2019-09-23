@@ -2,7 +2,8 @@
 date: 2019-09-21 21:13:03 +0000
 title: "Climbing Mountains"
 tags:
-  - meta
+  - Iceland
+  - Hiking
 ---
 
 {{< figure src="/images/wit-on-helgafell.png" link="https://photos.app.goo.gl/6EnMneTqxMj5vB189" caption="Click to see the 3D Panorama">}}
