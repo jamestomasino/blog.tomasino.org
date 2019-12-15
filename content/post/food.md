@@ -11,7 +11,8 @@ public education system to lush natural beauty. It also has quite
 a few unique delicacies that you absolutely must try if you visit.
 Being the two staple products, the seafood is naturally excellent
 and you can find a number of tasty lamb dishes all around the
-country. Let's look at a few of our family favorites!
+country. But that's not all there is… Let's look at some of
+our family favorites!
 
 {{< figure src="/images/pylsa.jpg" caption="Pylsa með öllu (Icelandic Hot Dog with everything) ">}}
 
