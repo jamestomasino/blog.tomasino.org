@@ -7,7 +7,7 @@ tags:
 slug: "all-i-need"
 ---
 
-<span style="font-style: italic;">From an old journal</span>
+_From an old journal_
 
 When I was a little boy, I was scared of the basement. I was terrified
 of nothing in particular. I didn't fear people under the stairs or

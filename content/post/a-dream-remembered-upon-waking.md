@@ -7,7 +7,7 @@ tags:
 slug: "a-dream-remembered-upon-waking"
 ---
 
-<span style="font-style: italic;">From an old journal</span>
+_From an old journal_
 
 New York was finally destroyed in a miraculous blast. It was like the
 buildings were suddenly candle flames blown into nothing but ash and

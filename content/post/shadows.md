@@ -7,7 +7,7 @@ tags:
 slug: "shadows"
 ---
 
-<span style="font-style: italic;">From an old journal</span>
+_From an old journal_
 
 Sometimes the past comes back, not in a hurtful way, not in a manner of
 sublime sadness, or even in a way of longing. It just comes back when

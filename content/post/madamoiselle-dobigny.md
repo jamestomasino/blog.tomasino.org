@@ -7,9 +7,9 @@ tags:
 slug: "madamoiselle-dobigny"
 ---
 
-<span style="font-style: italic;">From an old journal</span>
+_From an old journal_
 
-![Madamoiselle Dobigny][]
+{{< figure src="/images/dobigny.jpg" alt="Madamoiselle Dobigny" >}}
 
 I am staring out of my own portrait these days. My world is becoming so
 saturated with the same things day in and day out that I'm ready to
@@ -39,5 +39,3 @@ Someone tell me why I, a person who values his individuality, his
 freedoms, and his sense of being alone more than anything... someone
 tell me why I feel like I want someone to lay against at night. It
 doesn't make sense. People never do.
-
-  [Madamoiselle Dobigny]: //blog.tomasino.org/images/dobigny.jpg

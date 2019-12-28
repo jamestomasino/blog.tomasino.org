@@ -7,7 +7,7 @@ tags:
 slug: "songs-of-leaving"
 ---
 
-<span style="font-style: italic;">From an old journal</span>
+_From an old journal_
 
 Squeezing through tight spaces in life drags things out of you that you
 never knew you had. The same can be said for floating through those

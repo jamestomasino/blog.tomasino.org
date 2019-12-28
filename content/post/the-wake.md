@@ -7,7 +7,7 @@ tags:
 slug: "the-wake"
 ---
 
-<span style="font-style: italic;">From an old journal</span>
+_From an old journal_
 
 What line separates the personal me from the public me? Is it even a
 line? Does it move around? I say so much on here but even that is in

@@ -7,7 +7,7 @@ tags:
 slug: "a-bit-of-mortification"
 ---
 
-<span style="font-style: italic;">From an old journal</span>
+_From an old journal_
 
 I've had many opportunities to be cruel. I've taken most of them and
 proven my lack of "good" on many occasions. Betrayals, deceits, the
@@ -32,8 +32,6 @@ heart disease, or short lifespan, headaches, bone disorders, skin
 ailments, or any other problem which may have a root in genetics I get
 standoffish. I worry about adding more problems into my bloodline that I
 already have.
-
-
 
 She was one of the reasons I went to Rowan, though I suppose you could
 say it was for her ideals. Her group, her friends, the whole lot, seemed

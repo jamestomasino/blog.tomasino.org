@@ -1,8 +1,15 @@
 {{ partial "header.html" . }}
-<main id="index">
-{{ range (where .Site.Pages "Type" "post") }}
+<main id="index" class="h-feed">
+<h1>{{ .Site.Title }}</h1>
+<h2>{{ .Site.Params.description }}</h2>
+{{ range (where .Site.RegularPages "Type" "post") }}
 {{ partial "summary.html" . }}
 {{ end }}
+<footer>
+  <span>
+    &copy; <time datetime="{{ now }}">{{ now.Format "2006" }}</time> <a rel="me" href="https://tomasino.org">James Tomasino</a>.
+  </span>
+</footer>
 </main>
 </body>
 </html>
