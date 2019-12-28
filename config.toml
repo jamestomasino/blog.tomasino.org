@@ -10,3 +10,5 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
     description = "Personal blog of James Tomasino"
 [author]
     name = "James Tomasino"
+[permalinks]
+  post = "/:title/"
