@@ -97,17 +97,17 @@ a foreign language.
 
 Iceland is treating things seriously. In addition to public
 safety, they're actively researching the virus and tracking its
-progression. A local genetics company, deCode, has been performing
+progression. A local genetics company, deCODE, has been performing
 full genome sequencing on the volunteer population of Iceland in
 addition to those infected. If you look at that graph at the top
 you can see how fast they are too. They're able to fully sequence
 the genome of an individual in a matter of hours, and they're
 looking not only for incidence rates, but also for signs of
 mutation. The data coming out will help researchers across the
-globe. Oh, did I mention that deCode is doing all this for free?
+globe. Oh, did I mention that deCODE is doing all this for free?
 Yeah, they're eating the costs.
 
-When deCode offered their help, the government actually turned
+When deCODE offered their help, the government actually turned
 them down at first. There was the not-quite-totally-altruistic
 nature that they would quickly be gathering a ton of data that
 would be invaluable to them as a private company after the fact,
