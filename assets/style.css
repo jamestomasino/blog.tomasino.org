@@ -3,12 +3,11 @@ body {
 	line-height: 28px;
 	font-weight: 500;
 	overflow-x: hidden;
-	background: white;
 }
 
 h1 {
-	font-size: 28px;
-	line-height: 34px;
+	font-size: 32px;
+	line-height: 1.5em;
 	font-weight: bold;
 	margin-bottom: 0;
 }
@@ -26,18 +25,18 @@ h3 a:hover {
 }
 
 h2 {
-	font-size: 24px;
+	font-size: 18px;
 }
 
 h3 {
-	font-size: 20px;
+	font-size: 24px;
 }
 
 #list h1,
 #index h1 {
-	font-size: 14px;
+	font-size: 24px;
 	font-style: italic;
-	line-height: 1.2em;
+	line-height: 1.5em;
 }
 
 #list h2,
@@ -52,9 +51,21 @@ h3 {
 	margin-bottom: 0;
 }
 
-p {
-	font-size: 18px;
+p, li {
+	font-size: 22px;
+	line-height: 1.5em;
 	font-weight: 400;
+}
+
+.p-category {
+	font-size: 18px;
+	color: #333;
+	box-shadow: none;
+	font-style: italic;
+}
+
+.p-category:hover {
+	box-shadow: 0 0 0 0 #303030, 0 1px 0 0 #780078;
 }
 
 img {
@@ -62,18 +73,19 @@ img {
 }
 
 blockquote {
-	font-size: 17px;
+	font-size: 22px;
 	font-weight: 400;
 	font-style: italic;
 }
 
 pre {
-	font-size: 11px;
+	font-size: 18px;
 	font-weight: 400;
 }
 
 a {
-	color: #333;
+	color: #59006b;
+	font-weight: 600;
 	text-decoration: none;
 	text-shadow: 1px 1px 0 #fff, -1px 1px 0 #fff, 2px 0 0 #fff, -2px 0 0 #fff;
 	box-shadow: inset 0 2px 0 0 #fff, inset 0 -1px 0 0 #debdde;
@@ -142,7 +154,7 @@ footer {
 .highlight pre {
 	padding: 10px;
 	font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
-	font-size: 16px;
+	font-size: 18px;
 	line-height: 1.2em;
 	overflow-x: scroll;
 }
@@ -193,6 +205,11 @@ figure {
 	a:hover {
 		box-shadow: 0 0 0 0 #303030, 0 3px 0 0 aqua;
 	}
+
+	.p-category:hover {
+		box-shadow: 0 0 0 0 #303030, 0 1px 0 0 #97ecec;
+	}
+
 	h1 a,
 	h2 a,
 	h3 a {
