@@ -11,7 +11,7 @@ slug: "review-tigran-petrosian-his-life-and-games"
 
 My rating: [4 of 5 stars][]
 
-Tigran Petrosian, the Iron Tigran, is undoubtably one of the greatest
+Tigran Petrosian, the Iron Tigran, is undoubtedly one of the greatest
 defensive chess grand masters of all time. His tenure as World Champion
 for six years gave credence to his unique style and temperament as a
 true fighting one. He was brilliant yet understated, daring yet
@@ -30,7 +30,7 @@ themselves most often.
 
 The final chapter, written by Petrosian himself, is a fantastic way to
 wrap up the biography. In hearing his own analysis of the candidates
-series, the strange occurances over the table with Fischer, his
+series, the strange occurrences over the table with Fischer, his
 evaluation of Spassky, and his thoughts on the future of chess, we get a
 glimpse into the truth of Vasiliev's depiction. The champion's humor,
 depth of thought, and most of all, humility, are all clearly present and

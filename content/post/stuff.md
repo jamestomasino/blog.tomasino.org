@@ -10,9 +10,9 @@ slug: "stuff"
 I'm getting rid of all of my stuff.
 
 At first, the thought was that I would simplify by getting rid of a few
-highly annoying items, things that are big, combersome, and meaningless
+highly annoying items, things that are big, cumbersome, and meaningless
 to me. So, I made [a list][]. It's hard to describe all your possessions
-in that way, expendible or essential. If you get nothing else out of
+in that way, expendable or essential. If you get nothing else out of
 this post, I would recommend making that list. You'll be amazed at the
 results.
 
@@ -24,11 +24,11 @@ good start.
 So I tried again, this time choosing to ignore the meaning of the item,
 and instead picking things purely by function. I kept my bed - I like a
 good night's sleep - the large metal rack, my laptop, my kindle, my
-keyboard, and my kitchen junk. Everything else is truely expendible. But
+keyboard, and my kitchen junk. Everything else is truly expendable. But
 I digress.
 
 At the core of all of this is a simple assertion, that the accumulation
-of possesions is not only unnecessary, it's harmful to how I want to
+of possessions is not only unnecessary, it's harmful to how I want to
 live. The reasons are simple. I'm nomadic, and as such, I move fairly
 often. The more stuff, the more expensive it is to move. Also, it
 requires me to find bigger and bigger apartments, to fit all my extra
@@ -37,7 +37,7 @@ doesn't make a lot of sense why I need a bigger place. Thirdly, when my
 possessions clutter my life, there is a large psychological cost
 (there's a lot more that could be said on this point, but I'll save it
 for another time). And finally, I get wrapped up in these emotional
-attatchments to certain items because of their history. The result is a
+attachments to certain items because of their history. The result is a
 bit of a three-way Catch-22, where I'm unhappy that my apartment is too
 small for all my clutter, I'm unhappy that I have so much useless stuff,
 and I'm unhappy because I can't get rid of sentimental things and new

@@ -47,7 +47,7 @@ car with snacks, if I had that much forethought, and started driving.
 The roads took me where they willed.
 
 Once, I remember crossing the endlessly flat, barren terrain of
-Nebraska. A rail-road ran along side of my car. Slowly I passed by a
+Nebraska. A rail-road ran alongside of my car. Slowly I passed by a
 train, only to stop and fill up my tank and watch the train pass me by
 again. I think that is when I understood.
 

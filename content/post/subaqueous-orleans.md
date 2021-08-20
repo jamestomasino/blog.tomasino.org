@@ -15,26 +15,26 @@ Atlantis in like manner disappeared in the depths of the sea.</span>
     - Plato - Timaeus (360BCE)
 
 It seems like something out of biblical scriptures. With all the talk of
-flooding and devistation, and yet there it is on the news covered
+flooding and devastation, and yet there it is on the news covered
 channel to channel. Today the news isn't about a mythical island of
 10,000 years ago but rather a popular place of parties, drinking, and
 fun. It's like having the heavens rain brimstone upon Disneyland.
 
 I'm not upset, though. It is unfortunate that all of those homes are
 lost and people displaced, but I have to admit I've never been a fan of
-New Orleans. Perhaps the distaste comes from my Navy time; afterall,
-most of bootcamp was spent around so-called cajuns. It is a learned
+New Orleans. Perhaps the distaste comes from my Navy time; after all,
+most of boot camp was spent around so-called Cajuns. It is a learned
 behavior, wherever it comes from. I suppose that should be a
 consolation.
 
 Somehow this whole event has me smiling. Mother Earth took a step
 forward a few years ago with a blast called tsunami to remind us all
 that we're not as high and mighty as we'd like to believe. Human beings
-have far from conquored this planet. While that message was certainly
+have far from conquered this planet. While that message was certainly
 clear in the East, having this slight echo as a reminder on our western
 shores should help bring that into perspective. I suppose it is a relief
 to me that the Earth is so comfortable slapping us back after those
-years of torment. It feels like a parent delivering retrobution onto a
+years of torment. It feels like a parent delivering retribution onto a
 naughty sibling.
 
 Whether 360BCE or 2005CE, we're all on the same little planet dealing

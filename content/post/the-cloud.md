@@ -18,7 +18,7 @@ First, the term "The Cloud" is almost meaningless now. Advertisers have
 stretched its definition to the point where it's basically synonymous
 with "The Internet". Second, all these Cloud Apps you hear about:
 they're websites. Yup, that's all. Finally, despite the annoying
-rebranding, "The Cloud" (in it's original meaning) is actually very
+rebranding, "The Cloud" (in its original meaning) is actually very
 useful. One of the biggest uses you can all take advantage of right now
 is storage space on the cloud.
 

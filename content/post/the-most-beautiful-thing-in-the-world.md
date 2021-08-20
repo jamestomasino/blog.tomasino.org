@@ -97,7 +97,7 @@ There's a beauty though, just beneath the surface of things. It is a
 beauty of their being that has nothing to do with action or power or
 even love. It is a beauty of existence and relationship that can be
 likened to the fearful beauty we feel when we consider the
-inplausability of our own existence, the unlikelihood of being here with
+implausibility of our own existence, the unlikelihood of being here with
 each other.
 
 It's the type of stillness of being that is so beautiful that it makes a

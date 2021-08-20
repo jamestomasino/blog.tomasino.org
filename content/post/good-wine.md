@@ -1,4 +1,4 @@
----
+--
 title: "Good Wine"
 date: "2008-12-19"
 author: "tomasino"
@@ -23,7 +23,7 @@ way to produce good wine.</span>
     → Joseph Cardinal Ratzinger (Now, Pope Benedict XVI) - [Jesus of
 Nazareth][] (2007)
 
-Pope Benedict must know me very well, indeed. The lustful exhuberance
+Pope Benedict must know me very well, indeed. The lustful exuberance
 with which I jump into things inevitably fades and I'm left with the
 dreary dolldrums of day to day life again. What lasts in the face of
 that? For years my technique has been to start as many projects as
@@ -79,7 +79,7 @@ doing. These two things are not always the same list, but in the case of
 religious life, I think they are. I just wish I wasn't so terrified of
 failure. I suppose it does at least prove its worth to me, though.
 
-Pope Benedict says that this sense of perserverence of faith comes from
+Pope Benedict says that this sense of perseverance of faith comes from
 being one in essence with Jesus in all of the little ways he taught us.
 As it says in the Gospel of Thomas, "Whoever drinks from my mouth shall
 become as I am." It carries the same message of John's Gospel that while

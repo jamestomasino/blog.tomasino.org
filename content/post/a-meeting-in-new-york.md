@@ -44,7 +44,7 @@ I met with the Vocation Director of the [New York and Maryland Provinces
 of the Society of Jesus][] last weekend. I was so nervous while I took
 the train up to New York. My mind kept jumping back and forth between
 extremes. On the one hand, I was hoping that he would ask me to begin
-the application process, to begin writing my spiritual autobiograph
+the application process, to begin writing my spiritual autobiography
 (which is the first step in the process), and give me some guidance on
 what to do next. On the other hand, I also had the irrational fears that
 he'd tell me I wasn't right for the Society, that I wouldn't make a good
@@ -57,8 +57,8 @@ Dominicans. Maybe maybe maybe.
 When we finally sat down to talk, my nervousness made me jumpy. I talked
 way too much, rambled, and before I knew it I was talking about all
 sorts of odd-ball theological topics. At one point I made the random
-exclaimation that I didn't like evangelical language because it seemed
-unnatural and creates a seperation for me between faith and daily
+exclamation that I didn't like evangelical language because it seemed
+unnatural and creates a separation for me between faith and daily
 living. After-all, I've never used the word "rejoice" in normal
 conversation. Why would I use it in prayer or worship?
 

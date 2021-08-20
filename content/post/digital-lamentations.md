@@ -28,7 +28,7 @@ from the original system. At least I had a powerful and stable machine,
 right? Wrong.
 
 Nearly immediately, the crashing began. It started during certain gaming
-sessions. I would be playing EVE, or City of Heroes, and then blam! The
+sessions. I would be playing EVE, or City of Heroes, and then BLAM! The
 black screen would appear and my system would reboot. Of course I
 thought the problem was my video card. So the testing began.
 
@@ -49,7 +49,7 @@ I disabled my internet access recently. I stopped playing video games.
 When I go home, I don't want to touch the computer, let alone
 troubleshoot its seemingly endless hardware problems. I'm just burnt
 out. I have no dillusions that I'll stay this way forever, but for the
-moment, I could care less if my computer works tonight or ever. My only
+moment, I couldn't care less if my computer works tonight or ever. My only
 guilt in all this is the wasted money invested in a new system. I guess
 that's the way these things go, though. Given time, you get bored of
 everything, right?

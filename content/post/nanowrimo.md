@@ -42,7 +42,7 @@ this I know and it will have to be enough.
 Next month is the tenth anniversary of [NaNoWriMo][]. That's the
 National Novel Writing Month, for those not in the know. The goal of the
 event is to write 50,000 words in 30 days. That's 1667 words a day, or
-about 3 pages in Word. The timeline is agressive because that's what
+about 3 pages in Word. The timeline is aggressive because that's what
 authors really need. I know as well as the next writer how easy it is to
 get wrapped up in editing as you go. You write a sentence, then rewrite
 it for hours until it's perfect. With NaNoWriMo, that's just not an

@@ -54,7 +54,7 @@ self-effacing faith, was a powerful threat to that way of living.
 So I asked myself, "Do I want to believe?" I asked, "Can I let myself
 believe?" And still, "Is belief worth it." A funny thing happened when I
 did that. I realized that by asking the question, I had admitted to
-myself that my faith existed already, that I was surpressing it, hiding
+myself that my faith existed already, that I was suppressing it, hiding
 away from the guilt. It wasn't pretty.
 
 Even these days, as I know I've moved forward a great deal, I still see

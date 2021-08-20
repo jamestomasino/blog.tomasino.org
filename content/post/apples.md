@@ -10,7 +10,7 @@ slug: "apples"
 Last night I went shopping at the [Perimeter Mall][] just north of
 Atlanta. I've been up in the area a few times, but I hadn't been inside
 the mall yet. Last night, a friend and I had too much food at
-[Cheeseburger in Paradise][] before walking off our fattness around the
+[Cheeseburger in Paradise][] before walking off our fatness around the
 swanky stores.
 
 Most of the stores weren't very inviting; either selling kids clothes or
@@ -34,7 +34,7 @@ backwards. Then we touched it.
 
 I knew I was wrong right away. As I lifted the unit, I was as impressed
 by how sturdy and solid it felt as I was by how little it weighed. Gone
-were the days where the screen wobbles as you walk the laptop around.
+were the days when the screen wobbles as you walk the laptop around.
 The hinges held tightly as I closed and reopened it, noticing another
 nice surprise. Apple had also removed the annoying push-button to open
 the laptop. On my 12" PowerBook at home, that very switch has recently

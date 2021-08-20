@@ -65,7 +65,7 @@ Of night and day, and the deep heart of man.
 The beauty of solitude is not all encompassing, though. Many of us crave
 the human touch to fill the voids we find in ourselves. The searching
 can be awful lonely, after all. So we touch each other, hold each other,
-craddle together for warmth. In a moment's peace we seek our communion
+cradle together for warmth. In a moment's peace we seek our communion
 only to step back into the comfort of each other after our trailblazing
 is finished. It is only the bravest, or perhaps most helpless of us that
 ever really gets away. But the beauty of human beings is that spark of

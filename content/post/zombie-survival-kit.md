@@ -47,7 +47,7 @@ little compass on the top. How quaint!
 ### [Adventure Medical Kits Trauma Packwith QuikClot][]
 
 For serious trauma like gunshot wounds or tree branches through your
-chest, you need more than a bandaid. While the need may be uncommon,
+chest, you need more than a band-aid. While the need may be uncommon,
 having this cheap little pack might just save your life, or the life of
 someone you love. It takes up very little space, too.
 
@@ -61,7 +61,7 @@ security. Terrible joke, I know.
 
 These are my waterproof cases within the waterproof case. If there's one
 thing you never, ever want to get wet, it's your emergency bandages and
-medicines. This extra level of protection is absolutely imperetive in my
+medicines. This extra level of protection is absolutely imperative in my
 opinion. Also, if you have anything really sensitive that needs to stay
 dry, toss it in one of these. I find that three of them are enough to
 fit the Medique kit below.
@@ -99,7 +99,7 @@ you up, make a stretcher, or any number of other tasks.
 ### [Hand Axe][]
 
 If your kit needs to help you out past a day or two, being able to work
-with the natural resources around you is imperitive. Chop up some downed
+with the natural resources around you is imperative. Chop up some downed
 branches for a fire. Clear a space for your family. Make some posts for
 hanging a trash bag (instant trash bin). Be creative and live in outdoor
 luxury with this.
@@ -131,8 +131,8 @@ it will make your outdoor living much, much easier.
 ### [Leatherman][]
 
 While I wouldn't rely on one of these guys solo, having all the little
-tools is a help. Suppliment your main knife with any old Leatherman
-model to add versitility.
+tools is a help. Supplement your main knife with any old Leatherman
+model to add versatility.
 
 ### [Beretta Airlight II Tactical Knife, 30% Serrated 2.25" Skeleton Blade][]
 
@@ -160,7 +160,7 @@ sometimes. These might make your water taste tinny, but you'll live.
 
 ### [Petzl E97 Tikka Plus 2 Headlamp][]
 
-In the redundency department, along with your knives, add light to the
+In the redundancy department, along with your knives, add light to the
 list. A headlamp will keep your hands free to do work. They last a
 really long time with LEDs.
 
@@ -204,7 +204,7 @@ to keep you going for a long, long time.
 
 You're going to need water containers. Have a variety, but don't keep
 them all filled up. Learn to treat your water so you don't have to carry
-it all with you. Carry the empty containers with a minimum amout of
+it all with you. Carry the empty containers with a minimum amount of
 water for drinking as you travel, then fill them up when you stop, treat
 them, and save yourself the weight. 1 liter of water weights about 1kg.
 That adds up quick.
@@ -229,7 +229,7 @@ Pack choices are a highly personal decision. I'm an ultra-light
 backpacker, so this relatively cheap bag from Gossamer Gear is a
 fantastic fit for me. The one pictured is a slightly older model than
 the link. Remember, you may need to carry your emergency gear at some
-point. You can't just rely on the car to get you everwhere. Plan ahead
+point. You can't just rely on the car to get you everywhere. Plan ahead
 for the un-fun possibilities.
 
 ### [Minus33 100% Merino Wool Base Layer 703 LightWeight Short Sleeve Crew Neck Top][]
@@ -244,7 +244,7 @@ together. Quality over quantity here.
 ### [Lodge Logic Dutch Oven with Loop Handles][]
 
 This luxury will probably the first thing to be left behind if we have
-to set out on foot. It's damn heavy, but what a versitile cooking tool.
+to set out on foot. It's damn heavy, but what a versatile cooking tool.
 It works in your oven, in your fireplace, or on a campfire. It cleans up
 with a quick rinse and is ready to go again. Pure camping-cooking
 heaven.

@@ -6,7 +6,7 @@ tags:
 ---
 
 Today was Wit's first day of school. In actuality it was a bit of an
-orientation day where the kids and parents went to the school for an hour
+orientation day when the kids and parents went to the school for an hour
 to meet the teachers and get some basic information. That works for us
 because we have absolutely no idea what we're doing.
 

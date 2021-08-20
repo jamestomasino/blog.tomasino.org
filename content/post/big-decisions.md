@@ -16,7 +16,7 @@ Sometimes it feels like part of growing up is running into more and more
 of those tough decisions that aren't automatic. For instance, each of
 the times I get that wanderlust itching me forward to a new city, the
 automatic choice is harder and harder. Do I go to Alaska? Do I go to
-Italy, to Toronto, to India? What about a Ph.D.? Is it time yet, or
+Italy, to Toronto, to India? What about a pH.D.? Is it time yet, or
 should I do more industry work. Or the more recent: Do I move back to
 Indiana and start teaching?
 
@@ -29,12 +29,12 @@ complicate one another, though?
 Do I move forward in a relationship that is good, if a bit scary,
 because that is the way the choice is leaning? On the one hand, it
 involves a lot of other good things, such as teaching, moving back where
-I have already made friends (and enemies), finishing my Ph.D., and an
+I have already made friends (and enemies), finishing my pH.D., and an
 assortment of other bonuses that are equally unrelated to the actual
 relationship. Things would change, but is it so bad? Well, my wanderlust
 would be hindered greatly–a problem that doesn't seem too bad now, but
 can cause big issues down the line. Also, the selfish track of life
-takes a big hit. Perhaps the oddest confict is the religous one, though.
+takes a big hit. Perhaps the oddest conflict is the religious one, though.
 
 I've basically put my seminary thoughts on pause while I've debated on
 this issue. The real complication comes from the way I ask the question:
@@ -53,7 +53,7 @@ talk myself into it.
 
 Is that really the best thing for me, for her? I know the choice should
 be automatic, and were it not for the questions of self, nature, and
-God, it truely would be. I could like that life I see for myself with
+God, it truly would be. I could like that life I see for myself with
 her. I could get past the headaches and frustrations that will accompany
 it. I can ground myself in a place and plant roots. The choice of
 standing up and saying definitively "Yes!" is the problem.

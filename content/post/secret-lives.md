@@ -16,18 +16,18 @@ was partially catharsis and partially a half-hearted attempt to form a
 new connection.
 
 For me, the hardest thing about ending a long relationship is not the
-physical separation or loss of intamacy, but the loss of a confidant and
+physical separation or loss of intimacy, but the loss of a confidant and
 counselor. It is that special person above all others who you turn to
 with problems and complaints, joys and victories, and above all,
-heartache. So it is quite inevitaable that when that greatest loss
+heartache. So it is quite inevitable that when that greatest loss
 comes, the sword is felt as strongly when striking as when it is pulled
 away, revealing the hole in its stead.
 
-My first post addressed the confusion and lonliness I was feeling then.
-It was a pain that was unsharable, but not because there was any
+My first post addressed the confusion and loneliness I was feeling then.
+It was a pain that was not shareable, but not because there was any
 uniqueness to it. Most of my friends have felt it before and would
 certainly have sympathized with me, offering comfort and companionship.
-That very reaction, though, was why the feelings were unsharable for me.
+That very reaction, though, was why the feelings were not shareable for me.
 As I put it in that first post, "just let the damned compassion die away
 and give me someone who will wallow with me and tell me that they
 'empathize' instead of 'sympathize'. It can't be that hard to find a
@@ -46,11 +46,11 @@ seeking some new me on the other side of grief. In the two months I
 wrote, new friends and commentors gathered. I shared with them, the
 strangers, what I couldn't share with my friends. I poured out detail
 after detail, condemnation and prostration, and in the end I was empty.
-The pain was there, floating with me as fresh as ever, but the dispair
+The pain was there, floating with me as fresh as ever, but the despair
 had moved on.
 
 There was no goodbye message in my last post. It, just like the others,
-was an empassioned tirade on the falicies of my actions and the entirety
+was an impassioned tirade on the fallacies of my actions and the entirety
 of sexuality in my being. But, in the last few words, there was a hint
 of a new beginning, or at least a new resolution as I continued the
 ongoing journey I had begun long before.

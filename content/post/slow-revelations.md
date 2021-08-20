@@ -8,8 +8,8 @@ tags:
 slug: "slow-revelations"
 ---
 
-Somewhere between the steel framed bedracks, flourescent lights and
-linoleum tile, I lost my sense of self. It wasn't a permenant thing. I
+Somewhere between the steel framed bed racks, fluorescent lights and
+linoleum tile, I lost my sense of self. It wasn't a permanent thing. I
 remembered who I was just as quickly. In that Navy compartment, after
 doing jumping jacks for so long that the pain no longer felt like pain,
 all of me dulled away. It was a lot like meditations I'd done before,
@@ -34,8 +34,8 @@ already called me Reverend long before those jumping jacks. I led the
 nightly prayer just after lights out. I was the one people confided in.
 
 So what changed, then? I didn't find God in that moment. I didn't
-recognize or necessariliy believe in the divinity of Christ, yet. I had
-always been interested in religions, especially in gnosticism, and
+recognize or necessarily believe in the divinity of Christ, yet. I had
+always been interested in religions, especially in Gnosticism, and
 metaphysics. This was different, though. Something changed the Sacred
 from an aspect of my intellectual desire, manifested through the
 numinous, and experienced through hierophany to a totally inhabited
@@ -46,20 +46,20 @@ It was strong enough, in fact, that I felt the need to explain to my old
 friends as soon as I talked to them. I told them I considered myself
 Christian again, setting it up before them like a sign they could either
 accept or walk away from. Despite all of my previous observations on
-converts and the rediculous over-zealous acceptance and implementation
+converts and the ridiculous over-zealous acceptance and implementation
 of their new faiths, I walked right into the same trappings. I am a
-little embarrased now about that time, but I think it's necessary for
+little embarrassed now about that time, but I think it's necessary for
 some people.
 
 So this strong presence was upon me, and somehow I knew it was God, and
 I knew what the message was. It was as clear as day, but totally
-unexpressible in words. I was called to something, I had a vocation. I
+inexpressible in words. I was called to something, I had a vocation. I
 didn't know what it meant, precisely, and even now I still see only tiny
 pieces of the puzzle. I assume it will always be like that.
 
 Part of me always expected that the Saints felt something overwhelming
 and precise when they had their revelatory moments. Something in them
-should have snapped and seperated the one day sinner to the new day
+should have snapped and separated the one day sinner to the new day
 saint. I always thought that was how things happened, quick and
 absolute, like in Bible stories. But even those stories didn't happen
 overnight. Long years of oral tradition may have made them seem that
@@ -76,7 +76,7 @@ From the story, it sounds like there and then he was a changed and holy
 person, destined to become a saint, but that's only the beginning. Just
 like me, Ignatius found his calling while he was injured in the
 military, and just like me, he had no idea what to do with the knowledge
-when he left. He travelled to Jeruselem and back again and to all manner
+when he left. He traveled to Jerusalem and back again and to all manner
 of places for six years before he decided to seek formal education.
 During those years, he starved himself next to death in hope of finding
 revelation of God's intentions for him. He ran wherever he felt called

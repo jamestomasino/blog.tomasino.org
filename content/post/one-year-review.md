@@ -25,5 +25,5 @@ later category. Each day I find myself acting a little more cynacal or a
 little more angry. This next year will definitely be the last one here.
 
 Luckily, there are some good people here to keep me distracted from the
-overwhelming amount of filth and degredation. Good people are worth an
+overwhelming amount of filth and degradation. Good people are worth an
 extra year, I think.

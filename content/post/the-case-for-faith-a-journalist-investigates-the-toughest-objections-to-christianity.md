@@ -13,7 +13,7 @@ slug: "the-case-for-faith-a-journalist-investigates-the-toughest-objections-to-c
 ![The case for faith][]
 
 Lee Strobel's book shows a heavy influence from his time as a
-journalist, an influence he makes no attempt to deny or deminish. This
+journalist, an influence he makes no attempt to deny or diminish. This
 book, like his others in his "The Case for..." series, relies heavily
 upon the reasoning and logical deduction he learned as a reporter with
 the Chicago Tribune. So it came as no surprise when he logically ordered
@@ -45,10 +45,10 @@ questions on his own, or even summarize other answers from journals,
 periodicals, and books. He interviews experts in the christian community
 who have particular familiarity with each question. The author then
 becomes a voice of the questioner, the doubter, and at times the
-athiest, who argues against christianity with the sense of truth that
-comes from a person who was indeed once an athiest himself.
+atheist, who argues against Christianity with the sense of truth that
+comes from a person who was indeed once an atheist himself.
 
-The authors anticdotes about his own path to faith and the parallels he
+The authors antidotes about his own path to faith and the parallels he
 shared with the book he is authoring is a helpful guide and a binding
 force to what might have otherwise been disjointed apologetic interviews
 with top christian leaders. As the organizing questions keep the book on
@@ -57,7 +57,7 @@ together as a unit.
 
 I would recommend this book to anyone who is looking for help in their
 own faith journey. It is not, however, a book of solid apologetics to be
-brandished at the nearest athiest in hopes of conversion. There are
+brandished at the nearest atheist in hopes of conversion. There are
 plenty of mixed messages inside, including a strong position that those
 who don't want to believe will not believe. Overall, the author makes
 excellent points that "the Big 8" lose their venom when tackled one by

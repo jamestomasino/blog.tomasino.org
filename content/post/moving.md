@@ -9,7 +9,7 @@ Tonight is my last night in this house. We move into the apartment
 tomorrow and close on the sale on Monday. These seven years have
 been the longest I've ever lived in one place. It's always
 a little sad closing one chapter, but the joy and excitement of
-starting the next is a natural counter-balance.
+starting the next is a natural counterbalance.
 
 I took a picture of my son lying in bed dreaming his last dreams
 here. He's only ever known this home and all its space. The

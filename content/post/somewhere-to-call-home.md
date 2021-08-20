@@ -30,7 +30,7 @@ number of apartment buildings going up, and from what we hear that's been
 the case for the last few years.
 
 After seeing the apartment we walked down the hill to
-[Álafoss](https://alafoss.is/), the birth place of the Icelandic wool
+[Álafoss](https://alafoss.is/), the birthplace of the Icelandic wool
 industry. It's a beautiful little corner spot with a knife maker and wool
 shop. It's basically heaven for Leah. Continuing down the trails brought
 us through a garden setting and nature walk, past playgrounds, and

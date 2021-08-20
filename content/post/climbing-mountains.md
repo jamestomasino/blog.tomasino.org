@@ -79,7 +79,7 @@ street.
 {{< figure src="/images/apartment-from-helgafell.jpg" caption="Our apartment from the mountain">}}
 
 I called Leah and told her to come outside so we could wave to her. She
-grabbed the binoculars and saw us up top and we saw her way way down
+grabbed the binoculars and saw us up top and we saw her way down
 below.
 
 {{< figure src="/images/leah-from-helgafell.jpg" caption="Leah from the mountain">}}

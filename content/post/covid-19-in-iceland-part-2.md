@@ -9,7 +9,7 @@ tags:
 
 Here we are in mid-August and the world is still crippled by the global
 pandemic. I spoke at length about Iceland's steps to combat COVID-19 in
-[my last blog post](/covid-19-in-iceland). Since there there have been
+[my last blog post](/covid-19-in-iceland). Since there have been
 a few developments.
 
 {{< figure src="/images/covid-tests-updated.png" caption="Domestic Infection Incident Rate">}}

@@ -7,33 +7,33 @@ tags:
 slug: "the-road"
 ---
 
-I'm walking down a path through the woods at camp ockanickon. Night is
+I'm walking down a path through the woods at camp Ockanickon. Night is
 deep around us, nearing 10 o'clock. We each wear our darkest clothes and
 black makeup to blend into the woods more deeply. We walk calmly off the
 trail of the haunted hayride, out of earshot, but even so we talk in
-hushed tones careful not to disturb the fragrence of silence around us.
-The stilliness in the woods is like the fifth member of our party. It is
+hushed tones careful not to disturb the fragrance of silence around us.
+The stillness in the woods is like the fifth member of our party. It is
 a tangible force, and its presence makes us all feel at ease. They talk
 about how we are our own shadows, how if we stand still and hold our
 breaths we are no more alive than the wind. I smell the wind and catch
 the scent of burnt coffee.
 
-Someone had buried an old matress, lain a carpet over it and scattered
+Someone had buried an old mattress, lain a carpet over it and scattered
 dirt and brush to hide the evidence. We all tripped but none of us fell.
 The ground recoiled and we bounced, giddy and smiling only seconds after
 the panic. We looked into each others eyes, seeing only the glints off
 of torches nearby. We wanted to call each other chicken, to laugh
 forever. I wanted to scream my inhibitions away. To love, to kiss. I
-wanted to stay and jump on the matress. Someone was coming, though, and
+wanted to stay and jump on the mattress. Someone was coming, though, and
 the alert was called. We giggled and vanished into the brush by a creek.
 We watched a young couple escaping off of the hayride wander their way
 back to the entrance. They were alone, we were the wind. They smiled,
-they laughed, they loved. and then they stepped on the matress.
+they laughed, they loved. And then they stepped on the mattress.
 
  
 
 I've found so many ways to herd myself forward over the past two years.
-Everytime I turn around I see another way to motivate myself even if it
+Every time I turn around I see another way to motivate myself even if it
 is only for a day. My gypsy blood has pulled me all the way to Alaska; a
 farther spot is hard to find.
 

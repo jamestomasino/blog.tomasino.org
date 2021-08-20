@@ -38,7 +38,7 @@ for nearly everything I come into touch with. Speaking along these terms
 for that blood I spoke of, I feel that it is inherent in me spiritually
 as well as genetically to desire a nomadic existence. We are creatures
 of tendency and routine. When we do something often, it becomes
-ingrained with us us. If it is something important to our survival, that
+ingrained with us. If it is something important to our survival, that
 imprint is often passed to our children and to their children. It
 becomes part of the living spirit of a people to follow these methods.
 It could be theorized it may have some part in evolution as well, but

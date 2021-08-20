@@ -12,7 +12,7 @@ foul.</span>
 
     - Thomas Fuller - [Gnomologia: Adagies & Proverbs][] (1732)
 
-Back as the millenium came to a close, my friends and I had a lot of
+Back as the millennium came to a close, my friends and I had a lot of
 good humored conversations about the end of the world as we know it. We
 talked about what it would be like, all the great things, all the
 terrible things, and what we would do if we survived. It wasn't uncommon

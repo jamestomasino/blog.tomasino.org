@@ -14,12 +14,12 @@ experience with insights and discoveries too numerous to name here. I
 tried writing about it a few times, but rather than letting that stream
 of consciousness flow unchecked upon the internet, I decided to put all
 those thoughts into a paper journal. My personal struggles aside, the
-retreat itself could use a bit of explaination.
+retreat itself could use a bit of explanation.
 
 The Ignatius House runs silent, reflective retreats on weekends
 throughout the year. Some of those weekends are themed, where every few
 hours a priest will give a brief talk about the faith as it relates to
-both the chosen theme and St. Ignatius' Spritual Exercises. The talks
+both the chosen theme and St. Ignatius' Spiritual Exercises. The talks
 last thirty minutes or so, and then everyone is let loose to wander the
 grounds, both inside and out, in search of peaceful reflection on the
 topics. Sometimes that peace comes sitting in a fluffy chair in the
@@ -60,7 +60,7 @@ morning, things had changed already.
 
 Besides the nagging questions of faith I was having, and the amazing
 clarity and speed at which I was addressing them, there were other
-things floating through my mind; like a metacognative awareness of my
+things floating through my mind; like a meta cognitive awareness of my
 own learning, and a recognition of the spirituality of the place as a
 whole, outside of the realm of the people, statues, and paths carved all
 around. I found a leaf hanging ten feet below a branch from a single
@@ -69,20 +69,20 @@ with a smile. So much meaning comes from such little places when the
 silence is upon you.
 
 That second day, the silence was a part of me. The stranger that had
-oppresessed my speech yesterday had settled into me in the night. When
-the third day came, and the bell rang again signalling the end of the
+oppressed my speech yesterday had settled into me in the night. When
+the third day came, and the bell rang again signaling the end of the
 silence, it was a long breath before anyone bothered to speak up. When
 the words came out, they were quiet, like they didn't want to break that
-tenative thread that held each of us in that place. We could feel
+tentative thread that held each of us in that place. We could feel
 ourselves suspended by a thread.
 
 On the drive home, I left the radio turned off. I took long winding
-roads and several purposful wrong turns. I was scared that silence would
+roads and several purposeful wrong turns. I was scared that silence would
 be gone the instant I was back in my old world again.
 
 This summer, I'll be taking a week-long retreat instead of the short
 weekend one. Instead of lectures every few hours, this retreat is
-individually guided, meaning I'll meet with my spritual director once a
+individually guided, meaning I'll meet with my spiritual director once a
 day and spend the rest of the time in silent meditation. My fear this
 time is not that I wont want to leave, but that I wont be able to.
 
