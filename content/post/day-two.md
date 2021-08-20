@@ -21,7 +21,7 @@ Similarly, the government services in Iceland seem to be free as well.
 Processing our residency had no charge. It didn't strike me as odd until
 I compared it mentally with things in the United States. Everything in the
 US costs money. Remarkably, the charges for government services are often
-also taxed, which is worthy of an eye-brow raise. Just picking up
+also taxed, which is worthy of an eyebrow raise. Just picking up
 a drivers license in Pennsylvania required going to a bunch of different
 places to get emissions tests (fee), inspection (fee), registration (fee).
 

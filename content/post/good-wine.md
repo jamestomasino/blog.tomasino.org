@@ -1,4 +1,4 @@
---
+---
 title: "Good Wine"
 date: "2008-12-19"
 author: "tomasino"
@@ -10,8 +10,7 @@ slug: "good-wine"
 ---
 
 <span style="font-style: italic;">"Remaining" is an essential part...
-What the Church Fathers call <span
-style="font-style: normal;">perseverantia</span>–patient steadfastness
+What the Church Fathers call <span style="font-style: normal;">perseverantia</span>–patient steadfastness
 in communion with the Lord amid all the vicissitudes of life–is placed
 center stage here. Initial enthusiasm is easy. Afterward, though, it is
 time to stand firm, even along the monotonous desert paths that we are
@@ -20,8 +19,7 @@ evenly, a patience in which the romanticism of the initial awakening
 subsides, so that only the deep, pure Yes of faith remains. This is the
 way to produce good wine.</span>
 
-    → Joseph Cardinal Ratzinger (Now, Pope Benedict XVI) - [Jesus of
-Nazareth][] (2007)
+    → Joseph Cardinal Ratzinger (Now, Pope Benedict XVI) - [Jesus of Nazareth][] (2007)
 
 Pope Benedict must know me very well, indeed. The lustful exuberance
 with which I jump into things inevitably fades and I'm left with the

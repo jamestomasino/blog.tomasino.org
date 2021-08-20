@@ -19,7 +19,7 @@ The interview was long, incredibly personal, and quite draining on both
 of us; but in the end he invited me to continue my application for the
 Novitiate. Now I have approximately four weeks to complete another 5
 interviews, arrange for 5 letters of reference, get a physical, dental
-exam, opthamologist exam, transcripts from everywhere, military service
+exam, ophthalmologist exam, transcripts from everywhere, military service
 records, church records, a psychological evaluation, and a partridge in
 a pear tree. How am I taking it? I'm glowing with excitement.
 

@@ -23,7 +23,7 @@ day of summer". But what's this? It's not the first day of summer, you
 say? That's right, we are 45 days into summer already.
 
 See, I think the problem is that people only ever learned the names of
-the seasonal mid-points growing up. The equinoxes and the solstices are
+the seasonal midpoints growing up. The equinoxes and the solstices are
 the days which mark out halfway progression through each season. The
 summer solstice was, in fact, called "midsummer" for most of its
 existence. Remember that little play, "A Midsummer Night's Dream"?

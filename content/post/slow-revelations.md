@@ -67,7 +67,7 @@ way, but things always seem to have taken their time.
 
 As an example, though not Biblical, Saint Ignatius Loyola was a soldier
 in the army when on May 20th, 1521, in the citadel of Pampeluna, a
-cannon ball passed between his legs, crushing the bone and muscle. While
+cannonball passed between his legs, crushing the bone and muscle. While
 he was recovering from his wounds (a process that nearly killed him) he
 read the stories of Christ. After a long time, the true message was
 finally revealed to him and he realized that he had been living for the

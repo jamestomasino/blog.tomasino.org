@@ -6,12 +6,11 @@ tags:
   - COVID-19
 ---
 
-COVID-19 (The Corona Virus) has been in Iceland now for a few
-weeks. It began slowly, with a few Icelanders returning from
-holiday in Verona, Italy. When a few of those showed symptoms, the
-rest of those traveling and those who were in close contact with
-the travelers immediately went into quarantine. Things were held
-tight.
+COVID-19 (The Coronavirus) has been in Iceland now for a few weeks. It
+began slowly, with a few Icelanders returning from holiday in Verona,
+Italy. When a few of those showed symptoms, the rest of those traveling
+and those who were in close contact with the travelers immediately went
+into quarantine. Things were held tight.
 
 Sadly, there were a few people who broke quarantine and spread the
 infection, while travelers coming through Austria brought in a new

@@ -29,7 +29,7 @@ though, is that it did strike all of us that were there.
 
 Before the retreat kicks off, there is an informal gathering where
 people introduce themselves and share tidbits of their lives over
-cookies. It's a friendly meeting, but you can tell that most everyone is
+cookies. It's a friendly meeting, but you can tell that almost everyone is
 anxious to get on with the silence and enter their own mini-worlds. When
 the bell rang that signaled the beginning, there was a palpable weight
 that lifted and at the same time settled over everything. I remember
