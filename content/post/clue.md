@@ -98,9 +98,7 @@ the full names of things. I won't stop you.
 Using my codes, I make notes of everyones accusations in a vertical
 column in my notes, like this:
 
-<p>
 > `C ( S, Kn, 1 )`
-> </p>
 
 In this example, Chris made an accusation that Ms. Scarlet used the
 Knife in the Hall.
@@ -108,9 +106,7 @@ Knife in the Hall.
 When someone responds to the accusation, I note who they are and any
 possible answers they gave:
 
-<p>
 > `C ( S, Kn, 1 ) -> D ( S, -, 1)`
-> </p>
 
 In this example, Dan is the one who responded to the accusation. He
 possibly showed Chris either Ms. Scarlet, or the Hall. I know he didn't
@@ -121,9 +117,7 @@ items, but I also know that Josh, who came between them, definitely does
 NOT have either Ms. Scarlet or the Hall. I note this as well to finish
 my line:
 
-<p>
 > `C ( S, Kn, 1 ) -> D ( S, -, 1 ) = J ( !S, -, !1 )`
-> </p>
 
 My notation is sort of programming based, but really I'm just trying to
 show negatives with "!" symbols. Again, everything is concise.
