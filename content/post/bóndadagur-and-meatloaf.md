@@ -51,7 +51,7 @@ spirit. Besides, I'm the man of the house so it's my decision, right? 🙂
 
 Sadly we also learned this morning of the passing of the musician, Meatloaf.
 
-{{< figure src="/images/bondadagur-not-meatloaf.jpg" caption="Meatloaf NOT for Bóndadagur">}}
+{{< figure src="/images/bondadagur-not-meatloaf.jpg" caption="Meatloaf NOT for Þorrablót">}}
 
 Rest in peace, big guy. His name is Robert Paulson.
 
