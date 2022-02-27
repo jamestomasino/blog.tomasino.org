@@ -3,6 +3,7 @@ date: 2022-02-27 17:39:34 +0000
 title: "Bolludagur"
 tags:
   - Iceland
+  - Food
 ---
 
 Tomorrow is the first of three wonderful holidays in Iceland that make up

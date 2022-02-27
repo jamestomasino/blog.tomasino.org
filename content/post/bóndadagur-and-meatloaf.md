@@ -3,6 +3,7 @@ date: 2022-01-21 19:00:46 +0000
 title: "Bóndadagur and Meatloaf"
 tags:
   - Iceland
+  - Food
 ---
 
 Today is the Icelandic holiday *Bóndadagur*, or "Husband's Day". It marks the
