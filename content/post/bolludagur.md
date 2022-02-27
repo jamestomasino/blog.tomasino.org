@@ -1,6 +1,7 @@
 ---
 date: 2022-02-27 17:39:34 +0000
 title: "Bolludagur"
+thumbnail: "https://blog.tomasino.org/images/bolludagur-07.jpg"
 tags:
   - Iceland
   - Food
