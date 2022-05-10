@@ -14,7 +14,7 @@ of the entire country present at a party.
 This past weekend was Culture Day, an affair more spread out around the
 city but not much less popular.
 
-{{< peertube "toobnix.org" "1c72caaf-55af-4334-9b9b-2737bc0e66db" >}}
+{{< youtube fmCOPuzNX-E >}}
 
 We took the bus downtown for each event, giving us a little more practice
 in those transfers and a feel for timing. The bus system in Iceland is
