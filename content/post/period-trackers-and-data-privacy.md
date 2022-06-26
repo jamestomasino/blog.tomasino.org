@@ -1,6 +1,6 @@
 ---
 date: 2022-06-26 11:42:12 +0000
-title: "Period-Trackers and Data Privacy"
+title: "Period Trackers and Data Privacy"
 og_image: /images/period-tracker-og.png
 tags:
   - data privacy
@@ -10,7 +10,7 @@ tags:
 
 # What is happening?
 
-A lot of information is being spread around about the dangers of period-tracker
+A lot of information is being spread around about the dangers of period tracker
 data in the wake of Roe v Wade being overturned, and with good reason. Some
 state legislatures are investigating a troublesome and vaguely defined area of
 law: whether you can be charged with a crime in one state for activity that
@@ -28,9 +28,9 @@ crime, even if that act is legal in the country it occurs in. This is commonly
 applied to underage sexual activity in places like Thailand, and it paints a
 clear picture for how states can apply the same logic to their own residents.
 
-# What about period-trackers?
+# What about period trackers?
 
-So why the fuss over period-trackers? The primary reason is that these apps [are
+So why the fuss over period trackers? The primary reason is that these apps [are
 not made for those who menstruate, but for
 marketers](https://www.vox.com/the-goods/2018/11/13/18079458/menstrual-tracking-surveillance-glow-clue-apple-health).
 Their primary purpose is to harvest data that can be shared with third parties
@@ -115,11 +115,11 @@ version due in August of 2022.
 
 [Euki](https://eukiapp.com) is another app that keeps the data on your device.
 It is available in English and Spanish on iOS and Android. Some of the more
-popular period-tracking prediction features available in other apps aren't to be
+popular period tracking prediction features available in other apps aren't to be
 found in this one, but safety should be a bigger concern these days.
 
 You can read more about these apps and others in [this consumer reports
 review](https://www.consumerreports.org/health-privacy/period-tracker-apps-privacy-a2278134145/)
-of several period-tracker apps and their privacy.
+of several period tracker apps and their privacy.
 
 Be safe, protect your data.
