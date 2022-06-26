@@ -1,6 +1,7 @@
 ---
 date: 2022-06-26 11:42:12 +0000
 title: "Period-Trackers and Data Privacy"
+og_image: /images/period-tracker-og.png
 tags:
   - data privacy
 ---
