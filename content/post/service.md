@@ -44,5 +44,5 @@ didn't make it back, have a happy Veteran's Day, and thank you all.
 
 ![James in the Navy][]
 
-  [James in the Navy]: //blog.tomasino.org/images/navy.jpg
+  [James in the Navy]: https://blog.tomasino.org/images/navy.jpg
     "James in the Navy"

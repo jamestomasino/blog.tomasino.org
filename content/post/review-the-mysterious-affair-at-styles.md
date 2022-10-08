@@ -7,7 +7,7 @@ tags:
 slug: "review-the-mysterious-affair-at-styles"
 ---
 
-![The Mysterious Affair at Styles](//photo.goodreads.com/books/1266451495m/16343.jpg)
+![The Mysterious Affair at Styles](https://photo.goodreads.com/books/1266451495m/16343.jpg)
 
 My rating: [4 of 5 stars][]
 
@@ -35,4 +35,4 @@ I will certainly be continuing on with these books!
 
 [View all my reviews][4 of 5 stars]
 
-  [4 of 5 stars]: //www.goodreads.com/review/show/273954790
+  [4 of 5 stars]: https://www.goodreads.com/review/show/273954790

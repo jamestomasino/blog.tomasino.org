@@ -108,16 +108,16 @@ mind messing with firmware and drivers a bit, or installing and
 scripting some fancy hot-keys, this keyboard might be a good fit for you
 too.
 
-  [Perimeter Mall]: //www.perimetermall.com/
-  [Cheeseburger in Paradise]: //www.cheeseburgerinparadise.com/
-  [EB Games]: //www.ebgames.com/
-  [Apple Store]: //www.apple.com
-  [Apple Geniuses]: //www.apple.com/retail/geniusbar/
-  [MacBook Air]: //blog.tomasino.org/images/apple-macbook-air.jpg
-  [Apple Wireless Keyboard]: //blog.tomasino.org/images/apple-wireless-keyboard.jpg
-  [Kensington Bluetooth USB Adapter 2.0]: //us.kensington.com/html/9403.html
-  [this forum]: //www.neowin.net/forum/lofiversion/index.php/t285546.html
-  [AutoHotKey]: //www.autohotkey.com/
-  [someone's]: //www.autohotkey.com/forum/topic6367.html
-  [script]: //brrp.mine.nu/fnkey/files/AppleWirelessKeyboard.zip
-  [Winamp]: //www.winamp.com
+  [Perimeter Mall]: https://www.perimetermall.com/
+  [Cheeseburger in Paradise]: https://www.cheeseburgerinparadise.com/
+  [EB Games]: https://www.ebgames.com/
+  [Apple Store]: https://www.apple.com
+  [Apple Geniuses]: https://www.apple.com/retail/geniusbar/
+  [MacBook Air]: https://blog.tomasino.org/images/apple-macbook-air.jpg
+  [Apple Wireless Keyboard]: https://blog.tomasino.org/images/apple-wireless-keyboard.jpg
+  [Kensington Bluetooth USB Adapter 2.0]: https://us.kensington.com/html/9403.html
+  [this forum]: https://www.neowin.net/forum/lofiversion/index.php/t285546.html
+  [AutoHotKey]: https://www.autohotkey.com/
+  [someone's]: https://www.autohotkey.com/forum/topic6367.html
+  [script]: https://brrp.mine.nu/fnkey/files/AppleWirelessKeyboard.zip
+  [Winamp]: https://www.winamp.com

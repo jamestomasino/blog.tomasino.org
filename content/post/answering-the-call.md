@@ -70,6 +70,6 @@ I'll do what I can to keep moving forward, and with the help of friends
 and family, I'll do my best to be my best at whatever it is I am
 supposed to do. (Try saying that three times fast.)
 
-  [previously]: //blog.tomasino.org/?p=212
-  [Ignatius House]: //www.ignatiushouse.org/
-  [jamestomasino.com]: //www.jamestomasino.com
+  [previously]: https://blog.tomasino.org/?p=212
+  [Ignatius House]: https://www.ignatiushouse.org/
+  [jamestomasino.com]: https://www.jamestomasino.com

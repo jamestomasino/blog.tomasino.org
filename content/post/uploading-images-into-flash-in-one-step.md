@@ -12,5 +12,5 @@ slug: "uploading-images-into-flash-in-one-step"
 have been moved to my new coding blog - [Tomasino Labs][]. This specific
 post can be found [here][].</span>
 
-  [Tomasino Labs]: h//labs.tomasino.org/
-  [here]: //labs.tomasino.org/2009/04/30/as3-one-step-image-upload/
+  [Tomasino Labs]: https://blog.tomasino.org/
+  [here]: https://blog.tomasino.org/2009/04/30/as3-one-step-image-upload/

@@ -88,4 +88,4 @@ The story of Jericho is certainly an interesting reading, and there's so
 much more that could be said about it. That's the way of scripture,
 though.
 
-  [St. Barnabas]: //blog.tomasino.org/images/barnabas.jpg
+  [St. Barnabas]: https://blog.tomasino.org/images/barnabas.jpg

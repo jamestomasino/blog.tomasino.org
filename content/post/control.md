@@ -98,4 +98,4 @@ His heart is the source.</span>
     - St. Margaret Mary Alacoque - Revelations of Our Lord to St. Mary
 Margaret Alacoque (1673-4)
 
-  [Radical Love]: //www.time.com/time/photoessays/2009/radical_love/
+  [Radical Love]: https://www.time.com/time/photoessays/2009/radical_love/

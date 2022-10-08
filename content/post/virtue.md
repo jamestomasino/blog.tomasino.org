@@ -66,6 +66,6 @@ the example of the virtuous person. Lucky for me, I have several of them
 as friends.
 
   [Priestly Virtues: Reflections on the Moral Virtues in the Life of the
-  Priest]: //www.amazon.com/Priestly-Virtues-Reflections-Moral-Priest/dp/B000M6WBRC/?tag=tomablog-20
+  Priest]: https://www.amazon.com/Priestly-Virtues-Reflections-Moral-Priest/dp/B000M6WBRC/?tag=tomablog-20
   [The Case for Faith: A Journalist Investigates the Toughest Objections
-  to Christianity]: //www.amazon.com/Case-Faith-Journalist-Investigates-Christianity/dp/0310234697/?tag=tomablog-20
+  to Christianity]: https://www.amazon.com/Case-Faith-Journalist-Investigates-Christianity/dp/0310234697/?tag=tomablog-20

@@ -32,7 +32,7 @@ more effort and create the bollur from scratch. Now I should preface the rest of
 this post with the disclaimer: I like to cook, but I'm not much of a baker.
 Still, I gave it my best try.
 
-{{< figure src="/images/bolludagur-01.jpg" caption="Preparing the dough">}}
+{{< figure src="https://blog.tomasino.org/images/bolludagur-01.jpg" caption="Preparing the dough">}}
 
 I started by looking online at various recipes for the buns. There's a few
 varieties I found, but most seem to agree on water, milk, butter, salt, sugar,
@@ -54,12 +54,12 @@ tossing in more flour. Instead I made another half-batch of the dough with zero
 eggs and blended it with the original mixture. Finally my consistency was good
 and I was ready to pipe it onto my pans.
 
-{{< figure src="/images/bolludagur-02.jpg" caption="Piping onto the pan">}}
+{{< figure src="https://blog.tomasino.org/images/bolludagur-02.jpg" caption="Piping onto the pan">}}
 
 I'm not a baker. I don't have piping tools. What I do have is zip-lock bags.
 I squeezed all my batter into a bag and snipped the tip and it worked just fine.
 
-{{< figure src="/images/bolludagur-03.jpg" caption="Baking">}}
+{{< figure src="https://blog.tomasino.org/images/bolludagur-03.jpg" caption="Baking">}}
 
 My original recipe called for the buns to be baked at 375°F or 190°C for 35
 minutes. My choux recipe also had similar instructions, but for 30 minutes, and
@@ -71,25 +71,25 @@ insides really did need that last 5 minutes to fully bake, but it would have
 burned the outside to a crisp. Next time I'll try 170°C and give them a little
 longer in the oven.
 
-{{< figure src="/images/bolludagur-04.jpg" caption="Cooling on the rack">}}
+{{< figure src="https://blog.tomasino.org/images/bolludagur-04.jpg" caption="Cooling on the rack">}}
 
 Because the insides were undercooked, they did the expected thing and sunk down
 flat. Without a crispy inner structure to hold them up this is a common
 problem. Thankfully by pulling them out at 25 minutes they remained edible.
 
-{{< figure src="/images/bolludagur-05.jpg" caption="Sunken a bit">}}
+{{< figure src="https://blog.tomasino.org/images/bolludagur-05.jpg" caption="Sunken a bit">}}
 
 This was the least-sunken in of the buns. Not too bad, but I hope to improve
 next time.
 
-{{< figure src="/images/bolludagur-06.jpg" caption="Dipping in chocolate">}}
+{{< figure src="https://blog.tomasino.org/images/bolludagur-06.jpg" caption="Dipping in chocolate">}}
 
 Leah ran out to grab some powdered sugar for the whipped cream, and while she
 did so she also grabbed a set of store-bought buns as backup in case mine turned
 out to be terrible. I tossed some chocolate chips in a porcelain bowl as
 a double-boiler and then we dipped all the buns in for their topping.
 
-{{< figure src="/images/bolludagur-07.jpg" caption="Side-by-side comparison">}}
+{{< figure src="https://blog.tomasino.org/images/bolludagur-07.jpg" caption="Side-by-side comparison">}}
 
 Finally it was time to stuff them full of freshly whipped cream and a bit of
 jam. We use rhubarb jam in ours, but it's a personal preference thing. In the

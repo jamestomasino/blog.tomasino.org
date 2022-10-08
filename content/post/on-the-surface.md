@@ -62,7 +62,7 @@ into the crystal, toward heaven. I try it at times but often find myself
 standing in the way. Though, some places have been more successful than
 others.
 
-![Resurrection Bay](//blog.tomasino.org/images/resurrection_bay.jpg)
+![Resurrection Bay](https://blog.tomasino.org/images/resurrection_bay.jpg)
 
 Resurrection Bay in Seward, Alaska, was one of the most beautiful and
 thought provoking places I've ever been. I found the opportunity to
@@ -81,7 +81,7 @@ floating in place on invisible currents. Even without the paddle in the
 water I can feel the pull of my own currents. On that great surface
 there isn't a need to close my eyes to picture the crystal anymore.
 
-![Sea Otter](//blog.tomasino.org/images/sea_otter.jpg)
+![Sea Otter](https://blog.tomasino.org/images/sea_otter.jpg)
 
 In the waking dream, floating on my tiny vessel, the world is alive with
 signs and omens. The eagle is more than a bird. Each body becomes
@@ -89,5 +89,5 @@ perfect, and my sense of God is omnipresent.
 
 I really like kayaking!
 
-  [Essay Concerning Humane Understanding]: //www.gutenberg.org/etext/10615
-  [allegory of the cave]: //en.wikipedia.org/wiki/Allegory_of_the_cave
+  [Essay Concerning Humane Understanding]: https://www.gutenberg.org/etext/10615
+  [allegory of the cave]: https://en.wikipedia.org/wiki/Allegory_of_the_cave

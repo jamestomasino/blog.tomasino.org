@@ -7,7 +7,7 @@ tags:
 slug: "review-american-gods"
 ---
 
-![American Gods](//photo.goodreads.com/books/1258417001m/4407.jpg)
+![American Gods](https://photo.goodreads.com/books/1258417001m/4407.jpg)
 
 My rating: [1 of 5 stars][]
 
@@ -29,4 +29,4 @@ Nope, it just didn't work for me.
 
 [View all my reviews][1 of 5 stars]
 
-  [1 of 5 stars]: //www.goodreads.com/review/show/205400488
+  [1 of 5 stars]: https://www.goodreads.com/review/show/205400488

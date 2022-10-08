@@ -75,5 +75,5 @@ Maybe I'm not quite where Kenn is, but I'm feeling very good about
 writing. I'm not looking toward finishing, but beginning, expanding, and
 opening out.
 
-  [Aspects of the Novel]: //books.google.com/books?id=vzBtSnA4rLAC
-  [NaNoWriMo]: //www.nanowrimo.org
+  [Aspects of the Novel]: https://books.google.com/books?id=vzBtSnA4rLAC
+  [NaNoWriMo]: https://www.nanowrimo.org

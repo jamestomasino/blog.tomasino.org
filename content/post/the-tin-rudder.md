@@ -88,5 +88,5 @@ was always the Paddle Person.
 >      - Ibid.
 > </p>
 
-  [Paddle-To-The-Sea]: //nighttrainfilms.net/NTFWEB/NTFPages/PaddleToTheSea/index.htm
-  [1]: //blog.tomasino.org/images/paddle_to_the_sea.jpg
+  [Paddle-To-The-Sea]: https://nighttrainfilms.net/NTFWEB/NTFPages/PaddleToTheSea/index.htm
+  [1]: https://blog.tomasino.org/images/paddle_to_the_sea.jpg

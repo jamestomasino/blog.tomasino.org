@@ -47,4 +47,4 @@ but I'll write more on that another day.
 this verse is the Greek word "hypostasis". A much more in-depth analysis
 of the various translations is available [here][].*
 
-  [here]: //hopefaithprayer.com/?page_id=472
+  [here]: https://hopefaithprayer.com/?page_id=472

@@ -5,7 +5,7 @@ tags:
   - Iceland
 ---
 
-![Kitchen in Mosfellsbær](//blog.tomasino.org/images/mosfellsbaer-kitchen.jpg)
+![Kitchen in Mosfellsbær](https://blog.tomasino.org/images/mosfellsbaer-kitchen.jpg)
 
 We have an apartment!
 

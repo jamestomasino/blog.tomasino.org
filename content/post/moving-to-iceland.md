@@ -73,5 +73,5 @@ bring. We're hoping we can figure out a method of moving before Wit
 enters school. We'll see how things develop, though. I've got a long
 history of big plans that go completely awry.
 
-  [Icelandic Flag]: //blog.tomasino.org/images/icelandic-flag.jpg
-  [Jure Sanguinis]: //www.expatsinitaly.com/node/136
+  [Icelandic Flag]: https://blog.tomasino.org/images/icelandic-flag.jpg
+  [Jure Sanguinis]: https://www.expatsinitaly.com/node/136

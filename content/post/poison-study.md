@@ -45,6 +45,6 @@ safe.
 
 [Amazon Link][]
 
-  [Poison Study]: //blog.tomasino.org/images/poison_study.jpg
-  [Kindle]: //www.amazon.com/kindle/
-  [Amazon Link]: //www.amazon.com/Poison-Study-Maria-V-Snyder/dp/0373802307/?tag=tomablog-20
+  [Poison Study]: https://blog.tomasino.org/images/poison_study.jpg
+  [Kindle]: https://www.amazon.com/kindle/
+  [Amazon Link]: https://www.amazon.com/Poison-Study-Maria-V-Snyder/dp/0373802307/?tag=tomablog-20

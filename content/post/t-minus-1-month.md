@@ -5,7 +5,7 @@ tags:
   - Iceland
 ---
 
-![Thingvellir](//blog.tomasino.org/images/thingvellir.jpg)
+![Thingvellir](https://blog.tomasino.org/images/thingvellir.jpg)
 
 With one month to go before we hop on the plane to Iceland our
 days seem mostly filled with nervous anxiety and panic over how

@@ -9,7 +9,7 @@ slug: "madamoiselle-dobigny"
 
 _From an old journal_
 
-{{< figure src="/images/dobigny.jpg" alt="Madamoiselle Dobigny" >}}
+{{< figure src="https://blog.tomasino.org/images/dobigny.jpg" alt="Madamoiselle Dobigny" >}}
 
 I am staring out of my own portrait these days. My world is becoming so
 saturated with the same things day in and day out that I'm ready to

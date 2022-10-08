@@ -39,6 +39,6 @@ though the next wave, over the next mile, up the next hill. For me it is
 a matter of stripping away each piece until there is nothing left but
 me. When I am most alone and empty, I am most me.
 
-  [story]: //seattlepi.nwsource.com/local/285337_kayak_16.html?source=mypi
-  [Renata Chlumska]: //en.wikipedia.org/wiki/Renata_Chlumska
-  [losing her fiancée]: //www.k2news.com/kropp.htm
+  [story]: https://seattlepi.nwsource.com/local/285337_kayak_16.html?source=mypi
+  [Renata Chlumska]: https://en.wikipedia.org/wiki/Renata_Chlumska
+  [losing her fiancée]: https://www.k2news.com/kropp.htm

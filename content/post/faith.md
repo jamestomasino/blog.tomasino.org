@@ -89,4 +89,4 @@ shows us what life is and where it is to be found.</span>
 
     - Ibid.
 
-  [Many Religions, One Covenant: Israel, the Church, and the World]: //www.amazon.com/Many-Religions-One-Covenant-Israel/dp/0898707536/?tag=tomablog-20
+  [Many Religions, One Covenant: Israel, the Church, and the World]: https://www.amazon.com/Many-Religions-One-Covenant-Israel/dp/0898707536/?tag=tomablog-20

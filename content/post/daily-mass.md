@@ -56,5 +56,5 @@ be the right one for me, but I can see why people would like it here.
 There's a lot of great people I'm going to miss, but I'm hopeful that
 we'll be able to stay in touch.
 
-  [Sacred Heart Church]: //www.sacredheartatlanta.org/
-  [Armchair Mystic]: //www.amazon.com/Armchair-Mystic-Easing-Contemplative-Prayer/dp/0867164301/?tag=tomablog-20
+  [Sacred Heart Church]: https://www.sacredheartatlanta.org/
+  [Armchair Mystic]: https://www.amazon.com/Armchair-Mystic-Easing-Contemplative-Prayer/dp/0867164301/?tag=tomablog-20

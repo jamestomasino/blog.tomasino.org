@@ -9,10 +9,10 @@ tags:
 
 Here we are in mid-August and the world is still crippled by the global
 pandemic. I spoke at length about Iceland's steps to combat COVID-19 in
-[my last blog post](/covid-19-in-iceland). Since there have been
+[my last blog post](https:/covid-19-in-iceland). Since there have been
 a few developments.
 
-{{< figure src="/images/covid-tests-updated.png" caption="Domestic Infection Incident Rate">}}
+{{< figure src="https://blog.tomasino.org/images/covid-tests-updated.png" caption="Domestic Infection Incident Rate">}}
 
 Iceland "beat" the first wave quickly. People were respectful of the
 instructions coming from the leaders here and the distancing rules worked.

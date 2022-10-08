@@ -11,7 +11,7 @@ I'm getting rid of all of my stuff.
 
 At first, the thought was that I would simplify by getting rid of a few
 highly annoying items, things that are big, cumbersome, and meaningless
-to me. So, I made [a list][]. It's hard to describe all your possessions
+to me. So, I made a list. It's hard to describe all your possessions
 in that way, expendable or essential. If you get nothing else out of
 this post, I would recommend making that list. You'll be amazed at the
 results.
@@ -82,5 +82,3 @@ Here's a brief list of items that will be going: books, movies, music,
 game systems, clothes, instruments, accessories, computers and other
 hardware, random electronics, and much more. Give me a call if you want
 something.
-
-  [a list]: other/purge_list.html

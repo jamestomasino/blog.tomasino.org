@@ -44,6 +44,6 @@ wonders. We need people like that. We need faith that such things can
 happen. And we need their contributions if we are ever to hope to spread
 our wings beyond this tiny blue dot.
 
-  [Mars Science Laboratory 'Curiosity' Landing Image]: //blog.tomasino.org/images/curiosity-landing.jpg
-  [Total Perspective Vortex of Hitchhiker's Guide to the Galaxy]: //en.wikipedia.org/wiki/Technology_in_The_Hitchhiker%27s_Guide_to_the_Galaxy#Total_Perspective_Vortex
+  [Mars Science Laboratory 'Curiosity' Landing Image]: https://blog.tomasino.org/images/curiosity-landing.jpg
+  [Total Perspective Vortex of Hitchhiker's Guide to the Galaxy]: https://en.wikipedia.org/wiki/Technology_in_The_Hitchhiker%27s_Guide_to_the_Galaxy#Total_Perspective_Vortex
     "Total Perspective Vortex"

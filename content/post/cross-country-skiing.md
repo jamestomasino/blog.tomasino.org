@@ -23,5 +23,5 @@ By the end of the run, I was starting to get sloppy because I was so
 tired. However, I picked up some better form and made some great
 progress. I think I'm going to enjoy this sport.
 
-  [REI]: //www.rei.com/
-  [frolf]: //en.wikipedia.org/wiki/Disc_golf
+  [REI]: https://www.rei.com/
+  [frolf]: https://en.wikipedia.org/wiki/Disc_golf

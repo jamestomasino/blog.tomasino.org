@@ -25,7 +25,7 @@ also taxed, which is worthy of an eyebrow raise. Just picking up
 a drivers license in Pennsylvania required going to a bunch of different
 places to get emissions tests (fee), inspection (fee), registration (fee).
 
-![Church in Reykjavík](//blog.tomasino.org/images/church-in-reykjavik.jpg)
+![Church in Reykjavík](https://blog.tomasino.org/images/church-in-reykjavik.jpg)
 
 Regardless, today we dropped off our rental car and tested out the bus
 system. Stræto is the bus line here. The word means "bus" literally.

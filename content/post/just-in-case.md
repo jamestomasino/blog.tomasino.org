@@ -86,10 +86,10 @@ Good luck, and I hope I never have to see the monument in person.
 -   [Devils Tower Trail Map][]
 -   [North-eastern Wyoming Map][]
 
-  [Gnomologia: Adagies & Proverbs]: //www.amazon.com/Gnomologia-Adagies-Proverbs-Sentences-Sayings/dp/0766167879/?tag=tomablog-20
-  [United States Radioactive Fallout]: //blog.tomasino.org/images/radioactive-fallout.jpg
-  [Wyoming Target Map]: //blog.tomasino.org/images/wyoming-target-map.jpg
-  [Devils Tower Relief Map]: //blog.tomasino.org/images/devils-tower-relief.jpg
-  [Devils Tower Area Map]: //blog.tomasino.org/images/devils-tower-area-map.jpg
-  [Devils Tower Trail Map]: //blog.tomasino.org/images/devils-tower-trail-map.png
-  [North-eastern Wyoming Map]: //blog.tomasino.org/images/north-eastern-wyoming.jpg
+  [Gnomologia: Adagies & Proverbs]: https://www.amazon.com/Gnomologia-Adagies-Proverbs-Sentences-Sayings/dp/0766167879/?tag=tomablog-20
+  [United States Radioactive Fallout]: https://blog.tomasino.org/images/radioactive-fallout.jpg
+  [Wyoming Target Map]: https://blog.tomasino.org/images/wyoming-target-map.jpg
+  [Devils Tower Relief Map]: https://blog.tomasino.org/images/devils-tower-relief.jpg
+  [Devils Tower Area Map]: https://blog.tomasino.org/images/devils-tower-area-map.jpg
+  [Devils Tower Trail Map]: https://blog.tomasino.org/images/devils-tower-trail-map.png
+  [North-eastern Wyoming Map]: https://blog.tomasino.org/images/north-eastern-wyoming.jpg

@@ -42,4 +42,4 @@ Perished with each, -- then mourned for all!
 Atonement is an act of reparation made for the goal of reconciliation.
 I've had more than my share of things to ask forgiveness for.
 
-  [Renascence]: //etext.lib.virginia.edu/toc/modeng/public/MilRena.html
+  [Renascence]: https://etext.lib.virginia.edu/toc/modeng/public/MilRena.html

@@ -41,4 +41,4 @@ Whether 360BCE or 2005CE, we're all on the same little planet dealing
 with the same problems. In all that time, we haven't changed at all in
 the eyes of nature. Though, perhaps we have a bit [more waste.][]
 
-  [more waste.]: //en.wikinews.org/wiki/Louisiana_locked_down%3B_New_Orleans_now_a_%22toxic_soup%22
+  [more waste.]: https://en.wikinews.org/wiki/Louisiana_locked_down%3B_New_Orleans_now_a_%22toxic_soup%22

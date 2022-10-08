@@ -17,6 +17,6 @@ asked to submit their favorite blog entry from 2009. I chose [The Most
 Beautiful Thing in the World][]. What will you pick? Pop on over
 [here][] and make your choice.
 
-  [Elizabeth Esther]: //www.elizabethesther.com/threes_a_crowd/
-  [The Most Beautiful Thing in the World]: //blog.tomasino.org/?p=224
-  [here]: //www.elizabethesther.com/threes_a_crowd/2010/01/the-saturday-evening-blog-post-vol-2-issue-1.html
+  [Elizabeth Esther]: https://www.elizabethesther.com/threes_a_crowd/
+  [The Most Beautiful Thing in the World]: https://blog.tomasino.org/?p=224
+  [here]: https://www.elizabethesther.com/threes_a_crowd/2010/01/the-saturday-evening-blog-post-vol-2-issue-1.html

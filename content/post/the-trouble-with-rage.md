@@ -74,4 +74,4 @@ I'll keep doing what I can to let the feelings pass back out of me. I
 keep telling them they're not welcome here anymore. Anger is stubborn,
 though. It doesn't like to listen to logic.
 
-  [Here]: //norprov.org/spirituality/ignatianprayer.htm
+  [Here]: https://norprov.org/spirituality/ignatianprayer.htm

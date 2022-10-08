@@ -48,7 +48,7 @@ of the sense of calm, passive patience I'm used to. Rather than being
 the core of the virtue, though, I'm beginning to see it more as the
 result.
 
-![Flame](//blog.tomasino.org/images/flame.jpg)
+![Flame](https://blog.tomasino.org/images/flame.jpg)
 
 The remarkable thing is how the process has done more than just force me
 to consider my call. It's already begun changing my behavior, readying
@@ -76,4 +76,4 @@ call the application the true Jesuit postulancy, and I can see why.
 
 As always, please keep me in your prayers. I'm praying for you too.
 
-  [Spiritual Exercises]: //en.wikipedia.org/wiki/Spiritual_Exercises_of_Ignatius_of_Loyola
+  [Spiritual Exercises]: https://en.wikipedia.org/wiki/Spiritual_Exercises_of_Ignatius_of_Loyola

@@ -6,7 +6,7 @@ tags:
   - Hiking
 ---
 
-{{< figure src="/images/wit-on-helgafell.png" link="https://photos.app.goo.gl/6EnMneTqxMj5vB189" caption="Click to see the 3D Panorama">}}
+{{< figure src="https://blog.tomasino.org/images/wit-on-helgafell.png" link="https://photos.app.goo.gl/6EnMneTqxMj5vB189" caption="Click to see the 3D Panorama">}}
 
 Today I needed to peel the boy away from his tablet and Minecraft, so
 I tossed on some boots and a light jacket and we went to explore the
@@ -23,7 +23,7 @@ apartment and I wanted to find it for a future hike. Wit thought that was
 a nice idea too, "but maybe we can go up it a little bit to see what it's
 like."
 
-{{< figure src="/images/wit-walking-to-helgafell.jpg" caption="Wit walking to Helgafell">}}
+{{< figure src="https://blog.tomasino.org/images/wit-walking-to-helgafell.jpg" caption="Wit walking to Helgafell">}}
 
 The roads to get there weren't quite as finished as we'd expected. As
 I mentioned before, our neighborhood is still under a lot of construction.
@@ -55,7 +55,7 @@ fun on the super-squishy moss covered rocks, like little mattresses. The
 space was beautiful, even on an overcast day. Wit was really enjoying
 himself.
 
-{{< figure src="/images/wit-climbing-helgafell.jpg" caption="Wit climbing Helgafell">}}
+{{< figure src="https://blog.tomasino.org/images/wit-climbing-helgafell.jpg" caption="Wit climbing Helgafell">}}
 
 We'd talked on the way about how to travel on a trail safely and how to
 avoid hurting the mountain. I'd told him what my dad always taught me,
@@ -76,13 +76,13 @@ guide there and a pair of binoculars. And so, with a little careful
 plodding, we made our way to the western ledge that looks down on our
 street.
 
-{{< figure src="/images/apartment-from-helgafell.jpg" caption="Our apartment from the mountain">}}
+{{< figure src="https://blog.tomasino.org/images/apartment-from-helgafell.jpg" caption="Our apartment from the mountain">}}
 
 I called Leah and told her to come outside so we could wave to her. She
 grabbed the binoculars and saw us up top and we saw her way down
 below.
 
-{{< figure src="/images/leah-from-helgafell.jpg" caption="Leah from the mountain">}}
+{{< figure src="https://blog.tomasino.org/images/leah-from-helgafell.jpg" caption="Leah from the mountain">}}
 
 After that it was time to head back home. The way down was pretty rough.
 The trail was extremely slippery, especially the wet part, and steep.

@@ -7,7 +7,7 @@ tags:
 slug: "review-a-walk-in-the-woods-rediscovering-america-on-the-appalachian-trail"
 ---
 
-![A Walk in the Woods: Rediscovering America on the Appalachian Trail](//photo.goodreads.com/books/1320519729m/9791.jpg)
+![A Walk in the Woods: Rediscovering America on the Appalachian Trail](https://photo.goodreads.com/books/1320519729m/9791.jpg)
 
 My rating: [2 of 5 stars][]
 
@@ -23,4 +23,4 @@ didn't have that spark that kept me asking, "what happens next?"
 
 [View all my reviews][2 of 5 stars]
 
-  [2 of 5 stars]: //www.goodreads.com/review/show/108884675
+  [2 of 5 stars]: https://www.goodreads.com/review/show/108884675

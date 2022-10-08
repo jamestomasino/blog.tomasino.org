@@ -10,7 +10,7 @@ tags:
 slug: "the-desk"
 ---
 
-![Desk](//blog.tomasino.org/images/desk.jpg)
+![Desk](https://blog.tomasino.org/images/desk.jpg)
 
 I just looked to the side and noticed the pile of stuff building up on
 the corner of my desk. What an interesting collection it was. Through no

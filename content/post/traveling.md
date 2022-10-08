@@ -88,4 +88,4 @@ serve? What can we do to make it better, make ourselves better? In all
 my traveling, that is the most important lesson I've learned. I know of
 no better way to prepare for the journey.
 
-  [The Autocrat of the Breakfast-Table]: //www.gutenberg.org/etext/751
+  [The Autocrat of the Breakfast-Table]: https://www.gutenberg.org/etext/751

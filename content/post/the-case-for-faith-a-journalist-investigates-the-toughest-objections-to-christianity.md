@@ -65,5 +65,5 @@ one, and when taken as a whole, the evidence for faith is overwhelming.
 
 [Amazon Link][]
 
-  [The case for faith]: //blog.tomasino.org/images/the_case_for_faith.jpg
-  [Amazon Link]: //www.amazon.com/Case-Faith-Journalist-Investigates-Christianity/dp/0310234697/?tag=tomablog-20
+  [The case for faith]: https://blog.tomasino.org/images/the_case_for_faith.jpg
+  [Amazon Link]: https://www.amazon.com/Case-Faith-Journalist-Investigates-Christianity/dp/0310234697/?tag=tomablog-20

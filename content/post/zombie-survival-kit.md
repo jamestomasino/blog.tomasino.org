@@ -321,49 +321,49 @@ to flush it manually, clean yourself up. Just remember to be more
 conservative if you are unlikely to have help or power restored in the
 near future. It may have to last a while.
 
-  [All Gear]: //blog.tomasino.org/images/emergency-gear-all.jpg
+  [All Gear]: https://blog.tomasino.org/images/emergency-gear-all.jpg
     "Emergency Gear (All)"
-  [Gear Left]: //blog.tomasino.org/images/emergency-gear-left.jpg
+  [Gear Left]: https://blog.tomasino.org/images/emergency-gear-left.jpg
     "Emergency Gear (Left)"
-  [MTM Survivor Dry Box with O-Ring Seal]: //www.amazon.com/gp/product/B002KENWZY/?tag=tomablog-20
-  [Adventure Medical Kits Trauma Packwith QuikClot]: //www.amazon.com/gp/product/B003BS2PW4/?tag=tomablog-20
-  [Quake Kare Emergency Thermal Blankets (4 Pack)]: //www.amazon.com/gp/product/B0007N0XDO/?tag=tomablog-20
-  [OtterBox 1000 Series Waterproof Case]: //www.amazon.com/gp/product/B000F1ULU8/?tag=tomablog-20
-  [Medique 40061 First Aid Kit, 61-Piece]: //www.amazon.com/gp/product/B001W6RIK6/?tag=tomablog-20
-  [Etón FR160R Microlink Self-Powered AM/FM/NOAA Weather Radio with Flashlight, Solar Power and Cell Phone Charger (Red)]: //www.amazon.com/gp/product/B001QTXKC4/?tag=tomablog-20
-  [Rothco 550lb. Type III Nylon Paracord]: //www.amazon.com/gp/product/B000S5ODNC/?tag=tomablog-20
-  [3M Scotch Heavy Duty All-Weather Duct Tape, 1.88-Inch by 45-Yard, 1-Pack (2245)]: //www.amazon.com/gp/product/B0013AX62K/?tag=tomablog-20
-  [Hand Axe]: //sogknives.com/store/F09.html
-  [Chainmate CM-24SSP 24-Inch Survival Pocket Chain Saw With Pouch]: //www.amazon.com/gp/product/B0026OOS60/?tag=tomablog-20
-  [ADC Medicut Shears, 7-1/4"]: //www.amazon.com/gp/product/B0011MIQUM/?tag=tomablog-20
-  [Snow Peak Titanium Spork]: //www.snowpeak.com/tableware/cutlery/titanium-original-spork-sct-004.html
-  [Entrenching Tool]: //sogknives.com/store/F08.html
-  [Leatherman]: //www.amazon.com/gp/product/B005DI0XM4/?tag=tomablog-20
-  [Beretta Airlight II Tactical Knife, 30% Serrated 2.25" Skeleton Blade]: //www.amazon.com/dp/B0009XSKZA/?tag=tomablog-20
-  [Smith's PP1 Pocket Pal Multifunction Sharpener]: //www.amazon.com/gp/product/B000O8OTNC/?tag=tomablog-20
-  [Potable Aqua Water Treatment Tablets]: //www.amazon.com/Potable-Aqua-Water-Treatment-Tablets/dp/B001949TKS/?tag=tomablog-20
-  [Side note: you can also use bleach to purify water!]: //www.doh.wa.gov/Emergencies/EmergencyPreparednessandResponse/Factsheets/WaterPurification.aspx
-  [Petzl E97 Tikka Plus 2 Headlamp]: //www.amazon.com/gp/product/B0027H0IME/?tag=tomablog-20
-  [Gerber Infinity Ultra Task Light]: //www.amazon.com/gp/product/B000KCRQRS/?tag=tomablog-20
-  [Bic Lighters]: //www.amazon.com/dp/B004EX020C/?tag=tomablog-20
-  [Mora Sweden Classic #1 Red Wood Handle Carbon Steel Knife]: //www.amazon.com/gp/product/B005N83OPM/?tag=tomablog-20
-  [Folding Camp Saw]: //sogknives.com/store/F10.html
-  [Datrex 3600 Emergency Food Bar]: //www.amazon.com/gp/product/B001CSAHW0/?tag=tomablog-20
-  [Camelbak or Platypus]: //www.amazon.com/dp/B001KZGYLS/?tag=tomablog-20
-  [Youngstown Glove 05-3080-70-L General Utility Lined with KEVLAR Glove Large, Gray]: //www.amazon.com/gp/product/B000GQ7IJE/?tag=tomablog-20
-  [Backpacker Poncho]: //www.amazon.com/dp/B0055FECT0/?tag=tomablog-20
-  [Gear Right]: //blog.tomasino.org/images/emergency-gear-right.jpg
+  [MTM Survivor Dry Box with O-Ring Seal]: https://www.amazon.com/gp/product/B002KENWZY/?tag=tomablog-20
+  [Adventure Medical Kits Trauma Packwith QuikClot]: https://www.amazon.com/gp/product/B003BS2PW4/?tag=tomablog-20
+  [Quake Kare Emergency Thermal Blankets (4 Pack)]: https://www.amazon.com/gp/product/B0007N0XDO/?tag=tomablog-20
+  [OtterBox 1000 Series Waterproof Case]: https://www.amazon.com/gp/product/B000F1ULU8/?tag=tomablog-20
+  [Medique 40061 First Aid Kit, 61-Piece]: https://www.amazon.com/gp/product/B001W6RIK6/?tag=tomablog-20
+  [Etón FR160R Microlink Self-Powered AM/FM/NOAA Weather Radio with Flashlight, Solar Power and Cell Phone Charger (Red)]: https://www.amazon.com/gp/product/B001QTXKC4/?tag=tomablog-20
+  [Rothco 550lb. Type III Nylon Paracord]: https://www.amazon.com/gp/product/B000S5ODNC/?tag=tomablog-20
+  [3M Scotch Heavy Duty All-Weather Duct Tape, 1.88-Inch by 45-Yard, 1-Pack (2245)]: https://www.amazon.com/gp/product/B0013AX62K/?tag=tomablog-20
+  [Hand Axe]: https://sogknives.com/store/F09.html
+  [Chainmate CM-24SSP 24-Inch Survival Pocket Chain Saw With Pouch]: https://www.amazon.com/gp/product/B0026OOS60/?tag=tomablog-20
+  [ADC Medicut Shears, 7-1/4"]: https://www.amazon.com/gp/product/B0011MIQUM/?tag=tomablog-20
+  [Snow Peak Titanium Spork]: https://www.snowpeak.com/tableware/cutlery/titanium-original-spork-sct-004.html
+  [Entrenching Tool]: https://sogknives.com/store/F08.html
+  [Leatherman]: https://www.amazon.com/gp/product/B005DI0XM4/?tag=tomablog-20
+  [Beretta Airlight II Tactical Knife, 30% Serrated 2.25" Skeleton Blade]: https://www.amazon.com/dp/B0009XSKZA/?tag=tomablog-20
+  [Smith's PP1 Pocket Pal Multifunction Sharpener]: https://www.amazon.com/gp/product/B000O8OTNC/?tag=tomablog-20
+  [Potable Aqua Water Treatment Tablets]: https://www.amazon.com/Potable-Aqua-Water-Treatment-Tablets/dp/B001949TKS/?tag=tomablog-20
+  [Side note: you can also use bleach to purify water!]: https://www.doh.wa.gov/Emergencies/EmergencyPreparednessandResponse/Factsheets/WaterPurification.aspx
+  [Petzl E97 Tikka Plus 2 Headlamp]: https://www.amazon.com/gp/product/B0027H0IME/?tag=tomablog-20
+  [Gerber Infinity Ultra Task Light]: https://www.amazon.com/gp/product/B000KCRQRS/?tag=tomablog-20
+  [Bic Lighters]: https://www.amazon.com/dp/B004EX020C/?tag=tomablog-20
+  [Mora Sweden Classic #1 Red Wood Handle Carbon Steel Knife]: https://www.amazon.com/gp/product/B005N83OPM/?tag=tomablog-20
+  [Folding Camp Saw]: https://sogknives.com/store/F10.html
+  [Datrex 3600 Emergency Food Bar]: https://www.amazon.com/gp/product/B001CSAHW0/?tag=tomablog-20
+  [Camelbak or Platypus]: https://www.amazon.com/dp/B001KZGYLS/?tag=tomablog-20
+  [Youngstown Glove 05-3080-70-L General Utility Lined with KEVLAR Glove Large, Gray]: https://www.amazon.com/gp/product/B000GQ7IJE/?tag=tomablog-20
+  [Backpacker Poncho]: https://www.amazon.com/dp/B0055FECT0/?tag=tomablog-20
+  [Gear Right]: https://blog.tomasino.org/images/emergency-gear-right.jpg
     "Emergency Gear (right)"
-  [Gossamer Gear Mariposa Ultralight Backpack]: //gossamergear.com/mariposa-2012-ultralight-backpack.html
-  [Minus33 100% Merino Wool Base Layer 703 LightWeight Short Sleeve Crew Neck Top]: //www.amazon.com/dp/B000R7A3EY/?tag=tomablog-20
-  [Lodge Logic Dutch Oven with Loop Handles]: //www.amazon.com/gp/product/B00063RWYI/?tag=tomablog-20
-  [Outdoor Research Wind Pro Balaclava]: //www.amazon.com/dp/B003S3RFLI/?tag=tomablog-20
-  [Spectra® Braided Cord 1050lb test - Heavy Duty Speargun Line - (1/8"DIA x 100ft LEN)]: //www.amazon.com/dp/B004L234TW/?tag=tomablog-20
-  [Stuff Sacks (Bear Bag, etc)]: //www.zpacks.com/accessories/stuff_sacks.shtml
-  [Tempest Tent]: //www.blackdiamondequipment.com/en-us/shop/mountain/shelters/tempest-tent
-  [Littlbug Junior Stove]: //littlbug.com/littlbug_stove_junior.html
-  [Snow Peak Ti-Mini Solo Combo Cook Set]: //www.snowpeak.com/cookware/backpacking/ti-mini-solo-combo-scs-004t.html
-  [Snow Peak Ti-Double H600 Stacking Mug]: //www.snowpeak.com/tableware/cups-mugs/ti-double-h600-stacking-mug-tw-121.html
-  [Z Lite Mattress]: //cascadedesigns.com/therm-a-rest/mattresses/fast-and-light/z-lite/product
-  [Jacks-R-Better Sierra Sniveler]: //www.jacksrbetter.com/shop/sierra-sniveller/
-  [waterBOB Emergency Drinking Water Storage]: //www.amazon.com/gp/product/B001AXLUX2/?tag=tomablog-20
+  [Gossamer Gear Mariposa Ultralight Backpack]: https://gossamergear.com/mariposa-2012-ultralight-backpack.html
+  [Minus33 100% Merino Wool Base Layer 703 LightWeight Short Sleeve Crew Neck Top]: https://www.amazon.com/dp/B000R7A3EY/?tag=tomablog-20
+  [Lodge Logic Dutch Oven with Loop Handles]: https://www.amazon.com/gp/product/B00063RWYI/?tag=tomablog-20
+  [Outdoor Research Wind Pro Balaclava]: https://www.amazon.com/dp/B003S3RFLI/?tag=tomablog-20
+  [Spectra® Braided Cord 1050lb test - Heavy Duty Speargun Line - (1/8"DIA x 100ft LEN)]: https://www.amazon.com/dp/B004L234TW/?tag=tomablog-20
+  [Stuff Sacks (Bear Bag, etc)]: https://www.zpacks.com/accessories/stuff_sacks.shtml
+  [Tempest Tent]: https://www.blackdiamondequipment.com/en-us/shop/mountain/shelters/tempest-tent
+  [Littlbug Junior Stove]: https://littlbug.com/littlbug_stove_junior.html
+  [Snow Peak Ti-Mini Solo Combo Cook Set]: https://www.snowpeak.com/cookware/backpacking/ti-mini-solo-combo-scs-004t.html
+  [Snow Peak Ti-Double H600 Stacking Mug]: https://www.snowpeak.com/tableware/cups-mugs/ti-double-h600-stacking-mug-tw-121.html
+  [Z Lite Mattress]: https://cascadedesigns.com/therm-a-rest/mattresses/fast-and-light/z-lite/product
+  [Jacks-R-Better Sierra Sniveler]: https://www.jacksrbetter.com/shop/sierra-sniveller/
+  [waterBOB Emergency Drinking Water Storage]: https://www.amazon.com/gp/product/B001AXLUX2/?tag=tomablog-20

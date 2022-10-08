@@ -46,7 +46,7 @@ the SmartWake if I woke up any further, and then my glorious night of
 sleep would end. Lo and behold, my pretty little alarm jingle started a
 moment later. Curse you, Zeo. You're just too smart.
 
-  [posted]: //blog.tomasino.org/?p=328
-  [Zeo]: //www.myzeo.com
-  [rest of the world]: //bit.ly/Z1zBa
-  [My Zeo]: //blog.tomasino.org/images/zeo_layers.jpg
+  [posted]: https://blog.tomasino.org/?p=328
+  [Zeo]: https://www.myzeo.com
+  [rest of the world]: https://bit.ly/Z1zBa
+  [My Zeo]: https://blog.tomasino.org/images/zeo_layers.jpg

@@ -7,7 +7,7 @@ tags:
 slug: "review-the-wonderful-wizard-of-oz"
 ---
 
-![The Wonderful Wizard of Oz](//photo.goodreads.com/books/1327894516m/236093.jpg)
+![The Wonderful Wizard of Oz](https://photo.goodreads.com/books/1327894516m/236093.jpg)
 
 My rating: [3 of 5 stars][]
 
@@ -41,5 +41,5 @@ is enough after all.
 
 [View all my reviews][3 of 5 stars]
 
-  [3 of 5 stars]: //www.goodreads.com/review/show/261382148
-  [Where the Wild Things Are]: //www.goodreads.com/book/show/19543.Where_the_Wild_Things_Are
+  [3 of 5 stars]: https://www.goodreads.com/review/show/261382148
+  [Where the Wild Things Are]: https://www.goodreads.com/book/show/19543.Where_the_Wild_Things_Are

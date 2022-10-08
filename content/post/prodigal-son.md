@@ -74,4 +74,4 @@ riddle. If you want to try it out, I recommend using Google to help. And
 keep in mind that the answer is still only a hint at what the present
 is. I wasn't going to give it away.
 
-  [A Prodigal Son]: //books.google.com/books?id=cOoYAAAAYAAJ&pg=PA119&lpg=PA119
+  [A Prodigal Son]: https://books.google.com/books?id=cOoYAAAAYAAJ&pg=PA119&lpg=PA119

@@ -7,7 +7,7 @@ tags:
 slug: "review-the-written"
 ---
 
-![The Written](//photo.goodreads.com/books/1302564004m/10754266.jpg)
+![The Written](https://photo.goodreads.com/books/1302564004m/10754266.jpg)
 
 My rating: [1 of 5 stars][]
 
@@ -25,4 +25,4 @@ wasn't worth it.
 
 [View all my reviews][1 of 5 stars]
 
-  [1 of 5 stars]: //www.goodreads.com/review/show/314055095
+  [1 of 5 stars]: https://www.goodreads.com/review/show/314055095

@@ -55,7 +55,7 @@ draping across newly fallen snow, and it is a metaphor for the calling I
 feel. Unencumbered. Profound. Draw me a haiku that can bring that depth
 in 17 syllables.
 
-![Flower shadows on newfallen snow](//blog.tomasino.org/images/snow-flowers.jpg)
+![Flower shadows on newfallen snow](https://blog.tomasino.org/images/snow-flowers.jpg)
 
 And there is the ever present question of sexuality, as pervasive in
 interviews as it is in society. Where do I begin to talk about celibacy

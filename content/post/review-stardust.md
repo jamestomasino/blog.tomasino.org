@@ -7,7 +7,7 @@ tags:
 slug: "review-stardust"
 ---
 
-![Stardust](//photo.goodreads.com/books/1328433738m/16793.jpg)
+![Stardust](https://photo.goodreads.com/books/1328433738m/16793.jpg)
 
 My rating: [4 of 5 stars][]
 
@@ -30,4 +30,4 @@ going for it the real gem, as I said, is the voice.
 
 [View all my reviews][4 of 5 stars]
 
-  [4 of 5 stars]: //www.goodreads.com/review/show/273950252
+  [4 of 5 stars]: https://www.goodreads.com/review/show/273950252

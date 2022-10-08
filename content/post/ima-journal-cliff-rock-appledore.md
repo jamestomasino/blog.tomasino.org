@@ -29,7 +29,7 @@ rocks lurking just below, invisible, like diamonds in a pool; they were
 scattered pins dropped in a carpet, threatening to prick from the quiet,
 murky depths.
 
-  [IUPUI]: //www.iupui.edu
-  [Indianapolis Museum of Art]: //www.imamuseum.org/
-  [Moleskine]: //www.moleskine.com
-  [Childe Hassam, 'Cliff Rock - Appledore', 1903]: //blog.tomasino.org/images/cliff_rock_appledore.jpg
+  [IUPUI]: https://www.iupui.edu
+  [Indianapolis Museum of Art]: https://www.imamuseum.org/
+  [Moleskine]: https://www.moleskine.com
+  [Childe Hassam, 'Cliff Rock - Appledore', 1903]: https://blog.tomasino.org/images/cliff_rock_appledore.jpg

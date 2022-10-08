@@ -7,7 +7,7 @@ tags:
 slug: "review-a-spell-for-chameleon"
 ---
 
-![A Spell for Chameleon](//d.gr-assets.com/books/1350835227m/76664.jpg)
+![A Spell for Chameleon](https://d.gr-assets.com/books/1350835227m/76664.jpg)
 
 My rating: [1 of 5 stars][]
 
@@ -49,4 +49,4 @@ of thoughts about women. No good and just actions can come of it.
 
 [View all my reviews][1 of 5 stars]
 
-  [1 of 5 stars]: //www.goodreads.com/review/show/453690826
+  [1 of 5 stars]: https://www.goodreads.com/review/show/453690826

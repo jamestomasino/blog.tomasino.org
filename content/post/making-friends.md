@@ -5,7 +5,7 @@ tags:
   - Iceland
 ---
 
-![Wit's eye through wood](//blog.tomasino.org/images/wit-eye-through-wood.jpg)
+![Wit's eye through wood](https://blog.tomasino.org/images/wit-eye-through-wood.jpg)
 
 Wit made a friend! To be more precise he has made several friends recently
 at the playground. Some of the children know some English from TV and are
@@ -22,7 +22,7 @@ together and explore the nearby area. They stick close to the house we're
 staying in and don't go into the street, but they do sometimes wander
 a bit further away in search of one of the many neighborhood cats.
 
-![Reykjavík cat](//blog.tomasino.org/images/reykjavik-cat.jpg)
+![Reykjavík cat](https://blog.tomasino.org/images/reykjavik-cat.jpg)
 
 There are so many of them around here and it's simply wonderful. The
 closest neighboring cat is Mongo. He pops by each day to entertain the
@@ -50,7 +50,7 @@ a bookstore/coffeehouse (I typed kaffihús first, oops) yesterday titled "I
 want to be calm." It made me laugh out loud in the store! How could anyone
 be here and need that book?
 
-![I want to be calm](//blog.tomasino.org/images/book-i-want-to-be-calm.jpg)
+![I want to be calm](https://blog.tomasino.org/images/book-i-want-to-be-calm.jpg)
 
 The few things that were remaining to stress me out are wrapping up. On
 Friday we met with our landlord and signed our rental agreement. She was

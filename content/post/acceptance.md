@@ -65,7 +65,7 @@ decision.
 I have been accepted to enter the tri-state novitiate for the Maryland,
 New York, and New England Provinces of the Society of Jesus this summer.
 
-![Acceptance Letter](//blog.tomasino.org/images/acceptance-letter.jpg)
+![Acceptance Letter](https://blog.tomasino.org/images/acceptance-letter.jpg)
 
 The letter represents a culmination of a decade of discernment,
 countless hours of writing, of reading, and prayer; and yet this is just

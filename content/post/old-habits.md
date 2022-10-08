@@ -29,5 +29,5 @@ me over the years? It took half a decade to stop walking in step with
 everyone around me. I imagine it will always feel weird to take a drink
 while walking now. Old habits die hard, even the silly ones.
 
-  [In-Step]: //blog.tomasino.org/images/in-step.jpg
-  [boot camp]: //blog.tomasino.org/2010/07/11/jump/
+  [In-Step]: https://blog.tomasino.org/images/in-step.jpg
+  [boot camp]: https://blog.tomasino.org/2010/07/11/jump/

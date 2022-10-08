@@ -7,7 +7,7 @@ tags:
 slug: "review-water-for-elephants"
 ---
 
-![Water for Elephants](//photo.goodreads.com/books/1170161179m/43641.jpg)
+![Water for Elephants](https://photo.goodreads.com/books/1170161179m/43641.jpg)
 
 My rating: [3 of 5 stars][]
 
@@ -23,4 +23,4 @@ this story something special.
 
 [View all my reviews][3 of 5 stars]
 
-  [3 of 5 stars]: //www.goodreads.com/review/show/262236308
+  [3 of 5 stars]: https://www.goodreads.com/review/show/262236308

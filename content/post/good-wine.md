@@ -98,4 +98,4 @@ all the pleasures granted to us; but in the end, when God looks at his
 vine and calls on his servants to give up to him what is his, what he
 allows us to tend to and care for, what type of wine will we offer him?
 
-  [Jesus of Nazareth]: //www.amazon.com/Jesus-Nazareth-Pope-Benedict-XVI/dp/0385523416/?tag=tomablog-20
+  [Jesus of Nazareth]: https://www.amazon.com/Jesus-Nazareth-Pope-Benedict-XVI/dp/0385523416/?tag=tomablog-20

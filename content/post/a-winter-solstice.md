@@ -43,6 +43,6 @@ Winter is my writing time. It is my time of reflection and inspiration.
 It is a time of such powerful action that even sitting in a chair by a
 fire is an activity bursting with energy; energy of the spirit.
 
-  [Winter 08]: //farm4.static.flickr.com/3239/3125500579_7a06fa8921.jpg
-  [![Winter 08][]]: //www.flickr.com/photos/tomasino/3125500579/
+  [Winter 08]: https://farm4.static.flickr.com/3239/3125500579_7a06fa8921.jpg
+  [![Winter 08][]]: https://www.flickr.com/photos/tomasino/3125500579/
     "Winter 08"

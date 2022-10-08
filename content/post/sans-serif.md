@@ -82,4 +82,4 @@ As our ships strive endlessly forward into darkness, we spare a passing
 thought that our engines may sparkle like stars for those we left
 behind.
 
-  [Typography: A Manual of Design]: //www.amazon.com/Typography-Manual-Design-Visual-communication/dp/0803872232/?tag=tomablog-20
+  [Typography: A Manual of Design]: https://www.amazon.com/Typography-Manual-Design-Visual-communication/dp/0803872232/?tag=tomablog-20

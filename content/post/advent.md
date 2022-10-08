@@ -22,7 +22,7 @@ trips. We are entering a season that calls upon us for extra vigilance,
 yet we find ourselves perhaps less aware of the happenings around us
 than ever.
 
-![Advent, Week 1](//blog.tomasino.org/images/advent-wreath-week1.jpg)
+![Advent, Week 1](https://blog.tomasino.org/images/advent-wreath-week1.jpg)
 
 What is it we're celebrating, anyway? Why do we call out the time before
 Christmas like this, or why do we call out the Lenten time before

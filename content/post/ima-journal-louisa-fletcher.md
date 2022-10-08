@@ -41,7 +41,7 @@ As he slowly turned to look once more in her direction, her heart sighed
 through her eyes with romance and suspense. She <span
 style="font-style:italic">would</span> have him.
 
-  [IUPUI]: //www.iupui.edu
-  [Indianapolis Museum of Art]: //www.imamuseum.org/
-  [Moleskine]: //www.moleskine.com
-  [Mary Shepard Greene Blumenschein 'Louisa Fletcher', 1912]: //blog.tomasino.org/images/louisa_fletcher.jpg
+  [IUPUI]: https://www.iupui.edu
+  [Indianapolis Museum of Art]: https://www.imamuseum.org/
+  [Moleskine]: https://www.moleskine.com
+  [Mary Shepard Greene Blumenschein 'Louisa Fletcher', 1912]: https://blog.tomasino.org/images/louisa_fletcher.jpg

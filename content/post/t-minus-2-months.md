@@ -5,7 +5,7 @@ tags:
   - Iceland
 ---
 
-![Black Sand](//blog.tomasino.org/images/black-sand.jpg)
+![Black Sand](https://blog.tomasino.org/images/black-sand.jpg)
 
 We're just under 2 months away from the big move to Iceland. The
 last five have gone by so quickly, but we've also managed to do

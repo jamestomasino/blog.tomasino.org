@@ -34,7 +34,7 @@ that's it exactly! We are all unique and beautiful and special in our
 own way, but then what does "special" even mean? Words become devoid of
 meaning and semantics takes the reins.
 
-![Hands Up](//blog.tomasino.org/images/hands-up.jpg)
+![Hands Up](https://blog.tomasino.org/images/hands-up.jpg)
 
 These days even mentioning alternatives is offensive. To say that yes,
 some people are not special, that they are just regular average Joe's
@@ -99,5 +99,5 @@ achievement. You don't have to be a movie star or own a powerful
 company, and you don't have to be a saint. Just don't be tempted by
 pride, not even false pride.
 
-  [Story of a Soul]: //www.amazon.com/Story-Soul-Autobiography-Therese-Lisieux/dp/0935216588
-  [Doctor of the Church.]: //en.wikipedia.org/wiki/Doctor_of_the_Church
+  [Story of a Soul]: https://www.amazon.com/Story-Soul-Autobiography-Therese-Lisieux/dp/0935216588
+  [Doctor of the Church.]: https://en.wikipedia.org/wiki/Doctor_of_the_Church

@@ -164,7 +164,7 @@ strategies and let the game linger a bit if you want, too. Maybe people
 won't notice and you can become the world's first Clue shark. How lame
 would that be?
 
-  [Clue Score Sheet]: //blog.tomasino.org/images/clue.jpg
-  [Clue]: //boardgamegeek.com/boardgame/1294/clue
-  [ten foot pole]: //rpg.stackexchange.com/questions/8298/why-does-everyone-carry-a-10-pole
-  [Clue Board]: //blog.tomasino.org/images/clue-board.jpg
+  [Clue Score Sheet]: https://blog.tomasino.org/images/clue.jpg
+  [Clue]: https://boardgamegeek.com/boardgame/1294/clue
+  [ten foot pole]: https://rpg.stackexchange.com/questions/8298/why-does-everyone-carry-a-10-pole
+  [Clue Board]: https://blog.tomasino.org/images/clue-board.jpg

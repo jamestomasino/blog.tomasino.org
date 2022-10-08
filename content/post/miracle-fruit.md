@@ -22,7 +22,7 @@ buds for about an hour. For that duration, when you eat something sour,
 your taste buds interpret it as sweet. There's a little more to it than
 that, but it's the gist. Magic!
 
-![MBerry](//blog.tomasino.org/images/mberry.jpg)
+![MBerry](https://blog.tomasino.org/images/mberry.jpg)
 
 The particular product I found, [mberry][], is a tablet made from the
 berry. You let the tablet dissolve over your tongue for about a minute
@@ -56,9 +56,9 @@ Jagermeister. Just don't do it.
 
 Has anyone else tried these things? Share your stories!
 
-  [Miracle Fruit]: //en.wikipedia.org/wiki/Synsepalum_dulcificum
+  [Miracle Fruit]: https://en.wikipedia.org/wiki/Synsepalum_dulcificum
     "Miracle Fruit"
-  [mberry]: //www.mberry.us
-  [Woot.com]: //woot.com "Woot"
-  [article I've read]: //www.nytimes.com/2008/05/28/dining/28flavor.html
+  [mberry]: https://www.mberry.us
+  [Woot.com]: https://woot.com "Woot"
+  [article I've read]: https://www.nytimes.com/2008/05/28/dining/28flavor.html
     "NYT: Miracle Fruit"

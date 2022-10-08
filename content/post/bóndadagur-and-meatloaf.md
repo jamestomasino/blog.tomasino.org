@@ -23,7 +23,7 @@ Leah and Wit bought me a bar of chocolate and a bouquet of flowers to celebrate
 the day. Leah also asked me what special meal I'd like prepared for my
 faux-*Þorrablót*.
 
-{{< figure src="/images/bondadagur-flowers.jpg" caption="My Bóndadagur Flowers">}}
+{{< figure src="https://blog.tomasino.org/images/bondadagur-flowers.jpg" caption="My Bóndadagur Flowers">}}
 
 What is *Þorrablót*, you ask? Why that's a traditional midwinter feast held at
 the start of Þorri to usher in the coldest month of the year. Þorri is
@@ -48,11 +48,11 @@ Leah makes an excellent recipe and it felt "meaty" enough to fit the holiday in
 spirit. Besides, I'm the man of the house so it's my decision, right? 🙂
 
 
-{{< figure src="/images/bondadagur-meatloaf.jpg" caption="Þorrablót Meatloaf">}}
+{{< figure src="https://blog.tomasino.org/images/bondadagur-meatloaf.jpg" caption="Þorrablót Meatloaf">}}
 
 Sadly we also learned this morning of the passing of the musician, Meatloaf.
 
-{{< figure src="/images/bondadagur-not-meatloaf.jpg" caption="Meatloaf NOT for Þorrablót">}}
+{{< figure src="https://blog.tomasino.org/images/bondadagur-not-meatloaf.jpg" caption="Meatloaf NOT for Þorrablót">}}
 
 Rest in peace, big guy. His name is Robert Paulson.
 

@@ -38,7 +38,7 @@ employees working from home. We still have construction crews
 doing their jobs. Our primary school is still open (more on that
 in a bit).
 
-{{< figure src="/images/covid-tests-infected.png" caption="Number of tests and infected in Iceland">}}
+{{< figure src="https://blog.tomasino.org/images/covid-tests-infected.png" caption="Number of tests and infected in Iceland">}}
 
 The public has been very well informed throughout every part of
 this process. Our government has a daily press conference to
@@ -55,7 +55,7 @@ little flag icon in the corner is a dropdown and you can use the
 British flag for English. (The graphics on this post are
 screenshots from that page)
 
-{{< figure src="/images/covid-region.png" caption="Quarantine rates by region">}}
+{{< figure src="https://blog.tomasino.org/images/covid-region.png" caption="Quarantine rates by region">}}
 
 There are a few schools which have closed, and each area is
 dealing with the specifics in their own way. As you can see from
@@ -139,7 +139,7 @@ government. The crash in 2008 proved to the locals that they can
 get through those tough times and flourish. The people are
 prepared.
 
-{{< figure src="/images/covid-age.png" caption="Infection rates by age">}}
+{{< figure src="https://blog.tomasino.org/images/covid-age.png" caption="Infection rates by age">}}
 
 And finally, let me share this one last graph. I know there's
 a lot of people still saying this is a condition which is worst on

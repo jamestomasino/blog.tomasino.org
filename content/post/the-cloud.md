@@ -7,7 +7,7 @@ tags:
 slug: "the-cloud"
 ---
 
-![Clouds](//blog.tomasino.org/images/cloud.jpg)
+![Clouds](https://blog.tomasino.org/images/cloud.jpg)
 
 There's been a lot of talk lately about "The Cloud". There's lots of new
 products out there touting their ability to store your info in it, move
@@ -46,13 +46,13 @@ smaller than the pay links.
 -   [ADrive][] - 50GB, Web UI only, no client
 -   [Badongo][] - Unlimited Space, 90 Day file limit, not secure)
 
-  [IE6]: //www.ie6countdown.com/
-  [DropBox]: //db.tt/P5uw08m
-  [iDrive]: //www.idrive.com/?uid=G7C5G6U0T7
+  [IE6]: https://www.ie6countdown.com/
+  [DropBox]: https://db.tt/P5uw08m
+  [iDrive]: https://www.idrive.com/?uid=G7C5G6U0T7
   [SugarSync]: https://www.sugarsync.com/referral?rf=ntpapbtagf8q
-  [SkyDrive]: //skydrive.live.com
-  [Amazon Cloud Drive]: //www.amazon.com/clouddrive/?tag=tomablog-20
-  [Box.net]: //box.net
-  [MiMedia]: //www.mimedia.com/
-  [ADrive]: //www.adrive.com/
-  [Badongo]: //www.badongo.com/
+  [SkyDrive]: https://skydrive.live.com
+  [Amazon Cloud Drive]: https://www.amazon.com/clouddrive/?tag=tomablog-20
+  [Box.net]: https://box.net
+  [MiMedia]: https://www.mimedia.com/
+  [ADrive]: https://www.adrive.com/
+  [Badongo]: https://www.badongo.com/

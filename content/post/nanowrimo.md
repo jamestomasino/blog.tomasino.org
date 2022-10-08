@@ -62,4 +62,4 @@ If any other aspiring authors are out there and want to join me, you can
 add me as a buddy on the NaNoWriMo site. My username is "jamestomasino".
 Good luck, and pray for me!
 
-  [NaNoWriMo]: //www.nanowrimo.org
+  [NaNoWriMo]: https://www.nanowrimo.org

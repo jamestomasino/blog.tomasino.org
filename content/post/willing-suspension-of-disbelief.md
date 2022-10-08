@@ -23,7 +23,7 @@ in his little trick, but that feeling of suddenly not understanding the
 world around you has stayed with me. In some of the more profound
 moments of learning it crept back into the forefront.
 
-![Black Swan](//blog.tomasino.org/images/black-swan.jpg)
+![Black Swan](https://blog.tomasino.org/images/black-swan.jpg)
 
 I was sitting in 6th grade science class when I casually flipped through
 my text book. In the opening paragraph of the new chapter we were
@@ -78,7 +78,7 @@ What about you? What moments were so profound to you that it shattered
 your understanding of the world? Was it a real event, or a trick? Was it
 in life or in literature? Was it in a classroom or in a movie?
 
-  [The Wisdom of Father Brown (1914)]: //www.gutenberg.org/etext/223
-  [Nassim Nicholas Taleb]: //en.wikipedia.org/wiki/Nassim_Nicholas_Taleb
-  [The Black Swan]: //www.amazon.com/Black-Swan-Impact-Highly-Improbable/dp/1400063515/?tag=tomablog-20
-  [Black Swan Events]: //en.wikipedia.org/wiki/Black_swan_theory
+  [The Wisdom of Father Brown (1914)]: https://www.gutenberg.org/etext/223
+  [Nassim Nicholas Taleb]: https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb
+  [The Black Swan]: https://www.amazon.com/Black-Swan-Impact-Highly-Improbable/dp/1400063515/?tag=tomablog-20
+  [Black Swan Events]: https://en.wikipedia.org/wiki/Black_swan_theory

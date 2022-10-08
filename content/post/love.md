@@ -42,7 +42,7 @@ know in my mind that's not all true, that it gets a part of its strength
 from its self-serving nature. Still, the difficulty remains. It's a
 struggle I don't foresee becoming any easier with time.
 
-![ Pablo Picasso - Science and Charity (1897)](//blog.tomasino.org/images/science-and-charity.jpg)
+![ Pablo Picasso - Science and Charity (1897)](https://blog.tomasino.org/images/science-and-charity.jpg)
 
 It may not be easy, but when it comes I feel it more strongly than
 anything else. I know that if any of my tiny loves compare to it, it is
@@ -134,5 +134,5 @@ there for sinners and saints alike.
 
 *- 1 Corinthians 16:14*
 
-  [caritas]: //en.wikipedia.org/wiki/Charity_(virtue)
-  [agapē]: //en.wikipedia.org/wiki/Agap%C4%93
+  [caritas]: https://en.wikipedia.org/wiki/Charity_(virtue)
+  [agapē]: https://en.wikipedia.org/wiki/Agap%C4%93

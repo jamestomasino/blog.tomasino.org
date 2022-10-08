@@ -19,7 +19,7 @@ next summer. Then again, we may go to Húsavík and take one of the [sailing
 tours](https://www.northsailing.is/) instead. It all depends on what's
 allowed for Wit's age. We'll definitely find whales one way or another.
 
-![Wit whale watching](//blog.tomasino.org/images/whalewatching-wit.jpg)
+![Wit whale watching](https://blog.tomasino.org/images/whalewatching-wit.jpg)
 
 While we didn't see any whales that doesn't mean the trip was a total
 waste. We hopped on board the boat after a quick burger at the harbor. It
@@ -30,7 +30,7 @@ up on deck. Over the course of the three hours at sea he got plenty of
 practice on how to navigate ladders on a boat and how to terrify his dad
 by running ahead. Somehow we all managed to survive.
 
-![Leah whale watching](//blog.tomasino.org/images/whalewatching-leah.jpg)
+![Leah whale watching](https://blog.tomasino.org/images/whalewatching-leah.jpg)
 
 The air cooled quickly and our coats were a perfect choice. The boat has
 jumpsuit-floatation gear you can wear if you're very cold, and kids all
@@ -45,7 +45,7 @@ fly quick buzzing passes in front of our ready cameras. They seemed pretty
 friendly but be warned! When threatened their defense mechanism is to
 vomit on their attacker. Ew.
 
-![Northern Fulmar](//blog.tomasino.org/images/whalewatching-northernfulmar.jpg)
+![Northern Fulmar](https://blog.tomasino.org/images/whalewatching-northernfulmar.jpg)
 
 We also saw a bunch of tiny puffins flying around. They move in groups and
 very low to the waves. They're also extremely fast, moving around 50mph.
@@ -59,7 +59,7 @@ stuff is all around town and it really brightens up the place. While some
 homes and roofs are bright colors, most of the external facades in the
 city are gray concrete. Splashes of art breath in life.
 
-![Reykjavík Street Art](//blog.tomasino.org/images/reyjkavik-street-art.jpg)
+![Reykjavík Street Art](https://blog.tomasino.org/images/reyjkavik-street-art.jpg)
 
 We thought about going back to a little Italian restaurant that Leah liked
 from a previous visit, but once we reached it the place was packed with
@@ -73,7 +73,7 @@ because she dislikes curry (I told her there were other things than
 curry), but she doesn't like to dissuade Wit when he's feeling
 adventurous. We went in and had an absolutely incredible meal.
 
-![Lamb Saagwala](//blog.tomasino.org/images/lamb-saagwala.jpg)
+![Lamb Saagwala](https://blog.tomasino.org/images/lamb-saagwala.jpg)
 
 My lamb saagwala was so filling I barely managed to get it all down. We
 got some naan, a mango lassi, and a nice selection of chicken dishes too.

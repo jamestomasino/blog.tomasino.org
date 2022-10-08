@@ -99,4 +99,4 @@ enough.
 >      - Frank Darabont (Screenplay) - The Shawshank Redemption (1994)
 > </p>
 
-  [One Hundred Years of Solitude]: //books.google.com/books?id=J1ZFyiRPG0cC&lpg=PP1&dq=One%20Hundred%20Years%20of%20Solitude&pg=PP1
+  [One Hundred Years of Solitude]: https://books.google.com/books?id=J1ZFyiRPG0cC&lpg=PP1&dq=One%20Hundred%20Years%20of%20Solitude&pg=PP1

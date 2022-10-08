@@ -134,7 +134,7 @@ to me through pain, practice, and the knowledge that fear was no longer
 useful. I find something of the sublime in that and wonder at its
 meaning and place in my future life. Will I have cause for it one day?
 
-![Jump](//blog.tomasino.org/images/navy-jump.jpg)
+![Jump](https://blog.tomasino.org/images/navy-jump.jpg)
 
-  [On the Sublime and Beautiful (1757)]: //www.bartleby.com/24/2/
-  [Julius Ceasar (1599)]: //www.online-literature.com/shakespeare/julius_caesar/
+  [On the Sublime and Beautiful (1757)]: https://www.bartleby.com/24/2/
+  [Julius Ceasar (1599)]: https://www.online-literature.com/shakespeare/julius_caesar/

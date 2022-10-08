@@ -14,7 +14,7 @@ and you can find a number of tasty lamb dishes all around the
 country. But that's not all there is… Let's look at some of
 our family favorites!
 
-{{< figure src="/images/pylsa.jpg" caption="Pylsa með öllu (Icelandic Hot Dog with everything) ">}}
+{{< figure src="https://blog.tomasino.org/images/pylsa.jpg" caption="Pylsa með öllu (Icelandic Hot Dog with everything) ">}}
 
 I would be remiss to begin with anything but the famous _pylsa_,
 or Icelandic hot dog. These gems are not your typical ballpark
@@ -34,7 +34,7 @@ Everything in this case consists of crunchy onions and raw onions,
 a special pylsa mustard, remoulade, and yes, ketchup. They are
 just divine.
 
-{{< figure src="/images/plokkfiskur-cafe-loki.jpg" caption="Plokkfiskur at Cafe Loki">}}
+{{< figure src="https://blog.tomasino.org/images/plokkfiskur-cafe-loki.jpg" caption="Plokkfiskur at Cafe Loki">}}
 
 Icelanders eat a lot of fish and potatoes, not necessarily
 together. But this dish, _plokkfiskur_, is a blend of both. It's
@@ -62,7 +62,7 @@ That made looking up recipes a little bit tricky at first.
 Deciding where to start took some navigating, but I decided to
 keep it simple.
 
-{{< figure src="/images/making-plokkfiskur.jpg" caption="Making Plokkfiskur">}}
+{{< figure src="https://blog.tomasino.org/images/making-plokkfiskur.jpg" caption="Making Plokkfiskur">}}
 
 I've made my own plokkfiskur a handful of times now and have begun
 tweaking it to my own family's preferences. They like a bit more
@@ -70,7 +70,7 @@ potato than fish and our seasoning mix has evolved. We have also
 decided that our homemade dish can only be served with a specific
 brand of rye bread. Anything less is just not worth it.
 
-{{< figure src="/images/rye-bread.jpg" caption="Icelandic Rye Bread">}}
+{{< figure src="https://blog.tomasino.org/images/rye-bread.jpg" caption="Icelandic Rye Bread">}}
 
 "Rye Bread?" you may be asking yourself. Well, whatever you're
 imagining, it's not that. The rye bread here has a very
@@ -80,7 +80,7 @@ difficult. Instead, Denmark sent its surplus of rye and Icelanders
 just had to make the best of it. What they created was as unique
 as the landscape.
 
-{{< figure src="/images/buttered-rye-bread.jpg" caption="Buttered Rye Bread">}}
+{{< figure src="https://blog.tomasino.org/images/buttered-rye-bread.jpg" caption="Buttered Rye Bread">}}
 
 Icelandic rye bread is baked in the earth near hot springs where
 it bakes for 24 hours. The result is dense and moist and nearly
@@ -96,14 +96,14 @@ about because of the poverty and isolation of the country, [read
 about
 laufabrauð](https://whydyoueatthat.wordpress.com/2011/12/01/day-1-laufabraud/).
 
-{{< figure src="/images/crepes.jpg" caption="Crepes">}}
+{{< figure src="https://blog.tomasino.org/images/crepes.jpg" caption="Crepes">}}
 
 The pancakes in Scandinavia are basically crepes. They're these
 thin bits of deliciousness that dissolves on your tongue. Many of
 the ice cream shops also sell sweet and savory crepes. Now I'm
 craving one with Nutella. See what you've done?
 
-{{< figure src="/images/skyr.jpg" caption="Skyr">}}
+{{< figure src="https://blog.tomasino.org/images/skyr.jpg" caption="Skyr">}}
 
 Also on the topic of treats, I can't forget to mention skyr. This
 has finally made its way to the US thanks to Siggi's brand. You
@@ -116,7 +116,7 @@ useful here in the old days.
 
 Also, fun-fact, skyr is technically a cheese!
 
-{{< figure src="/images/fish.jpg" caption="Red Breaded Fish">}}
+{{< figure src="https://blog.tomasino.org/images/fish.jpg" caption="Red Breaded Fish">}}
 
 There's so many amazing foods here that we're still exploring.
 I've yet to try eating the boiled lamb head, and I haven't found

@@ -7,7 +7,7 @@ tags:
 slug: "review-practical-vim-edit-text-at-the-speed-of-thought"
 ---
 
-![Practical Vim: Edit Text at the Speed of Thought](//d.gr-assets.com/books/1336278962m/13607232.jpg)
+![Practical Vim: Edit Text at the Speed of Thought](https://d.gr-assets.com/books/1336278962m/13607232.jpg)
 
 My rating: [5 of 5 stars][]
 
@@ -37,5 +37,5 @@ become!
 
 [View all my reviews][5 of 5 stars]
 
-  [Drew Neil]: //www.goodreads.com/author/show/5819490
-  [5 of 5 stars]: //www.goodreads.com/review/show/459610734
+  [Drew Neil]: https://www.goodreads.com/author/show/5819490
+  [5 of 5 stars]: https://www.goodreads.com/review/show/459610734

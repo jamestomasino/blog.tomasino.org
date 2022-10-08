@@ -125,5 +125,5 @@ was no reason to give up or listen to our doubts. They are, perhaps, a
 good time to reflect and make sure we haven't let our lives run ahead of
 our faith. God knows that even Mother Theresa needed those times.
 
-  [The Conversion Diary]: //www.conversiondiary.com/2009/05/to-whom-shall-we-go.html
-  [here]: //blog.tomasino.org/?p=176
+  [The Conversion Diary]: https://www.conversiondiary.com/2009/05/to-whom-shall-we-go.html
+  [here]: https://blog.tomasino.org/?p=176

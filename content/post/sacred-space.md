@@ -75,4 +75,4 @@ alone time. It is the source of the true me and the place to which he
 returns every night. It is beautiful and powerful. And you're all
 invited.
 
-  [The Spiral Dance]: //www.amazon.com/Spiral-Dance-Rebirth-Religion-Anniversary/dp/0062516329/?tag=tomablog-20
+  [The Spiral Dance]: https://www.amazon.com/Spiral-Dance-Rebirth-Religion-Anniversary/dp/0062516329/?tag=tomablog-20

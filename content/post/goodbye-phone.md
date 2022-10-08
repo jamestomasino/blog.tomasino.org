@@ -62,10 +62,10 @@ Well that plan didn't last long. Once the Karma arrived I gave the no-phone thin
 
 In case you're wondering, I have since migrated over to Google's Project Fi. It's a pretty sweet service which I've been more than happy with.
 
-  [Goodbye Phone]: //blog.tomasino.org/images/goodbye-phone.jpg
+  [Goodbye Phone]: https://blog.tomasino.org/images/goodbye-phone.jpg
     "Goodbye Phone"
-  [YourKarma]: //yourkarma.com/invite/james32844
-  [Sprint]: //sprint.com
-  [Skype]: //skype.com
-  [Google Voice]: //www.google.com/voice
-  [backup battery]: //www.amazon.com/gp/product/B00XJ26EHE?tag=tomablog-20
+  [YourKarma]: https://yourkarma.com/invite/james32844
+  [Sprint]: https://sprint.com
+  [Skype]: https://skype.com
+  [Google Voice]: https://www.google.com/voice
+  [backup battery]: https://www.amazon.com/gp/product/B00XJ26EHE?tag=tomablog-20

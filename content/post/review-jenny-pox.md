@@ -7,7 +7,7 @@ tags:
 slug: "review-jenny-pox"
 ---
 
-![Jenny Pox](//photo.goodreads.com/books/1298773614m/9306975.jpg)
+![Jenny Pox](https://photo.goodreads.com/books/1298773614m/9306975.jpg)
 
 My rating: [3 of 5 stars][]
 
@@ -51,4 +51,4 @@ enjoyed Carrie, read this book.
 
 [View all my reviews][3 of 5 stars]
 
-  [3 of 5 stars]: //www.goodreads.com/review/show/271288951
+  [3 of 5 stars]: https://www.goodreads.com/review/show/271288951

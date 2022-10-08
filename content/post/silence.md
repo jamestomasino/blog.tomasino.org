@@ -90,4 +90,4 @@ My discernment is not an endless process. It leads somewhere tangible.
 Some day or another I'll take that step, and places like the Ignatius
 House make me feel that the moment is very close indeed.
 
-  [Ignatius House]: //www.ignatiushouse.com
+  [Ignatius House]: https://www.ignatiushouse.com

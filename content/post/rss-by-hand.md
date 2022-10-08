@@ -26,7 +26,7 @@ it. Instead, I'll write the RSS feed. Eventually, if I get around to it,
 I'll write the code to "perma-link" these posts, and maybe even enable
 comments. For now, enjoy the texty goodness.
 
-  [LiveJournal]: //www.livejournal.com
-  [Blogger]: //blogger.com
-  [MySpace]: //www.myspace.com
-  [<oxygen></oxygen>]: //www.oxygenxml.com
+  [LiveJournal]: https://www.livejournal.com
+  [Blogger]: https://blogger.com
+  [MySpace]: https://www.myspace.com
+  [<oxygen></oxygen>]: https://www.oxygenxml.com

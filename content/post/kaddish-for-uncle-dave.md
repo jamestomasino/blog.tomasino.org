@@ -118,4 +118,4 @@ others until it is my own turn to go to God. Now, like Joel Fleischman,
 I invite you to pray along in your own way as you think about those whom
 you have loved.
 
-  [Kaddish for Uncle Manny]: //blog.tomasino.org/sound/KaddishforUncleManny.mp3
+  [Kaddish for Uncle Manny]: https://blog.tomasino.org/sound/KaddishforUncleManny.mp3

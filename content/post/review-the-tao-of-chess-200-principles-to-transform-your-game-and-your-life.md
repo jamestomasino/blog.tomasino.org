@@ -7,7 +7,7 @@ tags:
 slug: "review-the-tao-of-chess-200-principles-to-transform-your-game-and-your-life"
 ---
 
-![The Tao of Chess: 200 Principles to Transform Your Game and Your Life](//photo.goodreads.com/books/1175294908m/502786.jpg)
+![The Tao of Chess: 200 Principles to Transform Your Game and Your Life](https://photo.goodreads.com/books/1175294908m/502786.jpg)
 
 My rating: [1 of 5 stars][]
 
@@ -56,4 +56,4 @@ find even that level of usefulness in here.
 
 [View all my reviews][1 of 5 stars]
 
-  [1 of 5 stars]: //www.goodreads.com/review/show/276440974
+  [1 of 5 stars]: https://www.goodreads.com/review/show/276440974

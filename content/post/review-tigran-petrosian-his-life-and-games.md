@@ -7,7 +7,7 @@ tags:
 slug: "review-tigran-petrosian-his-life-and-games"
 ---
 
-![Tigran Petrosian His Life And Games](//photo.goodreads.com/books/1278483129m/7610725.jpg)
+![Tigran Petrosian His Life And Games](https://photo.goodreads.com/books/1278483129m/7610725.jpg)
 
 My rating: [4 of 5 stars][]
 
@@ -49,4 +49,4 @@ shown in some games in his youth). What a fantastic find.
 
 [View all my reviews][4 of 5 stars]
 
-  [4 of 5 stars]: //www.goodreads.com/review/show/275453256
+  [4 of 5 stars]: https://www.goodreads.com/review/show/275453256

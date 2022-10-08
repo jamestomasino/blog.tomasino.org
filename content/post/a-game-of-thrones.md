@@ -94,5 +94,5 @@ nice stable relationship before he penned book 2.
 
 [Amazon Link][]
 
-  [A Game of Thrones]: //blog.tomasino.org/images/a_game_of_thrones.jpg
-  [Amazon Link]: //www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553573403/?tag=tomablog-20
+  [A Game of Thrones]: https://blog.tomasino.org/images/a_game_of_thrones.jpg
+  [Amazon Link]: https://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553573403/?tag=tomablog-20

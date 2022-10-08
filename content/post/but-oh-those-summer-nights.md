@@ -66,5 +66,5 @@ drove away that same day dealing with her own ghosts.
 There is beauty there, and love of a sort. For all of that I am
 thankful.
 
-  [All Summer in a Day]: //www.westburyfriends.org/online/ela/giver/all%20summer%20reading.pdf
-  [Beach Sunrise]: //farm1.static.flickr.com/94/236985410_699e3b2aab.jpg
+  [All Summer in a Day]: https://www.westburyfriends.org/online/ela/giver/all%20summer%20reading.pdf
+  [Beach Sunrise]: https://farm1.static.flickr.com/94/236985410_699e3b2aab.jpg

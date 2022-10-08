@@ -5,7 +5,7 @@ tags:
   - Iceland
 ---
 
-![Birds in Hella](//blog.tomasino.org/images/bird-in-hella.jpg)
+![Birds in Hella](https://blog.tomasino.org/images/bird-in-hella.jpg)
 
 I'm sitting at a beautiful airbnb in Reykjavík across from my fabulous
 wife while my son flips through some activity books on the couch. We're
@@ -108,7 +108,7 @@ straight over to decompress. A few days passed…and by that I mean an hour.
 That's right, 1 hour later we got the emails with our kennitala. Wit and
 I are officially residents of Iceland.
 
-![Klambratún](//blog.tomasino.org/images/klambratun.jpg)
+![Klambratún](https://blog.tomasino.org/images/klambratun.jpg)
 
 For the rest of day one we had some snacks, took a nap, walked to the
 local supermarket and got a few bits to survive. We cooked dinner and

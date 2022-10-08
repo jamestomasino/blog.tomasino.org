@@ -10,7 +10,7 @@ tags:
 slug: "review-city-of-bones"
 ---
 
-![City of Bones](//photo.goodreads.com/books/1309277410m/256683.jpg)
+![City of Bones](https://photo.goodreads.com/books/1309277410m/256683.jpg)
 
 My rating: [2 of 5 stars][]
 
@@ -44,4 +44,4 @@ by it. For myself, I will not be continuing the series.
 
 [View all my reviews][2 of 5 stars]
 
-  [2 of 5 stars]: //www.goodreads.com/review/show/136787452
+  [2 of 5 stars]: https://www.goodreads.com/review/show/136787452

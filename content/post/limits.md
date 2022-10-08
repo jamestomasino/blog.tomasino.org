@@ -106,4 +106,4 @@ It may be that time is a limit, but I find it to be a blessing and a
 grace. Given the option, I think I would kindly decline a trip in the
 Delorian.
 
-  [translation by A.Z.F.]: //poemsintranslation.blogspot.com/2009/11/borges-limits-from-spanish.html
+  [translation by A.Z.F.]: https://poemsintranslation.blogspot.com/2009/11/borges-limits-from-spanish.html

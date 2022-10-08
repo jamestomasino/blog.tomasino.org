@@ -7,7 +7,7 @@ tags:
 slug: "review-hymnal-for-dirty-girls"
 ---
 
-![Hymnal for Dirty Girls](//d.gr-assets.com/books/1344437918m/15805962.jpg)
+![Hymnal for Dirty Girls](https://d.gr-assets.com/books/1344437918m/15805962.jpg)
 
 My rating: [2 of 5 stars][]
 
@@ -46,5 +46,5 @@ and the many aspects of writing that come with it.
 
 [View all my reviews][2 of 5 stars]
 
-  [Rebekah Matthews]: //www.goodreads.com/author/show/5353324
-  [2 of 5 stars]: //www.goodreads.com/review/show/413416501
+  [Rebekah Matthews]: https://www.goodreads.com/author/show/5353324
+  [2 of 5 stars]: https://www.goodreads.com/review/show/413416501

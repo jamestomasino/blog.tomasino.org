@@ -39,4 +39,4 @@ style="font-style: italic;">mysterium tremendum</span>, or come face to
 face with the ineffible truth of their being, "I am nothing, YOU are
 everything."
 
-  [The Varieties of Religious Experience]: //www.gutenberg.org/dirs/etext96/varre10.txt
+  [The Varieties of Religious Experience]: https://www.gutenberg.org/dirs/etext96/varre10.txt

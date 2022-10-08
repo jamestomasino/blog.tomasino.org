@@ -83,7 +83,7 @@ right in line with what Rev. O'Keefe was talking about in his book. Who
 knows, maybe next time I go to New York, I won't horribly embarrass
 myself either.
 
-  [Priestly Virtues]: //www.amazon.com/Priestly-Virtues-Reflections-Moral-Priest/dp/B000M6WBRC/?tag=tomablog-20
-  [while back]: //blog.tomasino.org/?p=131
-  [New York and Maryland Provinces of the Society of Jesus]: //www.jesuitvocation.org/
-  [St. Joe's]: //www.sju.edu/
+  [Priestly Virtues]: https://www.amazon.com/Priestly-Virtues-Reflections-Moral-Priest/dp/B000M6WBRC/?tag=tomablog-20
+  [while back]: https://blog.tomasino.org/?p=131
+  [New York and Maryland Provinces of the Society of Jesus]: https://www.jesuitvocation.org/
+  [St. Joe's]: https://www.sju.edu/

@@ -76,4 +76,4 @@ enough on my own. Still, I will continue to confess it and continue to
 ask for the grace to move on, and when I feel that familiar pain in my
 knees, I thank the Lord.
 
-  [Battle Stations]: //www.defenselink.mil/specials/basic_training1/battle.html
+  [Battle Stations]: https://www.defenselink.mil/specials/basic_training1/battle.html

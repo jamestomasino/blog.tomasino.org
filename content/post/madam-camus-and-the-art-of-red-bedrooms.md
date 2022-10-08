@@ -9,7 +9,7 @@ slug: "madam-camus-and-the-art-of-red-bedrooms"
 
 _From an old journal_
 
-{{< figure src="/images/camus.jpg" alt="Madam Camus" >}}
+{{< figure src="https://blog.tomasino.org/images/camus.jpg" alt="Madam Camus" >}}
 
 In a little bit of time, I'll have finished my undergraduate degree and
 with it, all of the expectations of schooling anyone has ever had for

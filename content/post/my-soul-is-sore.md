@@ -108,8 +108,8 @@ pilgrimage, a teacher, father, friend, and confessor. He is all these
 things and so much more! I guess it's like I told the Jesuits on Monday.
 Sometimes sensing his presence is pretty easy.
 
-  [The Life and Love of Joe Coogan]: //www.hulu.com/watch/114074/the-dick-van-dyke-show-the-life-and-love-of-joe-coogan
-  [The Dick Van Dyke Show]: //en.wikipedia.org/wiki/The_Dick_Van_Dyke_Show
-  [Ignatian Spirituality]: //ignatianspirituality.com/
-  [love]: //www.vatican.va/holy_father/benedict_xvi/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate_en.html
-  [Examen]: //ignatianspirituality.com/ignatian-prayer/the-examen/
+  [The Life and Love of Joe Coogan]: https://www.hulu.com/watch/114074/the-dick-van-dyke-show-the-life-and-love-of-joe-coogan
+  [The Dick Van Dyke Show]: https://en.wikipedia.org/wiki/The_Dick_Van_Dyke_Show
+  [Ignatian Spirituality]: https://ignatianspirituality.com/
+  [love]: https://www.vatican.va/holy_father/benedict_xvi/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate_en.html
+  [Examen]: https://ignatianspirituality.com/ignatian-prayer/the-examen/

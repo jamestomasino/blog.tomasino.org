@@ -20,7 +20,7 @@ Friday](https://grapevine.is/news/2020/02/11/possible-cyclone-touching-down-in-i
 The [Reykjavík Grapevine](https://grapevine.is/) has had a hard time
 keeping up with all of this wintry activity.
 
-{{< figure src="/images/winter-warnings.jpg" caption="Winter storm warnings">}}
+{{< figure src="https://blog.tomasino.org/images/winter-warnings.jpg" caption="Winter storm warnings">}}
 
 It's not always wintery-doom here though. Some days it's clear with
 beautiful blue skies. The wind may or may not be lying in wait around the
@@ -31,7 +31,7 @@ pretty common. Looking outside from the cozy heated apartment it can seem
 like a perfect day to go for a walk. Step outside and the needles slam
 into your face. Lovely!
 
-{{< figure src="/images/helgafell-snow.jpg" caption="Helgafell covered in snow">}}
+{{< figure src="https://blog.tomasino.org/images/helgafell-snow.jpg" caption="Helgafell covered in snow">}}
 
 There have been a few breaks here and there, thankfully. We've made it out
 and about a few times, and Wit's school has only had a single day when it
@@ -55,7 +55,7 @@ north of Iceland, but it wasn't supposed to hit hard until the evening.
 Within 30 minutes of my sitting down, this is what the airport windows
 looked like:
 
-{{< figure src="/images/snowy-window.jpg" caption="Airport windows covered in snow">}}
+{{< figure src="https://blog.tomasino.org/images/snowy-window.jpg" caption="Airport windows covered in snow">}}
 
 The good folks at Keflavík airport were trying hard to get people out of
 there before things got really bad. They braved the winds to load our bags
@@ -66,7 +66,7 @@ First thirty minutes, than an hour, then two. It was just getting worse
 outside all the time. We got word that the roads to and from the Airport
 had shut down just before they announced that all flights were canceled.
 
-{{< figure src="/images/airport-line.jpg" caption="Lines at the Airport">}}
+{{< figure src="https://blog.tomasino.org/images/airport-line.jpg" caption="Lines at the Airport">}}
 
 There was a nice mad rush to rebook leading to this epic line. I waited in
 this for about 4 hours that night and equally long for my bags to get

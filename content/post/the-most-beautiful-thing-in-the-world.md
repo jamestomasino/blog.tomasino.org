@@ -168,6 +168,6 @@ most beautiful thing in the world. You.
 
 [![Summer's Home][]][]
 
-  [Summer's Home]: //farm1.static.flickr.com/47/126480111_f97e5834e2_o.jpg
-  [![Summer's Home][]]: //www.flickr.com/photos/tomasino/126480111/
+  [Summer's Home]: https://farm1.static.flickr.com/47/126480111_f97e5834e2_o.jpg
+  [![Summer's Home][]]: https://www.flickr.com/photos/tomasino/126480111/
     "Summer's Home"

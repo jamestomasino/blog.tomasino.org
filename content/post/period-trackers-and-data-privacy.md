@@ -6,7 +6,7 @@ tags:
   - data privacy
 ---
 
-{{< figure src="/images/period-tracker.png" >}}
+{{< figure src="https://blog.tomasino.org/images/period-tracker.png" >}}
 
 # What is happening?
 

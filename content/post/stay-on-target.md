@@ -15,7 +15,7 @@ was right on the nose with that one. Despite my best efforts to stay on
 task, my prayer life has been slipping. I need to refocus what I'm doing
 and get back on track.
 
-![Stay on Target](//blog.tomasino.org/images/stay-on-target.gif)
+![Stay on Target](https://blog.tomasino.org/images/stay-on-target.gif)
 
 There are a number of books I should be reading right now that could
 help me prepare, but instead I've been bingeing the [Dresden][] series.
@@ -36,6 +36,6 @@ for too long.
 What about you folks out there? Is there something going on that you've
 lost sight of, something you need to refocus, to stay on target?
 
-  [Dresden]: //www.jim-butcher.com/books/dresden/
-  [Wheel of Time]: //en.wikipedia.org/wiki/The_Wheel_of_Time
-  [The First Jesuits]: //www.amazon.com/First-Jesuits-John-W-OMalley/dp/067430313X/?tag=tomablog-20
+  [Dresden]: https://www.jim-butcher.com/books/dresden/
+  [Wheel of Time]: https://en.wikipedia.org/wiki/The_Wheel_of_Time
+  [The First Jesuits]: https://www.amazon.com/First-Jesuits-John-W-OMalley/dp/067430313X/?tag=tomablog-20

@@ -29,20 +29,20 @@ along the rainbow you can see
 [Hallgrímskirkja](https://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja) in
 the distance.
 
-![Reykjavík Rainbow road](/images/reykjavik-rainbow-road.png)
+![Reykjavík Rainbow road](https://blog.tomasino.org/images/reykjavik-rainbow-road.png)
 
 We dug through the crowds and made our way to the Pond, a popular spot in
 the heart of 101 Reykjavík. Leah and Wit posed for some pictures and we
 went looking for food.
 
-![Leah by the Pond](/images/leah-by-the-pond.png)
+![Leah by the Pond](https://blog.tomasino.org/images/leah-by-the-pond.png)
 
 Eventually we made our way to the concert area and discovered a lovely
 shady spot with big rocks that the kids enjoyed jumping across. It's now
 the boy's favorite place in the city and we have to drag him out every
 time we leave.
 
-![Wit hugs furry](/images/wit-hugs-furry.png)
+![Wit hugs furry](https://blog.tomasino.org/images/wit-hugs-furry.png)
 
 The people at Pride day were joyous and friendly.
 
@@ -75,7 +75,7 @@ We got our kaffi later on at my favorite place in town, Mokka Kaffi. But
 before that we started by going to the Culture House and painting
 monsters!
 
-![Wit's Monster Painting](/images/wit-monster-painting.png)
+![Wit's Monster Painting](https://blog.tomasino.org/images/wit-monster-painting.png)
 
 There was a lovely little crowd and we were provided watercolors and
 straws to blow the paint around, crayons, pens & pencils. Wit got into it
@@ -88,7 +88,7 @@ period-player vikings holding mock battles, a ton of music, and even some
 free food. I managed to grab some free hot dogs. There was a soup as well,
 but we never made our way to the tent.
 
-![Culture Day Free Hotdogs](/images/culture-day-hotdogs.png)
+![Culture Day Free Hotdogs](https://blog.tomasino.org/images/culture-day-hotdogs.png)
 
 These outings have been great fun and very tiring. We're getting so much
 walking in around the city, and gaining confidence on the buses.

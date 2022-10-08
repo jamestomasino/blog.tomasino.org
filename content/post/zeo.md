@@ -83,8 +83,8 @@ full web application.
 
 Sleep well!
 
-  [Westclox Model 22651]: images/westclox-22651.jpg
-  [Zeo]: images/zeo.jpg
-  [myzeo.com Chart]: images/zeo-chart.png
-  [![myzeo.com Chart][]]: //blog.tomasino.org/images/zeo-chart-full.png
-  [website]: //www.myzeo.com
+  [Westclox Model 22651]: https://blog.tomasino.org/images/westclox-22651.jpg
+  [Zeo]: https://blog.tomasino.org/images/zeo.jpg
+  [myzeo.com Chart]: https://blog.tomasino.org/images/zeo-chart.png
+  [![myzeo.com Chart][]]: https://blog.tomasino.org/images/zeo-chart-full.png
+  [website]: https://www.myzeo.com

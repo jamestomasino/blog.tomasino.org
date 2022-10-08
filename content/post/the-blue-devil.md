@@ -12,7 +12,7 @@ Sophomore year of high school brought me one of the most tragic events
 to have stricken my short life: the death of the Tan M&M (hereafter
 referred to as Ambrosia).
 
-![M&Ms](//blog.tomasino.org/images/tan-mm.jpg)
+![M&Ms](https://blog.tomasino.org/images/tan-mm.jpg)
 
 In 1995 Mars, Inc. (hereafter referred to as Evil-Inc) ran a sneaky
 contest inviting the public (hereafter referred to as The Great
@@ -31,7 +31,7 @@ course. They brought them back years later and started using Allura Red
 AC (Red Dye \#40) as the new dye (which, consequently, is banned in
 several European countries due to potential health risks).
 
-![M&M Colors](//blog.tomasino.org/images/mm-colors.gif)
+![M&M Colors](https://blog.tomasino.org/images/mm-colors.gif)
 
 What's worse is that when the red M&Ms were stolen away, they were
 replaced by an awful orange M&M. Our poor tan M&Ms, Ambrosia if you
@@ -58,7 +58,7 @@ the mid 90's. Yes, I was still eating it in high school; got a problem
 with that? Anyway, I think someone needs to take a stand on these
 issues. Some things are worth fighting for!
 
-![Count Chocula](//blog.tomasino.org/images/count-chocula.jpg)
+![Count Chocula](https://blog.tomasino.org/images/count-chocula.jpg)
 
 I will not eat blue M&Ms. My respect for Ambrosia is strong enough for
 that at least. Who's with me?
@@ -67,4 +67,4 @@ that at least. Who's with me?
 related to the DC Comics superhero [of the same name][]. Though, in
 retrospect, he is also downright awful. I think I'll boycott him too.*
 
-  [of the same name]: //en.wikipedia.org/wiki/Blue_Devil
+  [of the same name]: https://en.wikipedia.org/wiki/Blue_Devil

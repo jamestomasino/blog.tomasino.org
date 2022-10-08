@@ -40,7 +40,7 @@ Wit will be attending a brand new school in Mosfellsbær called
 Helgafellsskóli. It's actually not done being built yet, but the important
 stuff is in place. Here's a picture of the exterior.
 
-![Helgafellsskóli Exterior](/images/helgafellsskoli-exterior.jpg)
+![Helgafellsskóli Exterior](https://blog.tomasino.org/images/helgafellsskoli-exterior.jpg)
 
 Like most architecture in Iceland there's a brutalist façade that belies
 the warmth within. There's a clear metaphor for Icelanders in general
@@ -58,7 +58,7 @@ It's the same in our apartment. Crews are actively building new buildings
 on either side of ours, and landscaping is being done behind our bedroom
 window about 5 meters away. Once we close the windows none of that exists.
 
-![Helgafellsskóli Classroom](/images/helgafellsskoli-classroom.jpg)
+![Helgafellsskóli Classroom](https://blog.tomasino.org/images/helgafellsskoli-classroom.jpg)
 
 Inside the school things are sparse in the Nordic style. Some of the
 hallways made me think of eastern Europe, but being in the space in person
@@ -83,7 +83,7 @@ and significant time between lessons to unwind. The days are shorter than
 in the US system as well. Even so, Iceland is consistently ranked in the
 top 5 education systems in the world. I'm eager to see it in action.
 
-![Helgafellsskóli Bathroom](/images/helgafellsskoli-bathroom.jpg)
+![Helgafellsskóli Bathroom](https://blog.tomasino.org/images/helgafellsskoli-bathroom.jpg)
 
 Wit's education will be in Icelandic. As of today he knows how to say
 "yes, "no", and "my name is Wit." His teachers assure us that he'll learn
@@ -97,7 +97,7 @@ class have not yet had any formal training in it. Still, both TV and
 online gaming have had a big impact on them and they're sure to know
 a decent number of words to get along.
 
-![Helgafellsskóli Library](/images/helgafellsskoli-library.jpg)
+![Helgafellsskóli Library](https://blog.tomasino.org/images/helgafellsskoli-library.jpg)
 
 The school may not be finished yet, but it's coming along quickly. The
 full playground will open in another 3-4 weeks, but there are plenty of

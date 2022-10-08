@@ -43,5 +43,5 @@ ordered. Read it with a nice cup of tea.
 
 [ManyBooks.net Link][]
 
-  [From Lower Deck to Pulpit]: //blog.tomasino.org/images/from_lower_deck_to_pulpit.jpg
-  [ManyBooks.net Link]: //manybooks.net/titles/cowlingh2258822588-8.html
+  [From Lower Deck to Pulpit]: https://blog.tomasino.org/images/from_lower_deck_to_pulpit.jpg
+  [ManyBooks.net Link]: https://manybooks.net/titles/cowlingh2258822588-8.html

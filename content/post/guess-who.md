@@ -69,6 +69,6 @@ complicated by bullets.
 
 Grab the image above and email it to a friend and start a game today!
 
-  [Guess Who]: //blog.tomasino.org/images/guess-who.jpg
+  [Guess Who]: https://blog.tomasino.org/images/guess-who.jpg
 
 <!--  vim: set shiftwidth=4 tabstop=4 expandtab: -->
