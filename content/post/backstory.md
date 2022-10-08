@@ -54,4 +54,4 @@ isn't so devoid of the vigor itself.
 I should get back to it now. I just wanted to share some of the
 excitement I was feeling while it was still fresh.
 
-  [moleskine]: https://www.moleskine.com/index_eng.php
+  [moleskine]: https://www.moleskine.com/home/

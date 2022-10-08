@@ -9,7 +9,7 @@ slug: "spinning-my-wheels"
 ---
 
 I read an article in backpacker magazine this morning that told the
-[story][] of [Renata Chlumska][] and her quest to find herself though
+story of [Renata Chlumska][] and her quest to find herself though
 11,600 miles of road and sea. The Swede's history is packed with high
 adventure and endurance, but this was a new type of challenge for her.
 Chlumska is a racer by nature; comfortable only when bounding down
@@ -39,6 +39,5 @@ though the next wave, over the next mile, up the next hill. For me it is
 a matter of stripping away each piece until there is nothing left but
 me. When I am most alone and empty, I am most me.
 
-  [story]: https://seattlepi.nwsource.com/local/285337_kayak_16.html?source=mypi
-  [Renata Chlumska]: https://en.wikipedia.org/wiki/Renata_Chlumska
+  [[Renata](Renata) Chlumska]: https://en.wikipedia.org/wiki/Renata_Chlumska
   [losing her fiancée]: https://www.k2news.com/kropp.htm

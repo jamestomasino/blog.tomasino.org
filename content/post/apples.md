@@ -116,7 +116,7 @@ too.
   [MacBook Air]: https://blog.tomasino.org/images/apple-macbook-air.jpg
   [Apple Wireless Keyboard]: https://blog.tomasino.org/images/apple-wireless-keyboard.jpg
   [Kensington Bluetooth USB Adapter 2.0]: https://us.kensington.com/html/9403.html
-  [this forum]: https://www.neowin.net/forum/lofiversion/index.php/t285546.html
+  [this forum]: https://web.archive.org/web/20090822035901/https://www.neowin.net/forum/lofiversion/index.php/t285546.html
   [AutoHotKey]: https://www.autohotkey.com/
   [someone's]: https://www.autohotkey.com/forum/topic6367.html
   [script]: https://brrp.mine.nu/fnkey/files/AppleWirelessKeyboard.zip

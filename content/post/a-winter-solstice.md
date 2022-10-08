@@ -13,8 +13,6 @@ feeling of winter. Something waits beneath it; the whole story does not
 show.</span>
     - Andrew Wyeth
 
-[![Winter 08][]][]
-
 I went for a ride around the city on my scooter today. The cold was
 bitter after the warm spell of the last few days. Even so, it was
 invigorating and filled me with its deep mystery.
@@ -42,7 +40,3 @@ trying.
 Winter is my writing time. It is my time of reflection and inspiration.
 It is a time of such powerful action that even sitting in a chair by a
 fire is an activity bursting with energy; energy of the spirit.
-
-  [Winter 08]: https://farm4.static.flickr.com/3239/3125500579_7a06fa8921.jpg
-  [![Winter 08][]]: https://www.flickr.com/photos/tomasino/3125500579/
-    "Winter 08"

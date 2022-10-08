@@ -165,9 +165,3 @@ such pristine, perfect spirals of chance and being, all roads of fate
 and time across the universe converging their energies on a cosmic
 scale. And there, in the midst of all of this fantastic beauty is the
 most beautiful thing in the world. You.
-
-[![Summer's Home][]][]
-
-  [Summer's Home]: https://farm1.static.flickr.com/47/126480111_f97e5834e2_o.jpg
-  [![Summer's Home][]]: https://www.flickr.com/photos/tomasino/126480111/
-    "Summer's Home"

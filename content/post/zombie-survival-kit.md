@@ -336,7 +336,7 @@ near future. It may have to last a while.
   [Hand Axe]: https://sogknives.com/store/F09.html
   [Chainmate CM-24SSP 24-Inch Survival Pocket Chain Saw With Pouch]: https://www.amazon.com/gp/product/B0026OOS60/?tag=tomablog-20
   [ADC Medicut Shears, 7-1/4"]: https://www.amazon.com/gp/product/B0011MIQUM/?tag=tomablog-20
-  [Snow Peak Titanium Spork]: https://www.snowpeak.com/tableware/cutlery/titanium-original-spork-sct-004.html
+  [Snow Peak Titanium Spork]: https://www.snowpeak.com/products/titanium-spork
   [Entrenching Tool]: https://sogknives.com/store/F08.html
   [Leatherman]: https://www.amazon.com/gp/product/B005DI0XM4/?tag=tomablog-20
   [Beretta Airlight II Tactical Knife, 30% Serrated 2.25" Skeleton Blade]: https://www.amazon.com/dp/B0009XSKZA/?tag=tomablog-20
@@ -362,8 +362,8 @@ near future. It may have to last a while.
   [Stuff Sacks (Bear Bag, etc)]: https://www.zpacks.com/accessories/stuff_sacks.shtml
   [Tempest Tent]: https://www.blackdiamondequipment.com/en-us/shop/mountain/shelters/tempest-tent
   [Littlbug Junior Stove]: https://littlbug.com/littlbug_stove_junior.html
-  [Snow Peak Ti-Mini Solo Combo Cook Set]: https://www.snowpeak.com/cookware/backpacking/ti-mini-solo-combo-scs-004t.html
-  [Snow Peak Ti-Double H600 Stacking Mug]: https://www.snowpeak.com/tableware/cups-mugs/ti-double-h600-stacking-mug-tw-121.html
+  [Snow Peak Ti-Mini Solo Combo Cook Set]: https://www.snowpeak.com/products/ti-mini-solo-combo-scs-004t
+  [Snow Peak Ti-Double H600 Stacking Mug]: https://www.snowpeak.com/products/stacking-mug-set-h
   [Z Lite Mattress]: https://cascadedesigns.com/therm-a-rest/mattresses/fast-and-light/z-lite/product
   [Jacks-R-Better Sierra Sniveler]: https://www.jacksrbetter.com/shop/sierra-sniveller/
   [waterBOB Emergency Drinking Water Storage]: https://www.amazon.com/gp/product/B001AXLUX2/?tag=tomablog-20

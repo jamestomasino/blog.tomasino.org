@@ -74,4 +74,4 @@ enters school. We'll see how things develop, though. I've got a long
 history of big plans that go completely awry.
 
   [Icelandic Flag]: https://blog.tomasino.org/images/icelandic-flag.jpg
-  [Jure Sanguinis]: https://www.expatsinitaly.com/node/136
+  [Jure Sanguinis]: https://web.archive.org/web/20140219205529/http://www.expatsinitaly.com:80/node/136

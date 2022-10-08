@@ -74,7 +74,7 @@ interesting, you'll want to pass this one by. Enjoy!
 [Amazon Link][]
 
   [Mariette in Ecstasy]: https://blog.tomasino.org/images/mariette_in_ecstasy.jpg
-  [blog post]: https://anunslife.org/2009/03/29/mariette-in-ecstasy-at-lifeline-theatre/
+  [blog post]: https://web.archive.org/web/20110816061731/https://anunslife.org/2009/03/29/mariette-in-ecstasy-at-lifeline-theatre/
   [A Nun's Life]: https://anunslife.org/
   [Kenn]: https://musing.kennbivins.com/
   [Amazon Link]: https://www.amazon.com/Mariette-Ecstasy-Ron-Hansen/dp/0060981180/?tag=tomablog-20
