@@ -59,7 +59,7 @@ stuff is all around town and it really brightens up the place. While some
 homes and roofs are bright colors, most of the external facades in the
 city are gray concrete. Splashes of art breath in life.
 
-![Reykjavík Street Art](https://blog.tomasino.org/images/reyjkavik-street-art.jpg)
+![Reykjavík Street Art](https://blog.tomasino.org/images/reykjavik-street-art.jpg)
 
 We thought about going back to a little Italian restaurant that Leah liked
 from a previous visit, but once we reached it the place was packed with
