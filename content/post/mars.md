@@ -45,5 +45,5 @@ happen. And we need their contributions if we are ever to hope to spread
 our wings beyond this tiny blue dot.
 
   [Mars Science Laboratory 'Curiosity' Landing Image]: https://blog.tomasino.org/images/curiosity-landing.jpg
-  [Total Perspective Vortex of Hitchhiker's Guide to the Galaxy]: https://en.wikipedia.org/wiki/Technology_in_The_Hitchhiker%27s_Guide_to_the_Galaxy#Total_Perspective_Vortex
+  [Total Perspective Vortex of Hitchhiker's Guide to the Galaxy]: https://hitchhikers.fandom.com/wiki/Total_Perspective_Vortex
     "Total Perspective Vortex"
