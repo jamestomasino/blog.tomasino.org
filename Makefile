@@ -23,7 +23,7 @@ new: ## create new post
 	vim $$post_path
 
 serve: ## start hugo watcher and webserver
-	hugo server
+	hugo server -D
 
 build: ## build hugo source
 	hugo --gc --minify
