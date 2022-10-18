@@ -1,7 +1,6 @@
 ---
 date: 2022-10-18 18:02:02 +0000
 title: "Don't read the reviews"
-draft: true
 tags:
   - reviews
   - commentary
