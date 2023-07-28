@@ -137,7 +137,7 @@ And it continues! Twenty one films lead up to Avengers: Endgame. That's like
 saying you need to see every James Bond film every made to enjoy Casino Royale.
 It's utterly ridiculous!
 
-And boy to people hate it. Or rather, they love to hate on it. Now that this is
+And boy do people hate it. Or rather, they love to hate on it. Now that this is
 a successful franchise it is ripe for criticism. "All the films are the same."
 "It's not art, it's not cinema." "Everything is being Marvelified."
 
