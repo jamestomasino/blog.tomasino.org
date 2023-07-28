@@ -114,14 +114,11 @@ beyond that time: the second Spider-Man series, Green Hornet, Green Lantern,
 Kick-Ass, more X-Men. But that 2008 date started the transition point.
 
 Because also in 2008 is Iron Man, notable for being the start of the Marvel
-Cinematic Universe. We see in post-credit scene a hint of things to come in
-mentioning the Avengers Initiative. We see in post-credit scene a hint of things
-to come in mentioning the Avengers Initiative. We see in post-credit scene
-a hint of things to come in mentioning the Avengers Initiative. We see in
-a post-credit scene a hint of things to come in mentioning the Avengers
-Initiative. While the next several films will still be stand-alone origin
-stories for various superheroes, comic audiences familiar with Modern Age comics
-know what Marvel is building, and they begin to show their support for it.
+Cinematic Universe. We see in a post-credit scene a hint of things to come in
+mentioning the Avengers Initiative. While the next several films will still be
+stand-alone origin stories for various superheroes, comic audiences familiar
+with Modern Age comics know what Marvel is building, and they begin to show
+their support for it.
 
 For the first time on screen we see a hint of the macro-storyline, a film of
 films, a storyline that embraces multiple storylines like we've known in print
