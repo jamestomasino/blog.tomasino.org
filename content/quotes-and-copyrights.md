@@ -1,10 +1,8 @@
 ---
 title: "Quotes and Copyrights"
-date: "2009-04-29"
+date: "2024-02-25"
 author: "tomasino"
 slug: "quotes-and-copyrights"
-tags:
-- None
 ---
 
 Scripture, Religious Texts, and Religious Authors
@@ -22,7 +20,7 @@ by The Lockman Foundation Used by permission.
 -   O Come, O Come Emmanuel translation by John Neal
 -   St. Thérèse of Lisieux – Story of a Soul (1898)
 -   Mother Teresa, Letter to Rev. Michael van der Peet (1979)
--   Saint John of the Cross - Dark Night I (1578-1579)Mother Teresa, Letter to Rev. Michael van der Peet (1979)
+-   Saint John of the Cross - Dark Night I (1578-1579)
 -   Sister Lauren Franko O.P. - Radical Love (2009)
 -   Starhawk (Miriam Simos) - The Spiral Dance (1979)
 -   Joseph Cardinal Ratzinger (Now, Pope Benedict XVI) - Jesus of Nazareth (2007)
@@ -34,17 +32,17 @@ Other Quotation Sources
 -----------------------
 
 -   Aristotle as paraphrased by Sir Thomas Heath - Euclid’s “Elements”, Vol. I (~300BC)
--   Voltaire - A Philosophical Dictionary (1764)Aristotle as paraphrased by Sir Thomas Heath - Euclid’s “Elements”, Vol. I (~300BC)
+-   Voltaire - A Philosophical Dictionary (1764)
 -   Edmund Burke – On the Sublime and Beautiful (1757)
--   William Shakespeare – Julius Ceasar (1599)Edmund Burke – On the Sublime and Beautiful (1757)
+-   William Shakespeare – Julius Ceasar (1599)
 -   Carl Reiner – “The Life and Love of Joe Coogan“, of The Dick Van Dyke Show (1964)
 -   Jorge Luis Borges – Limits (1958)
 -   John Locke – Essay Concerning Humane Understanding (II,XI,17) (1690)
 -   Holling Clancy Holling – Paddle-To-The-Sea (1941)
--   Thomas Merton - Thoughts in Solitude (1956)Holling Clancy Holling – Paddle-To-The-Sea (1941)
+-   Thomas Merton - Thoughts in Solitude (1956)
 -   Gabriel Garcia Marquez – One Hundred Years of Solitude (1967)
--   Tracy Chapman - Fast Car (1988)Gabriel Garcia Marquez – One Hundred Years of Solitude (1967)
--   Frank Darabont (Screenplay) – The Shawshank Redemption (1994)Gabriel Garcia Marquez – One Hundred Years of Solitude (1967)
+-   Tracy Chapman - Fast Car (1988)
+-   Frank Darabont (Screenplay) – The Shawshank Redemption (1994)
 -   Ray Bradbury – All Summer in a Day (1954)
 -   Anaïs Nin - The Diary of Anaïs Nin, vol. I (1966)
 -   Lawrence Sail - Out of Silence (1995)Anaïs Nin - The Diary of Anaïs Nin, vol. I (1966)
@@ -63,17 +61,8 @@ Other Quotation Sources
 -   Percy Bysshe Shelly - Alastor! or The Spirit of Solitude (1815)
 -   Walt Whitman - Song of Myself (1856, 1860)
 -   Walt Whitman - Quotation from unknown sourceWalt Whitman - Song of Myself (1856, 1860)
--   Chief Seattle - Letter to President Lincoln (1852)Walt Whitman - Song of Myself (1856, 1860)
+-   Chief Seattle - Letter to President Lincoln (1852)
 -   Jen Kennedy - Untitled (March 16, 1997)
 -   W.B. Yeats - Keats and Embarrassment (1949), Quoted in Christopher Ricks (1976)
--   William Shakespeare - The Comedy of Errors (1592 - 1594)W.B. Yeats - Keats and Embarrassment (1949), Quoted in Christopher Ricks (1976)
+-   William Shakespeare - The Comedy of Errors (1592 - 1594)
 -   Lewis Carroll - Alice's Adventures in Wonderland (1865)
-
-Disclaimer
-----------
-
-All other referenced works are the copyright of their authors or
-publishers and are used without permission. Anyone claiming legal right
-to these works may feel free to contact me if they wish the content
-removed. Additionally, please contact me if I have overlooked any
-references that should be included here. Thanks.
