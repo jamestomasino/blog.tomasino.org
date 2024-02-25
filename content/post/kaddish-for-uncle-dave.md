@@ -23,7 +23,7 @@ pray for his soul as I might pray for a stranger, and it also didn't
 feel right to pray in the personal way I do for friends and family. It's
 not that I think he deserves more or less than anyone else, but rather
 that it's important for me to face prayer openly, honestly, and in the
-correct way for each situation. It is that right fit that was illuding
+correct way for each situation. It is that right fit that was eluding
 me.
 
 As is has been said (and I totally forget by whom), "to find something,
@@ -58,26 +58,24 @@ from sin as sons and daughters of Adam. It is a beautiful prayer to God,
 and one will notice the remarkable absence of any language about death,
 loss of life, or mourning.
 
-> <div style="width: 100%; text-align:right">
-> יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵהּ רַבָּא.
->  בְּעָלְמָא דִּי בְרָא כִרְעוּתֵהּ
->  וְיַמְלִיךְ מַלְכוּתֵהּ
->  וְיַצְמַח פֻּרְקָנֵהּ וִיקָרֵב(קיץ) מְשִׁיחֵהּ
->  בְּחַיֵּיכוֹן וּבְיוֹמֵיכוֹן
->  וּבְחַיֵּי דְכָל בֵּית יִשְׂרָאֵל
->  בַּעֲגָלָא וּבִזְמַן קָרִיב. וְאִמְרוּ אָמֵן
->  יְהֵא שְׁמֵהּ רַבָּא מְבָרַךְ
->  לְעָלַם וּלְעָלְמֵי עָלְמַיָּא
->  יִתְבָּרַךְ וְיִשְׁתַּבַּח וְיִתְפָּאַר וְיִתְרוֹמַם
->  וְיִתְנַשֵּׂא וְיִתְהַדָּר וְיִתְעַלֶּה וְיִתְהַלָּל
->  שְׁמֵהּ דְקֻדְשָׁא בְּרִיךְ הוּא.
->  לְעֵלָּא (לְעֵלָּא מִכָּל) מִן כָּל בִּרְכָתָא
->  וְשִׁירָתָא תֻּשְׁבְּחָתָא וְנֶחֱמָתָא
->  דַּאֲמִירָן בְּעָלְמָא. וְאִמְרוּ אָמֵן
-> </div>
->
-> * * * * *
->
+```
+יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵהּ רַבָּא.
+בְּעָלְמָא דִּי בְרָא כִרְעוּתֵהּ
+וְיַמְלִיךְ מַלְכוּתֵהּ
+וְיַצְמַח פֻּרְקָנֵהּ וִיקָרֵב(קיץ) מְשִׁיחֵהּ
+בְּחַיֵּיכוֹן וּבְיוֹמֵיכוֹן
+וּבְחַיֵּי דְכָל בֵּית יִשְׂרָאֵל
+בַּעֲגָלָא וּבִזְמַן קָרִיב. וְאִמְרוּ אָמֵן
+יְהֵא שְׁמֵהּ רַבָּא מְבָרַךְ
+לְעָלַם וּלְעָלְמֵי עָלְמַיָּא
+יִתְבָּרַךְ וְיִשְׁתַּבַּח וְיִתְפָּאַר וְיִתְרוֹמַם
+וְיִתְנַשֵּׂא וְיִתְהַדָּר וְיִתְעַלֶּה וְיִתְהַלָּל
+שְׁמֵהּ דְקֻדְשָׁא בְּרִיךְ הוּא.
+לְעֵלָּא (לְעֵלָּא מִכָּל) מִן כָּל בִּרְכָתָא
+וְשִׁירָתָא תֻּשְׁבְּחָתָא וְנֶחֱמָתָא
+דַּאֲמִירָן בְּעָלְמָא. וְאִמְרוּ אָמֵן
+```
+
 > May the great Name of God be exalted and sanctified, throughout the
 > world, which he has created according to his will. May his Kingship be
 > established in your lifetime and in your days, and in the lifetime of
