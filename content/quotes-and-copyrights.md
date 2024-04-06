@@ -1,6 +1,5 @@
 ---
 title: "Quotes and Copyrights"
-date: "2024-02-25"
 author: "tomasino"
 slug: "quotes-and-copyrights"
 ---
@@ -8,13 +7,7 @@ slug: "quotes-and-copyrights"
 Scripture, Religious Texts, and Religious Authors
 -------------------------------------------------
 
-Follow the hyperlinks to view the associated blog post.
-
-Scripture quotations taken from the New American Standard Bible®
-
-Copyright © 1960, 1962, 1963, 1968, 1971, 1972, 1973, 1975, 1977, 1995
-
-by The Lockman Foundation Used by permission.
+Scripture quotations taken from the New American Standard Bible® Copyright © 1960, 1962, 1963, 1968, 1971, 1972, 1973, 1975, 1977, 1995 by The Lockman Foundation Used by permission.
 
 -   St. Ignatius Loyola – Spiritual Exercises, Second Annotation (1522-1524)
 -   O Come, O Come Emmanuel translation by John Neal
