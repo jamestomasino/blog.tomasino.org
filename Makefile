@@ -1,6 +1,5 @@
 INDEX_FILES != find public/ -name 'index.html'
 SIG_FILES := $(INDEX_FILES:%.html=%.html.asc)
-GPG_FINGERPRINT="4E0FEB0E09DDD7DF"
 
 help:
 	@echo "targets:"
@@ -35,7 +34,7 @@ build: ## build hugo source
 sign: $(SIG_FILES) ## gpg sign blog content
 
 public/%.html.asc: public/%.html
-	gpg --batch --yes --local-user $(GPG_FINGERPRINT) --armor --detach-sign $<
+	@./sign.sh "$<"
 
 deploy: $(SIG_FILES) ## send built files to webserver
 	rsync -rvhe ssh --progress --delete ./public/ blog.tomasino.org:/var/www/blog.tomasino.org/
