@@ -1,7 +1,6 @@
 ---
 date: 2024-12-16 15:48:49 +0000
 title: "Jólabókaflóð"
-draft: true
 og_image: "/images/jolabokaflod-cover.jpg"
 tags:
   - christmas
