@@ -194,9 +194,19 @@ French gangster film, and the highest rated of the decade I haven't seen.
 24. [Janus
     Contemporaries](https://letterboxd.com/jbutts15/list/janus-contemporaries/)
 
+Tori et Lokita (2022)
 
+I think this one is gonna break me.
 
 25. 2010s
+
+A Beautiful Day in the Neighborhood (2019)
+
+Mr Rodgers! Except not. It's the story of Lloyd Vogel and we intersect with Mr.
+Rodgers throughout. I just watched this one last weekend and it was so
+beautiful. Many tears were shed and I love everything about what Mr. Rogers
+stood for even more now.
+
 26. [Bill Hader’s Second Closet
     Picks](https://letterboxd.com/closetpicks/list/bill-haders-second-criterion-closet-picks/)
 
@@ -206,6 +216,11 @@ Coming to terms with loss, familial ties, and a sense of freedom from
 existential sadness. Can't wait.
 
 27. 2020s
+
+TÁR (2022)
+
+I missed this when all my friends were watching and loving it. Time to catch up.
+
 28. [Noir and
     Neonoir](https://www.criterion.com/shop/collection/17-noir-and-neonoir)
 
@@ -231,6 +246,11 @@ This has been sitting in my collection for a really long time and it's a shame
 I haven't gotten to it yet.
 
 31. North American film
+
+Birdman (2014)
+
+This looks really good and I meant to see it years ago.
+
 32. [Ayo Edebiri’s Closet
     Picks](https://letterboxd.com/closetpicks/list/ayo-edebiris-criterion-closet-picks/)
 
@@ -246,27 +266,149 @@ The Munekata Sisters (1950)
 An Ozu film.
 
 34. South American film
-35. Random Number Generator (Google random number generator, set values from 1 to whatever number Criterion has listed last here. This number will change as more releases are announced so please keep up to date by using the link I have provided as I will not be updating each time Criterion makes announcements. Watch whatever movie corresponds to the spine number you are given.)
-36. AAPI Filmmakers
+
+No (2012)
+
+Fighting a dictator with joy. I think I could use this right now.
+
+35. Random Number Generator (Google random number generator, set values from
+    1 to whatever number [Criterion has listed last
+    here](https://www.criterion.com/shop/browse/list?sort=spine_number). This
+    number will change as more releases are announced so please keep up to date
+    by using the link I have provided as I will not be updating each time
+    Criterion makes announcements. Watch whatever movie corresponds to the spine
+    number you are given.)
+
+Drylongso (1998)
+
+Random number 1190
+
+36. [AAPI
+    Filmmakers](https://www.criterion.com/shop/collection/547-celebrate-aapi-filmmakers)
+
+Man Push Cart (2005)
+
+The concept caught my eye.
+
 37. Watch a film shorter than 80 minutes
+
+Bad Black (2016)
+
+So difficult to get films from Africa in these things. This looks wild. Low
+budget action comedy!
+
 38. European film
+
+8½ (1963)
+
+It's time I watch this classic.
+
 39. Cult Movies
-40. Isabella Rossellini’s Adventures in Moviegoing
-41. Winona Ryder’s Closet Picks
+
+Ganja & Hess (1973)
+
+I actually have this sitting in my collection already. It looks glorious.
+
+40. [Isabella Rossellini’s Adventures in
+    Moviegoing](https://www.criterionchannel.com/isabella-rossellini-s-adventures-in-moviegoing)
+
+La Strada (1954)
+
+Fellini in a beauty & the beast interpretation? Sounds intriguing.
+
+41. [Winona Ryder’s Closet
+    Picks](https://letterboxd.com/closetpicks/list/winona-ryders-criterion-closet-picks/)
+
+The Killing of a Chinese Bookie (1976)
+
+This didn't interest me at all, but it's in Winona's list, so I'm going for it.
+
 42. African film
-43. John Carpenter’s Top 10
+
+Tsotsi (2005)
+
+I went down this path looking for good African films last year. This is one
+I haven't gotten to yet but has solid reviews.
+
+43. [John Carpenter’s Top
+    10](https://www.criterion.com/current/top-10-lists/643-john-carpenter-s-top-10)
+
+Only Angels Have Wings (1939)
+
+The review I read sold me.
+
 44. Horror
+
+The Innocents (1961)
+
+Gothic horror at its finest!
+
 45. Asian film
-46. Dark Comedies
-47. Rachel Kushner’s Adventures in Moviegoing
+
+Yi Yi (2000)
+
+A bunch of people on Reddit say it's their favorite of all time. Gotta trust the
+strangers.
+
+46. [Dark Comedies](https://www.criterion.com/shop/collection/324-dark-comedies)
+
+The Worst Person in the World (2021)
+
+I almost picked this for another category. It looks great.
+
+47. [Rachel Kushner’s Adventures in
+    Moviegoing](https://www.criterionchannel.com/rachel-kushner-s-adventures-in-moviegoing)
+
+The Man Who Fell to Earth (1976)
+
+Lets be honest. This is for David Bowie.
+
 48. Australian film
-49. Female Filmmakers
-50. Ben Wheatley’s Closet Picks
+
+Chopper (2000)
+
+I've long had this on my list of quintessential Aussie films to watch. It's
+waiting for me on Plex already.
+
+49. [Female
+    Filmmakers](https://www.criterion.com/shop/collection/501-female-filmmakers)
+
+Smooth Talk (1985)
+
+This was the most extreme 80s cover image I've ever seen. It looks like it
+should be a Hall & Oates album. Yes, I'm picking this because of a silly
+picture. Maybe it'll be good too.
+
+50. [Ben Wheatley’s Closet
+    Picks](https://letterboxd.com/closetpicks/list/ben-wheatleys-criterion-closet-picks/)
+
+Rumble Fish (1983)
+
+Ahh! All the Zatoichi films, but I've already binged them. Curses. That would
+have been fun. I've seen most of these on the list, actually. My choices were
+this or Sweet Smell of Success (1957). I'm going with the 80s gang wars.
+
 51. A film by a director whose work you have not seen before
+
+Ishtar (1987)
+
+This is a really hard category. How do you even find directors you haven't seen
+before? What do I search? I went with women directors, found Elaine May, and
+thought I had a winner. But it looks like her best rated stuff she didn't
+direct, but instead wrote. I was reading the list aloud and Leah said, "Ishtar
+was directed by a woman? Wasn't that one of the worst films ever made? You have
+to pick that one." So here we are.
+
 52. Watch any Criterion film from your watchlist
 
-## My Picks
+Night on Earth (1991)
 
+I don't use Letterboxed, but I do have a watchlist on Plex & Trakt!
+
+---
+
+Well then. That was a lot. It took me almost 3 hours to put that together.
+Yikes! Now to get watching.
 
 
 <!--  vim: set shiftwidth=4 tabstop=4 expandtab: -->
