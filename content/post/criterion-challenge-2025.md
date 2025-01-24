@@ -180,9 +180,17 @@ there were only 4 I haven't seen already. Yikes!
 
 22. Documentary
 
+20 Feet From Stardom (2013)
 
+This sounds really engaging. A tribute to backup singers. I love things that
+shine a spotlight on the underappreciated.
 
 23. 2000s
+
+A Prophet (2009)
+
+French gangster film, and the highest rated of the decade I haven't seen.
+
 24. [Janus
     Contemporaries](https://letterboxd.com/jbutts15/list/janus-contemporaries/)
 25. 2010s
