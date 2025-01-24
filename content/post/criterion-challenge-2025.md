@@ -408,7 +408,8 @@ I don't use Letterboxed, but I do have a watchlist on Plex & Trakt!
 ---
 
 Well then. That was a lot. It took me almost 3 hours to put that together.
-Yikes! Now to get watching.
+Yikes! Part of me wanted to add in thumbnails of each of the films to this post,
+and maybe make a nice cover image to share, but I'm spent. Time to get watching!
 
 
 <!--  vim: set shiftwidth=4 tabstop=4 expandtab: -->
