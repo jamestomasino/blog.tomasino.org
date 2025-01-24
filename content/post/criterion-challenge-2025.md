@@ -193,15 +193,58 @@ French gangster film, and the highest rated of the decade I haven't seen.
 
 24. [Janus
     Contemporaries](https://letterboxd.com/jbutts15/list/janus-contemporaries/)
+
+
+
 25. 2010s
-26. Bill Hader’s Second Closet Picks
+26. [Bill Hader’s Second Closet
+    Picks](https://letterboxd.com/closetpicks/list/bill-haders-second-criterion-closet-picks/)
+
+Petite Maman (2021)
+
+Coming to terms with loss, familial ties, and a sense of freedom from
+existential sadness. Can't wait.
+
 27. 2020s
-28. Noir and Neonoir
-29. All Time Top Criterion Closet Picks
-30. Criterion Releases Never Picked in the Closet
+28. [Noir and
+    Neonoir](https://www.criterion.com/shop/collection/17-noir-and-neonoir)
+
+Leave Her to Heaven (1945)
+
+I have seen so many noir films and loved them all. This one isn't in my
+collection, but had a cool poster.
+
+29. [All Time Top Criterion Closet
+    Picks](https://letterboxd.com/closetpicks/list/all-time-top-criterion-closet-picks/)
+
+Harakiri (1962)
+
+There are so many Godzilla films in this list that I wish I could pick, but I've
+watched them all with my son. So instead I'll pick something else from Japan.
+
+30. [Criterion Releases Never Picked in the
+    Closet](https://letterboxd.com/closetpicks/list/criterion-releases-never-picked-in-the-closet/)
+
+The Third Man (1949)
+
+This has been sitting in my collection for a really long time and it's a shame
+I haven't gotten to it yet.
+
 31. North American film
-32. Ayo Edebiri’s Closet Picks
-33. Wim Wenders’ Adventures in Moviegoing
+32. [Ayo Edebiri’s Closet
+    Picks](https://letterboxd.com/closetpicks/list/ayo-edebiris-criterion-closet-picks/)
+
+High and Low (1963)
+
+Kurosawa and Mifune. How can you go wrong?
+
+33. [Wim Wenders’ Adventures in
+    Moviegoing](https://www.criterionchannel.com/wim-wenders-adventures-in-moviegoing)
+
+The Munekata Sisters (1950)
+
+An Ozu film.
+
 34. South American film
 35. Random Number Generator (Google random number generator, set values from 1 to whatever number Criterion has listed last here. This number will change as more releases are announced so please keep up to date by using the link I have provided as I will not be updating each time Criterion makes announcements. Watch whatever movie corresponds to the spine number you are given.)
 36. AAPI Filmmakers
