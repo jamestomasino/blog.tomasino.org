@@ -1,6 +1,7 @@
 ---
 date: 2025-01-29 01:18:59 +0000
 title: "Plex"
+og_image: "/images/plex-og.jpg"
 tags:
   - plex
   - media
@@ -49,12 +50,16 @@ hard. I've just been talking about films, but imagine TV shows. How do you know
 when a new episode comes out? Finally, there's other ways besides torrents to
 find things and they have their own challenges.
 
+{{< figure src="https://blog.tomasino.org/images/prowlarr.png" caption="Prowlarr" >}}
+
 So what do I do? I use **Prowlarr**, an index manager. It's entire purpose is to
 search stuff for me according to rules I set up. I tell it the quality I want
 (DVD is good enough for me. I don't need Bluray). I tell it the language I want
 (original, no dubs). I tell it a list of a bunch of torrent sites it can look
 at, and other places too. It gets to be very smart for me so when I tell it to
 find something it can do it automatically. Cool, right?
+
+{{< figure src="https://blog.tomasino.org/images/sonarr.png" caption="Sonarr" >}}
 
 It's a start. That's fine for searching, but how do I know what to search for?
 For TV shows I have another program called **Sonarr** and for films one called
@@ -63,6 +68,8 @@ they tell Prowlarr all about the episodes to go search for. Or I tell Radarr
 that I want to see the newest Godzilla film (which I will totally own already!)
 and it watches for when it is released on video or streaming so it can tell
 Prowlarr to begin the search.
+
+{{< figure src="https://blog.tomasino.org/images/radarr.png" caption="Radarr" >}}
 
 So that's it, right? Well, no. Now we're tracking and we're searching, but we're
 not *ahem* acquiring just yet. I need some downloaders for that. I won't bore
@@ -76,6 +83,8 @@ And then we're done! Nah... See, Sonarr and Radarr then can tell the downloader
 information to rename the file and sort it right into my Plex library. Pretty
 names, folder structures, etc. Everything is nice and organized, and Plex is
 automatically updated. Huzzah!
+
+{{< figure src="https://blog.tomasino.org/images/bazarr.png" caption="Bazarr" >}}
 
 So we're---hold your horses! I said earlier I like original language things.
 That means I'm going to need subtitles. And that means I need something to go
@@ -94,6 +103,8 @@ too.
 
 So there we have it. I can just tell my media library what I want and it'll show
 up automatically for me. Nice, right?
+
+{{< figure src="https://blog.tomasino.org/images/overseer.png" caption="Overseer" >}}
 
 But!!! What if you're my friend and you want something to be in my collection
 that you can see? Well, I have one last tool called **Overseer** that integrates
@@ -116,6 +127,5 @@ I have Pushbullet set up on my computer and phone, and whenever one of these
 systems does a thing, it lets me know with a push notification everywhere.
 
 Right, so I get a kick out of those notifications. They make me feel all fancy.
-
 
 <!--  vim: set shiftwidth=4 tabstop=4 expandtab: -->
