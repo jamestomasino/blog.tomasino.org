@@ -1,6 +1,7 @@
 ---
 date: 2025-02-28 17:53:31 +0000
 title: "Lenten Boycott"
+og_image: "/images/lenten-boycott.jpg"
 tags:
   - religion
   - lent
@@ -8,6 +9,8 @@ tags:
   - social justice
   - boycott
 ---
+
+{{< figure src="https://blog.tomasino.org/images/lenten-boycott.jpg"  >}}
 
 Today in the United States many people are partaking in a boycott of major
 businesses as a protest against the policies of the current administration and
