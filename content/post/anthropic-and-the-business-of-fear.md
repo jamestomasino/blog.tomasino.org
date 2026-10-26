@@ -7,8 +7,6 @@ tags:
   - marketing
 ---
 
-## The danger is the pitch
-
 I've been reading reports from the frontier AI companies, and I've increasingly
 come to a conclusion that's deeply troubling. All the stories about their models
 blackmailing employees, escaping containment, threatening to destroy humanity,
@@ -82,7 +80,7 @@ services within their supplier ecosystem. The companies writing the check are
 also the ones set to get money back through infrastructure spending.
 
 And it's not just one partnership. [Reuters
-reports](http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3W61LB?channel=frL012)
+reports](https://www.investing.com/news/stock-market-news/anthropics-518-billion-ai-buildout-hinges-largely-on-deals-that-cannot-be-canceled-filing-shows-4922031)
 Anthropic has committed more than $500 billion to six infrastructure partners
 over a decade, much of it noncancelable or payable whether or not the capacity
 is used. Amazon and Google are both major backers and major suppliers.
@@ -94,8 +92,8 @@ means real customers, paying prices that cover the cost of providing the
 service. Not another investment shell game or promise to buy capacity.
 
 Supplier revenue can look real without any of that happening. That's the whole
-problem with **circularity**. Bloomberg [flagged that
-risk](https://www.bloomberg.com/graphics/2026-ai-circular-deals/) plainly: if
+problem with **circularity**. Bloomberg flagged that
+risk plainly: if
 end-user revenue disappoints, suppliers can lose both the customer spending and
 the value in the investments they made in those customers.
 
@@ -109,7 +107,7 @@ running the business would be misleading.
 Fine, lets strip out the accounting distortion. The question remains whether the
 business can actually pay its way out of the hole.
 
-[Reuters also reports](https://www.reuters.com/legal/transactional/anthropic-opens-books-ais-explosive-growth-staggering-costs-2026-10-26/)
+Reuters also reports
 computing and infrastructure costs are expected to keep climbing and stay
 Anthropic's largest operating expense for the foreseeable future. Those massive
 future purchase commitments represent new obligations the business has to cover
@@ -126,7 +124,7 @@ a piece of it. You can't let a foreign competitor get there first.
 
 ## And now…
 
-[Reuters describes](https://www.reuters.com/legal/transactional/anthropic-opens-books-ais-explosive-growth-staggering-costs-2026-10-26/) the IPO as a way for Anthropic to raise more capital for
+Reuters describes the IPO as a way for Anthropic to raise more capital for
 expensive development and infrastructure. Another funding source while the
 long-term economics are still unsettled.
 

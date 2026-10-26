@@ -1,6 +1,6 @@
 baseurl = "https://blog.tomasino.org"
 title = "Tomasino Blog"
-languageCode = "en-us"
+locale = "en-us"
 theme = "blank"
 MetaDataFormat = "yaml"
 pygmentsCodeFences = true
