@@ -6,10 +6,11 @@ MetaDataFormat = "yaml"
 pygmentsCodeFences = true
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 [params]
-    author = "James Tomasino"
     description = "Personal blog of James Tomasino"
     og_fedi = "tomasino@tilde.zone"
-[author]
+[params.author]
     name = "James Tomasino"
 [permalinks]
   post = "/:title/"
+[markup.goldmark.renderer]
+  unsafe = true

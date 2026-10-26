@@ -19,7 +19,7 @@
     {{ end }}
     <link rel="canonical" href="{{ .Permalink }}" />
     <meta property="og:url" content="{{ .Permalink }}">
-    {{ with .Site.Params.author }}<meta name="author" rel="author" class="p-author h-card" content="{{ . }}">{{ end }}
+    {{ with .Site.Params.author.name }}<meta name="author" rel="author" class="p-author h-card" content="{{ . }}">{{ end }}
     {{ with .Site.Params.og_fedi }}<meta name="fediverse:creator" content="{{ . }}">{{ end }}
     {{- with .Site.GetPage "/" }}
       {{ range .AlternativeOutputFormats -}}{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}{{ end }}

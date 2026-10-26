@@ -1,6 +1,3 @@
-INDEX_FILES != find public/ -name 'index.html'
-SIG_FILES := $(INDEX_FILES:%.html=%.html.asc)
-
 help:
 	@echo "targets:"
 	@grep -E '^[a-zA-Z0-9_-]+:.*?## .*$$' $(MAKEFILE_LIST) \
@@ -31,12 +28,10 @@ serve: ## start hugo watcher and webserver
 build: ## build hugo source
 	hugo --gc --minify
 
-sign: $(SIG_FILES) ## gpg sign blog content
+sign: build ## build and gpg sign blog content
+	@find public/ -type f -name 'index.html' -print0 | xargs -0 -r -n 1 ./sign.sh
 
-public/%.html.asc: public/%.html
-	@./sign.sh "$<"
-
-deploy: $(SIG_FILES) build ## send built files to webserver
+deploy: sign ## build, sign, and send files to webserver
 	rsync -rvhe ssh --progress --delete ./public/ blog.tomasino.org:/var/www/blog.tomasino.org/
 
 .PHONY: new serve build deploy help sign

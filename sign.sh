@@ -15,6 +15,6 @@ fi
 if [ 1 -eq "$gen" ]; then
   folder="$(dirname "${cache}/${f}")"
   mkdir -p "$folder"
+  gpg --batch --yes --local-user "${GPG_FINGERPRINT}" --armor --detach-sign "${f}" || exit $?
   md5sum "${f}" > "${cache}/${f}.md5"
-  gpg --batch --yes --local-user ${GPG_FINGERPRINT} --armor --detach-sign "${f}"
 fi
